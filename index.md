@@ -1,18 +1,17 @@
 ---
-title: "Home"
+title: ""
 layout: single
 author: curry
 author_profile: true
 permalink: /
-header:
-  overlay_color: "#111111"
-  caption: "Curry Guinn"
-excerpt: "Teaching, research, AI, NLP, and resources about the CSPB program."
 ---
 
-## Welcome
+## Curry Guinn
 
-I am Curry Guinn, Associate Teaching Professor in the Applied Computer Science Post-Baccalaureate program at CU Boulder.
+Associate Teaching Professor in the Applied Computer Science Post-Baccalaureate Program at CU Boulder.
+
+I teach and write about computer science, AI, NLP, and computing education. This site includes information about my teaching, research, writing, and the CSPB program.
+
 
 
 ### Quick links
