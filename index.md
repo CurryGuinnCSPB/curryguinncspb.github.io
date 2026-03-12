@@ -1,6 +1,7 @@
 ---
 title: "Home"
 layout: single
+author: curry
 author_profile: true
 permalink: /
 header:
