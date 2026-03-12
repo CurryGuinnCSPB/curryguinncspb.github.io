@@ -1,6 +1,6 @@
 title: "Curry Guinn"
 description: "Teaching, research, and resources on the CU Boulder Applied Computer Science Post-Baccalaureate program"
-url: "https://curryguinn.github.io"
+url: "https://curryguinncspb.github.io"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:

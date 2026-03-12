@@ -1,6 +1,7 @@
 ---
 title: "Home"
 layout: splash
+author_profile: true
 permalink: /
 header:
   overlay_color: "#111111"
