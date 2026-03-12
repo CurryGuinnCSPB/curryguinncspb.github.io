@@ -14,6 +14,8 @@ excerpt: "Teaching, research, AI, NLP, and resources about the CSPB program."
 
 I am Curry Guinn, Associate Teaching Professor in the Applied Computer Science Post-Baccalaureate program at CU Boulder.
 
+![Test](/assets/images/headshot.jpg)
+
 ### Quick links
 
 - [Teaching](/teaching/)
