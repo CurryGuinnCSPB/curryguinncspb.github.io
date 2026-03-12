@@ -1,0 +1,32 @@
+title: "Curry Guinn"
+description: "Teaching, research, and resources on the CU Boulder Applied Computer Science Post-Baccalaureate program"
+url: "https://curryguinn.github.io"
+baseurl: ""
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+permalink: /:categories/:title/
+
+minimal_mistakes_skin: "dark"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: false
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: false
+
+collections:
+  cspb:
+    output: true
+    permalink: /cspb/:path/
+    

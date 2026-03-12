@@ -1,0 +1,14 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Research"
+    url: /research/
+  - title: "CSPB"
+    url: /cspb/
+  - title: "Blog"
+    url: /blog/
+  - title: "CV"
+    url: /cv/
+    
