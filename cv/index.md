@@ -12,37 +12,52 @@ The sections below provide a brief overview of my academic background, appointme
 
 <div>
 
-### Education
+<h3>Education</h3>
 
-**Ph.D., Computer Science**, Duke University<br>
-Dissertation: Mixed-Initiative Dialogue Management in Intelligent Systems<br><br>
+<p>
+<strong>Ph.D., Computer Science</strong>, Duke University<br>
+Dissertation: Mixed-Initiative Dialogue Management in Intelligent Systems
+</p>
 
-**M.S., Computer Science**, Duke University<br><br>
+<p>
+<strong>M.S., Computer Science</strong>, Duke University
+</p>
 
-**B.S., Computer Science and Philosophy**, Virginia Tech
+<p>
+<strong>B.S., Computer Science and Philosophy</strong>, Virginia Tech
+</p>
 
 </div>
 
 <div>
 
-### Academic Appointments
+<h3>Academic Appointments</h3>
 
-Associate Teaching Professor<br>
+<p>
+<strong>Associate Teaching Professor</strong><br>
 Applied Computer Science Post-Baccalaureate Program<br>
-University of Colorado Boulder<br><br>
+University of Colorado Boulder
+</p>
 
-Professor, Computer Science<br>
-University of North Carolina Wilmington<br><br>
+<p>
+<strong>Professor, Computer Science</strong><br>
+University of North Carolina Wilmington
+</p>
 
-Chair, Department of Computer Science<br>
-University of North Carolina Wilmington<br><br>
+<p>
+<strong>Chair, Department of Computer Science</strong><br>
+University of North Carolina Wilmington
+</p>
 
-Research Engineer and Principal Investigator<br>
+<p>
+<strong>Research Engineer and Principal Investigator</strong><br>
 RTI International
+</p>
 
 </div>
 
 </div>
+
 
 ## Research Areas
 
