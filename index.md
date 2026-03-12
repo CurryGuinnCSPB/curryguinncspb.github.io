@@ -2,9 +2,11 @@
 title: ""
 layout: single
 author: curry
-author_profile: true
+author_profile: false
 permalink: /
 ---
+
+<img src="/assets/images/headshot.jpg" width="220" style="float:right; margin-left:20px;">
 
 ## Curry Guinn
 
