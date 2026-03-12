@@ -113,3 +113,31 @@
 .contact-row a:hover {
   color: #0077cc;
 }
+
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 20px;
+  margin-top: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.course-card {
+  border: 1px solid #d8d8d8;
+  border-radius: 8px;
+  padding: 1rem 1rem 0.9rem 1rem;
+  background: #fafafa;
+}
+
+.course-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  line-height: 1.3;
+  font-size: 1.05rem;
+}
+
+.course-card p {
+  margin-bottom: 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
