@@ -32,18 +32,25 @@
   margin-bottom: 2em;
 }
 
+.page__content h2 {
+  margin-top: 2em;
+}
+
 .intro {
   display: grid;
   grid-template-columns: 220px 1fr;
   gap: 24px;
   align-items: start;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 }
 
 .intro-photo img {
-  width: 200px;
+  width: 220px;
+  max-width: 220px;
+  height: auto;
   border-radius: 6px;
   display: block;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 
 .intro-text {
