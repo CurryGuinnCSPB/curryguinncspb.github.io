@@ -141,3 +141,17 @@
   font-size: 0.95rem;
   line-height: 1.55;
 }
+
+.cv-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 800px) {
+  .cv-grid {
+    grid-template-columns: 1fr;
+  }
+}
