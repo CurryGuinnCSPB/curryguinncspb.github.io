@@ -11,6 +11,10 @@ permalink: /:categories/:title/
 
 minimal_mistakes_skin: "dark"
 
+main:
+  - title: "About"
+    url: /about/
+    
 defaults:
   - scope:
       path: ""
