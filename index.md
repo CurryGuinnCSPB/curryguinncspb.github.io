@@ -6,7 +6,6 @@ author_profile: false
 permalink: /
 ---
 
-<img src="/assets/images/headshot.jpg" width="220" style="float:right; margin-left:20px;">
 
 <div class="intro">
 
@@ -14,7 +13,7 @@ permalink: /
 
 <div>
 
-# Curry Guinn
+<h1>Curry Guinn</h1>
 
 Associate Teaching Professor  
 Applied Computer Science Post-Baccalaureate Program  
