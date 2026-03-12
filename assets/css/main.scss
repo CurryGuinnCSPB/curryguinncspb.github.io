@@ -88,3 +88,28 @@
     margin: 0 auto;
   }
 }
+
+.contact-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 22px;
+  margin-top: 1.5em;
+}
+
+.contact-row a {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.contact-row i {
+  font-size: 1.1rem;
+}
+
+.contact-row a:hover {
+  color: #0077cc;
+}

@@ -37,3 +37,35 @@ permalink: /
 - [CSPB Program](/cspb/)
 - [Blog](/blog/)
 - [CV](/cv/)
+
+
+<hr>
+
+<div class="contact-row">
+
+<a href="mailto:Curry.Guinn@colorado.edu">
+<i class="fas fa-envelope"></i>
+<span>Email</span>
+</a>
+
+<a href="https://www.colorado.edu/cs/curry-guinn">
+<i class="fas fa-university"></i>
+<span>CU Profile</span>
+</a>
+
+<a href="https://www.linkedin.com/in/curry-guinn-696685/">
+<i class="fab fa-linkedin"></i>
+<span>LinkedIn</span>
+</a>
+
+<a href="https://scholar.google.com/citations?hl=en&user=Iwkx4qwAAAAJ">
+<i class="fas fa-graduation-cap"></i>
+<span>Scholar</span>
+</a>
+
+<a href="https://www.researchgate.net/profile/Curry-Guinn">
+<i class="fab fa-researchgate"></i>
+<span>ResearchGate</span>
+</a>
+
+</div>
