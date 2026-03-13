@@ -37,6 +37,7 @@ Teaching data structures, software development, and natural language processing 
 
   <div class="intro-text">
     <div class="intro-name">Curry Guinn</div>
+
     <div class="intro-title">
       Associate Teaching Professor<br>
       Applied Computer Science Post-Baccalaureate Program<br>
@@ -44,24 +45,18 @@ Teaching data structures, software development, and natural language processing 
     </div>
 
     <p>
-      I teach computer science and work at the intersection of artificial intelligence, language, and software systems. My interests include natural language processing, AI literacy, and computing education, particularly helping students build the skills needed to move into technical careers. This site includes information about my teaching, research, writing, and resources related to the Applied Computer Science program at CU Boulder.
-    </p>
-
-    <h2>Applied Computer Science Post-Baccalaureate Program</h2>
-
-    <p>
-      The Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder is designed for students who already hold a bachelor’s degree in another field and want to build a serious foundation in computer science. Many are making a career transition into software development or related technical roles, while others are preparing for graduate study in computer science or artificial intelligence.
-    </p>
-
-    <p>
-      If you are exploring options such as a <strong>second bachelor’s degree in computer science</strong>, a <strong>post-baccalaureate computer science program</strong>, or a <strong>career change into software engineering</strong>, I have written a number of pages that explain how the program works from the perspective of someone teaching in it.
-    </p>
-
-    <p>
-      ➡ <a href="/cspb/">Learn more about the CSPB program</a>
+      I teach computer science and work at the intersection of artificial intelligence, language, and software systems. My interests include natural language processing, AI literacy, and computing education, particularly helping students build the skills needed to move into technical careers.
     </p>
   </div>
 </div>
+
+## Applied Computer Science Post-Baccalaureate Program
+
+Many of the students I work with in the Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder already hold a bachelor’s degree in another field and are returning to school to build a serious foundation in computer science. Some are making a career transition into software development or related technical roles, while others are preparing for graduate study in computer science or artificial intelligence.
+
+If you are exploring options such as a **second bachelor’s degree in computer science**, a **post-baccalaureate computer science program**, or a **career change into software engineering**, I have written a number of pages that explain how the program works from the perspective of someone teaching in it.
+
+➡ [Learn more about the CSPB program](/cspb/)
 
 ### Quick links
 
