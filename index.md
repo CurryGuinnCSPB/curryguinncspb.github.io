@@ -8,24 +8,23 @@ permalink: /
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@type": "Person",
- "name": "Curry Guinn",
- "url": "https://curryguinncspb.github.io",
- "jobTitle": "Associate Teaching Professor",
- "affiliation": {
-   "@type": "Organization",
-   "name": "University of Colorado Boulder"
- },
- "sameAs": [
-   "https://www.linkedin.com/in/curry-guinn-696685/,
-   "https://scholar.google.com/citations?user=Iwkx4qwAAAAJ&hl=en,
-   "https://www.researchgate.net/profile/Curry-Guinn",
-   "https://sites.google.com/view/curryguinn"
- ]
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Curry Guinn",
+  "url": "https://curryguinncspb.github.io",
+  "jobTitle": "Associate Teaching Professor",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Colorado Boulder"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/curry-guinn-696685/",
+    "https://scholar.google.com/citations?user=Iwkx4qwAAAAJ&hl=en",
+    "https://www.researchgate.net/profile/Curry-Guinn",
+    "https://sites.google.com/view/curryguinn"
+  ]
 }
 </script>
-
 
 <p class="landing-tagline">
 Teaching data structures, software development, and natural language processing in the Applied Computer Science program at the University of Colorado Boulder.
@@ -45,21 +44,24 @@ Teaching data structures, software development, and natural language processing 
     </div>
 
     <p>
-	
-I teach computer science and work at the intersection of artificial intelligence, language, and software systems. My interests include natural language processing, AI literacy, and computing education, particularly helping students build the skills needed to move into technical careers. This site includes information about my teaching, research, writing, and resources related to the Applied Computer Science program at CU Boulder.
+      I teach computer science and work at the intersection of artificial intelligence, language, and software systems. My interests include natural language processing, AI literacy, and computing education, particularly helping students build the skills needed to move into technical careers. This site includes information about my teaching, research, writing, and resources related to the Applied Computer Science program at CU Boulder.
+    </p>
 
-## Applied Computer Science Post-Baccalaureate Program
+    <h2>Applied Computer Science Post-Baccalaureate Program</h2>
 
-The Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder is designed for students who already hold a bachelor’s degree in another field and want to build a serious foundation in computer science. Many are making a career transition into software development or related technical roles, while others are preparing for graduate study in computer science or artificial intelligence.
+    <p>
+      The Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder is designed for students who already hold a bachelor’s degree in another field and want to build a serious foundation in computer science. Many are making a career transition into software development or related technical roles, while others are preparing for graduate study in computer science or artificial intelligence.
+    </p>
 
-If you are exploring options such as a **second bachelor’s degree in computer science**, a **post-baccalaureate computer science program**, or a **career change into software engineering**, I have written a number of pages that explain how the program works from the perspective of someone teaching in it.
+    <p>
+      If you are exploring options such as a <strong>second bachelor’s degree in computer science</strong>, a <strong>post-baccalaureate computer science program</strong>, or a <strong>career change into software engineering</strong>, I have written a number of pages that explain how the program works from the perspective of someone teaching in it.
+    </p>
 
-➡ [Learn more about the CSPB program](/cspb/)
+    <p>
+      ➡ <a href="/cspb/">Learn more about the CSPB program</a>
     </p>
   </div>
 </div>
-
-
 
 ### Quick links
 
@@ -68,7 +70,6 @@ If you are exploring options such as a **second bachelor’s degree in computer 
 - [CSPB Program](/cspb/)
 - [Blog](/blog/)
 - [CV](/cv/)
-
 
 <hr>
 
