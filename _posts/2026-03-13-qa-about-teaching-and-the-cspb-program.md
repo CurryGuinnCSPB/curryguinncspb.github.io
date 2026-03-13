@@ -1,17 +1,24 @@
 ---
+---
 title: "Teaching Computer Science and the CSPB Program: A Q&A"
 layout: single
-categories: [blog]
-tags: [computer science education, CSPB, CU Boulder, career change, online learning]
-excerpt: "Reflections on teaching computer science, the Applied Computer Science Post-Baccalaureate program at CU Boulder, and advice for students entering the field."
+date: 2026-03-13
+categories: blog
+excerpt: "A conversation about teaching computer science, career transitions into the field, and the Applied Computer Science Post-Baccalaureate program at CU Boulder."
+tags: [CSPB, computer science education, career change, CU Boulder]
+header:
+  teaser: /assets/images/boulder-flatirons.jpg
+---
 ---
 
 Earlier this year the CU Boulder Online team published a short Q&A with me about teaching computer science and the Applied Computer Science Post-Baccalaureate program. The interview discusses my background, what makes the program distinctive, and some practical advice for students who are learning computer science or transitioning into the field.
 
 You can read the original interview here:
 
-**Original article:**  
-https://online.colorado.edu/2026/02/24/tips-success-both-university-and-life-qa-curry-guinn
+Originally published on the CU Boulder Online website.
+
+➡ [Read the original interview](https://online.colorado.edu/2026/02/24/tips-success-both-university-and-life-qa-curry-guinn)
+
 
 Below is a lightly edited version of the interview content with a few highlights.
 
@@ -19,7 +26,7 @@ Below is a lightly edited version of the interview content with a few highlights
 
 ## Background
 
-I currently teach in the **Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder**, with courses including natural language processing, data structures, and professional development in computer science. Before joining CU Boulder in 2024, I spent ten years in industry as a research engineer at RTI International and then twenty years as a professor at the University of North Carolina Wilmington. :contentReference[oaicite:1]{index=1}
+I currently teach in the **Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder**, with courses including natural language processing, data structures, and professional development in computer science. Before joining CU Boulder in 2024, I spent ten years in industry as a research engineer at RTI International and then twenty years as a professor at the University of North Carolina Wilmington. 
 
 My academic background combines **computer science and philosophy**, which led naturally to interests in artificial intelligence and questions about how computers represent knowledge and reasoning.
 
