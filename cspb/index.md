@@ -1,12 +1,33 @@
 ---
-title: "CSPB Program"
+title: "Applied Computer Science Post-Baccalaureate Program (CSPB)"
 layout: single
 permalink: /cspb/
+excerpt: "Overview of the Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder, including courses, pathways, and student experience."
+
 ---
 
-The Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder is designed for students who already hold a bachelor’s degree and want to develop serious skills in computer science. Many students come to the program after working in another field and decide they want to build the technical foundation needed to move into software development, artificial intelligence, data science, or related areas. The program is fully online and flexible enough to support working professionals, but it is also rigorous and structured in ways that reward steady progress and real engagement with the material. 
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "EducationalOccupationalProgram",
+ "name": "Applied Computer Science Post-Baccalaureate Program",
+ "description": "Online computer science degree for students who already hold a bachelor's degree. The program builds foundations in programming, data structures, algorithms, and modern areas such as artificial intelligence and data science.",
+ "provider": {
+   "@type": "CollegeOrUniversity",
+   "name": "University of Colorado Boulder",
+   "url": "https://online.colorado.edu/applied-computer-science-bs"
+ },
+ "educationalCredentialAwarded": "Bachelor of Science in Applied Computer Science",
+ "occupationalCategory": "Software Developer",
+ "programType": "Post-Baccalaureate",
+ "url": "https://curryguinncspb.github.io/cspb/"
+}
+</script>
 
-I teach several courses in the program and help work on student experience initiatives such as program pathways, advising resources, and outreach. What makes the program distinctive is the students themselves. Most have already built careers or academic backgrounds in other disciplines and bring that perspective into their technical work. The result is a learning environment where students are motivated, thoughtful, and focused on building real skills rather than simply completing coursework. 
+The Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder is designed for students who already hold a bachelor’s degree and want to build a strong foundation in computer science. Many students enter the program as career changers or working professionals who want to transition into software development, data science, or other technical roles. Others are preparing for graduate study in computer science or related fields. The program is fully online and flexible enough to accommodate students with full-time jobs, but it is also structured and rigorous in ways that reward steady progress and sustained engagement with the material.
+
+I teach several courses in the program, including data structures, software development methodologies and tools, professional development in computer science, and natural language processing. I am also involved in broader student experience initiatives such as program pathways, advising resources, and outreach to prospective students. One of the distinctive features of the program is the background students bring with them. Many arrive with experience in other disciplines such as engineering, business, the sciences, or the humanities. That diversity often leads to thoughtful discussions and interesting projects as students connect computer science concepts with the domains they already know well.
+
 
 <div class="cspb-grid">
 
@@ -53,6 +74,12 @@ Although the program is fully online, courses are structured and interactive. St
 </div>
 
 </div>
+
+## How Students Typically Use the Program
+
+Students enter the program with different goals. Some are preparing to transition into software engineering or other technical roles and want a strong foundation in programming, data structures, and software development practices. Others use the program as preparation for graduate study in computer science, data science, or artificial intelligence. Many students also combine their new computing skills with experience from a previous field such as finance, engineering, healthcare, education, or the sciences.
+
+Because students already hold a bachelor’s degree when they enter the program, they often bring a level of focus and maturity that shapes the learning environment in productive ways. Courses emphasize building real systems, writing code, and explaining design decisions clearly. Over time students develop both technical skills and the professional habits needed to work effectively in computing-related fields.
 
 
 ## Why this page exists
