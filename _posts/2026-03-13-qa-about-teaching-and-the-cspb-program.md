@@ -1,5 +1,4 @@
 ---
----
 title: "Teaching Computer Science and the CSPB Program: A Q&A"
 layout: single
 date: 2026-03-13
@@ -9,7 +8,7 @@ tags: [CSPB, computer science education, career change, CU Boulder]
 header:
   teaser: /assets/images/boulder-flatirons.jpg
 ---
----
+
 
 Earlier this year the CU Boulder Online team published a short Q&A with me about teaching computer science and the Applied Computer Science Post-Baccalaureate program. The interview discusses my background, what makes the program distinctive, and some practical advice for students who are learning computer science or transitioning into the field.
 
