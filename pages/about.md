@@ -36,8 +36,8 @@ More recently I joined the University of Colorado Boulder to help grow the Appli
 
 ## Personal Interests
 
-Outside of the classroom I try to spend as much time outdoors as possible. Birding and hiking are two activities I particularly enjoy. Both reward patience and careful observation, habits that also translate well to computer science.
+Outside of the classroom I try to spend as much time outdoors as possible. Birding and hiking are two activities I particularly enjoy. 
 
 Travel is another long-standing interest. Recent trips have included Oaxaca in Mexico, Monteverde in Costa Rica, Portugal, Iceland, and Edinburgh in Scotland. Closer to home I enjoy exploring Rocky Mountain National Park and the Sky Islands region of southern Arizona, both of which are excellent places for hiking and birding.
 
-Travel offers a chance to experience landscapes and cultures that are very different from my everyday environment. Those experiences have a way of reshaping how you think about the world, and that perspective often finds its way back into the classroom.
+
