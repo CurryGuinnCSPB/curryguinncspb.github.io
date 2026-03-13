@@ -1,15 +1,18 @@
 ---
-title: "Getting a Second Bachelor’s Degree in Computer Science"
+title: "Second Bachelor’s Degree in Computer Science | Career Change Path"
 layout: single
 permalink: /second-bachelors-computer-science/
-excerpt: "Why many professionals pursue a second bachelor’s degree in computer science and how post-baccalaureate programs can support career transitions."
+excerpt: "Thinking about a second bachelor’s degree in computer science? A guide for career changers and professionals exploring post-baccalaureate computer science programs."
 ---
 
-Many of the students I talk with are not starting from scratch. They already have a bachelor’s degree in another field but have developed an interest in computer science somewhere along the way. Sometimes that interest comes from work. Sometimes it comes from tinkering with programming on their own. Either way, they reach a point where they want a deeper and more systematic understanding of how computing actually works.
+Many of the people who reach this page are exploring the idea of a second bachelor’s degree in computer science. They already hold a degree in another field but have developed an interest in computing somewhere along the way. Sometimes that interest grows out of work. Other times it begins with learning to program on their own.
 
-One path that often makes sense for those students is pursuing a second bachelor’s degree in computer science. Unlike a traditional undergraduate program, these programs are usually designed for people who already have a degree and are returning to school with a specific goal in mind. Most of the students I meet are career changers or working professionals who want to transition into software development, data science, or related technical roles. Others are thinking about graduate study and want to build the core computer science foundations that those programs expect.
+At some point the question becomes how to turn that interest into something more substantial. Some people move into technical roles through self-study or short training programs. That path does work for some students. But many of the people I talk with are looking for something deeper. They want to understand how computing actually works, not just how to write code that happens to run.
 
-At the University of Colorado Boulder, the Applied Computer Science Post-Baccalaureate program is designed for exactly this kind of student. Many of the people who enter the program already have backgrounds in fields such as engineering, business, the sciences, or the humanities. What they are looking for is a structured way to work through the central ideas of computer science, including programming, data structures, algorithms, and software development practices. Over time those foundations open the door to a wide range of technical paths.
+For those students, a second bachelor’s degree or post-baccalaureate computer science program can provide a structured path into the field. I regularly meet students whose earlier degrees were in engineering, the sciences, business, education, or the humanities. What they are looking for is a systematic way to build the core ideas of computer science and apply them to real problems.
 
-➡ Learn more about the program here:  
-[CSPB Program Overview](/cspb/)
+One of the things that sometimes surprises people is how much of computer science goes beyond learning a programming language. Languages change all the time. The deeper ideas tend to last much longer. When students work through topics such as data structures, algorithms, and software design, they begin to see how large systems are organized and why certain approaches work better than others. That kind of understanding tends to stay useful even as specific technologies evolve.
+
+Another reason students pursue a second bachelor’s degree in computer science is flexibility. Many students who begin exploring a **[career change into computer science](/career-change-computer-science/)** are thinking about how software skills might open the door to different technical directions over time. Some graduates move into software development. Others become interested in areas such as machine learning, data engineering, cybersecurity, or distributed systems. It is much easier to move across those areas when the underlying foundations are in place.
+
+In the **[Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder](/cspb/)**, most of the students I work with fall into exactly this category. They already have one degree and are returning to school with a fairly clear sense of purpose. Many are working professionals who are building their computing skills steadily while balancing other responsibilities. One of the things I enjoy most about teaching in the program is seeing how students connect computer science ideas with the experience they already bring from other fields.
