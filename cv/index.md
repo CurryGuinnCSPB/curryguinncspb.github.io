@@ -115,7 +115,7 @@ Guinn, C., &amp; Palmer, D. (2014). Human Perceptions of Altruism in Artificial 
 <div></div>
 <div class="pub-entry">
 Brown, R., &amp; Guinn, C. (2014). Developing Game-Playing Agents That Adapt to User Strategies: A Case Study. IEEE Symposium on Intelligent Agents.<br>
-<a href="https://ieeexplore.ieee.org/document/7009458 target="_blank" rel="noopener">IEEE</a>
+<a href="https://ieeexplore.ieee.org/document/7009458" target="_blank" rel="noopener">IEEE</a>
 </div>
 
 <div class="pub-year">2013</div>
