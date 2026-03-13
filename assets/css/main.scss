@@ -169,3 +169,30 @@
     grid-template-columns: 1fr;
   }
 }
+
+.pub-list {
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  gap: 10px 18px;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.pub-year {
+  font-weight: 600;
+  color: #555;
+}
+
+.pub-entry {
+  line-height: 1.5;
+}
+
+@media (max-width: 700px) {
+  .pub-list {
+    grid-template-columns: 1fr;
+  }
+
+  .pub-year {
+    margin-top: 1rem;
+  }
+}

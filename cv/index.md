@@ -68,14 +68,80 @@ Computing Education
 
 ## Selected Publications
 
-Guinn, C. I.  
-Mixed-Initiative Interaction in Dialogue Systems.
+<div class="pub-list">
 
-Guinn, C. I., et al.  
-Responsive Virtual Human Technologies for Training Environments.
+<div class="pub-year">2023</div>
+<div class="pub-entry">
+Guinn, C. (2023). Assessing Author Personality Types Using ChatGPT. 25th International Conference on Artificial Intelligence, Las Vegas, USA.
+</div>
 
-Guinn, C. I., et al.  
-Natural Language Processing Methods for Activity and Exposure Analysis.
+<div class="pub-year">2020</div>
+<div class="pub-entry">
+Guinn, C. (2020). Limits of the Technology Singularity. Proceedings of the 33rd International Florida Artificial Intelligence Research Society Conference (FLAIRS-33).
+</div>
+
+<div class="pub-year">2018</div>
+<div class="pub-entry">
+Guinn, C. (2018). Runaway AI. In *Posthumanism: The Future of Homo Sapiens*. MacMillan Reference, USA.
+</div>
+
+<div class="pub-year">2014</div>
+<div class="pub-entry">
+Guinn, C., Singer, B., & Habash, A. (2014). A Comparison of Syntax, Semantics, and Pragmatics in Spoken Language among Residents with Alzheimer’s Disease in Managed-Care Facilities. IEEE Symposium on Computational Intelligence in Healthcare and E-Health.
+</div>
+
+<div class="pub-year">2014</div>
+<div class="pub-entry">
+Guinn, C., & Palmer, D. (2014). Human Perceptions of Altruism in Artificial Agents. IEEE Symposium Series on Intelligent Agents.
+</div>
+
+<div class="pub-year">2014</div>
+<div class="pub-entry">
+Brown, R., & Guinn, C. (2014). Developing Game-Playing Agents That Adapt to User Strategies: A Case Study. IEEE Symposium on Intelligent Agents.
+</div>
+
+<div class="pub-year">2013</div>
+<div class="pub-entry">
+Dunn, E., & Guinn, C. (2013). Computational Methods for Determining the Similarity between Ancient Greek Manuscripts. International Conference on Artificial Intelligence.
+</div>
+
+<div class="pub-year">2012</div>
+<div class="pub-entry">
+Guinn, C., & Habash, A. (2012). Language Analysis of Speakers with Dementia of the Alzheimer’s Type. AAAI Fall Symposium.
+</div>
+
+<div class="pub-year">2012</div>
+<div class="pub-entry">
+Komisin, M., & Guinn, C. (2012). Identifying Personality Types Using Document Classification Methods. International Florida Artificial Intelligence Research Society Conference (FLAIRS).
+</div>
+
+<div class="pub-year">2012</div>
+<div class="pub-entry">
+Green, N., Guinn, C., & Smith, R. (2012). Assisting Social Conversation between Persons with Alzheimer’s Disease and their Conversational Partners. Workshop on Speech and Language Processing for Assistive Technologies (NAACL-HLT).
+</div>
+
+</div>
+
+## Selected Earlier Publications
+
+<div class="pub-list">
+
+<div class="pub-year">2006</div>
+<div class="pub-entry">
+Link, M., Armsby, P., Hubal, R., & Guinn, C. (2006). Accessibility and Acceptance of Responsive Virtual Human Technology as a Survey Interviewer Training Tool. *Computers in Human Behavior*, 22(3), 412-426.
+</div>
+
+<div class="pub-year">1999</div>
+<div class="pub-entry">
+Guinn, C. (1999). Evaluating Mixed-Initiative Dialog. *IEEE Intelligent Systems*, 14(5), 21-23.
+</div>
+
+<div class="pub-year">1998</div>
+<div class="pub-entry">
+Guinn, C. (1998). An Analysis of Initiative Selection in Collaborative Task-Oriented Discourse. *User Modeling and User-Adapted Interaction*, 8(3-4), 255-314. Also published in *Computational Models of Mixed-Initiative Interaction*, Kluwer Academic Publishers, 1999.
+</div>
+
+</div>
 
 Additional publications are listed in the full CV.
 
@@ -90,10 +156,3 @@ External funding across projects totals approximately $2.3M.
 Chair or committee member for more than thirty student theses and projects, including undergraduate honors theses and master's research projects.
 
 Many of these projects have resulted in publications, conference presentations, and software systems developed in collaboration with students.
-
-## Professional Service
-
-Department Chair, Computer Science, UNCW  
-Reviewer for conferences and journals in artificial intelligence, natural language processing, and human-computer interaction.
-
-Conference presentations, invited talks, and keynote addresses on AI, language technologies, and computing education.
