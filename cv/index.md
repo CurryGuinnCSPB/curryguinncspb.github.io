@@ -80,6 +80,16 @@ Guinn, C. (2023). Assessing Author Personality Types Using ChatGPT. 25th Interna
 Guinn, C. (2020). Limits of the Technology Singularity. Proceedings of the 33rd International Florida Artificial Intelligence Research Society Conference (FLAIRS-33).
 </div>
 
+<div></div>
+<div class="pub-entry">
+Layman, L. M., Guinn, C. I., Song, Y. (April (2nd Quarter/Spring) 2020). Toward Predicting Success and Failure in CS2: A Mixed-Method Analysis. Tampa, FL: ACMSE 2020: The Annual ACM Southeast Conference.
+</div>
+
+<div class="pub-year">2019</div>
+<div class="pub-entry">
+Schulze S., Pence T., Irvine N., Guinn C. (2019) The Effects of Embodiment in Virtual Reality on Implicit Gender Bias. In: Chen J., Fragomeni G. (eds) Virtual, Augmented and Mixed Reality. Multimodal Interaction. HCII 2019. Lecture Notes in Computer Science, vol 11574. Springer.
+</div>
+
 <div class="pub-year">2018</div>
 <div class="pub-entry">
 Guinn, C. (2018). Runaway AI. In *Posthumanism: The Future of Homo Sapiens*. MacMillan Reference, USA.
@@ -90,12 +100,12 @@ Guinn, C. (2018). Runaway AI. In *Posthumanism: The Future of Homo Sapiens*. Mac
 Guinn, C., Singer, B., & Habash, A. (2014). A Comparison of Syntax, Semantics, and Pragmatics in Spoken Language among Residents with Alzheimer’s Disease in Managed-Care Facilities. IEEE Symposium on Computational Intelligence in Healthcare and E-Health.
 </div>
 
-<div class="pub-year">2014</div>
+<div></div>
 <div class="pub-entry">
 Guinn, C., & Palmer, D. (2014). Human Perceptions of Altruism in Artificial Agents. IEEE Symposium Series on Intelligent Agents.
 </div>
 
-<div class="pub-year">2014</div>
+<div></div>
 <div class="pub-entry">
 Brown, R., & Guinn, C. (2014). Developing Game-Playing Agents That Adapt to User Strategies: A Case Study. IEEE Symposium on Intelligent Agents.
 </div>
