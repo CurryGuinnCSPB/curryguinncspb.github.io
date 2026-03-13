@@ -151,6 +151,11 @@ Guinn, C. (1999). Evaluating Mixed-Initiative Dialog. *IEEE Intelligent Systems*
 Guinn, C. (1998). An Analysis of Initiative Selection in Collaborative Task-Oriented Discourse. *User Modeling and User-Adapted Interaction*, 8(3-4), 255-314. Also published in *Computational Models of Mixed-Initiative Interaction*, Kluwer Academic Publishers, 1999.
 </div>
 
+<div class="pub-year">1996</div>
+<div class="pub-entry">
+Guinn, C. (1996). Mechanisms for Mixed-Initiative Human-Computer Collaborative Discourse, in Proceedings of the 34th Annual Meeting of the Association for Computational Linguistics, 1996.
+</div>
+
 </div>
 
 Additional publications are listed in the full CV.
