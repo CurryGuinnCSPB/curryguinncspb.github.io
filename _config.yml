@@ -35,6 +35,8 @@ collections:
     output: true
     permalink: /cspb/:path/
 
+author:
+  name: Curry Guinn
 
-  
+lang: en  
   

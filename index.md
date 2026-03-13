@@ -6,6 +6,26 @@ author_profile: false
 permalink: /
 ---
 
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Person",
+ "name": "Curry Guinn",
+ "url": "https://curryguinncspb.github.io",
+ "jobTitle": "Associate Teaching Professor",
+ "affiliation": {
+   "@type": "Organization",
+   "name": "University of Colorado Boulder"
+ },
+ "sameAs": [
+   "https://www.linkedin.com/in/curry-guinn-696685/,
+   "https://scholar.google.com/citations?user=Iwkx4qwAAAAJ&hl=en,
+   "https://www.researchgate.net/profile/Curry-Guinn",
+   "https://sites.google.com/view/curryguinn"
+ ]
+}
+</script>
+
 
 <p class="landing-tagline">
 Teaching data structures, software development, and natural language processing in the Applied Computer Science program at the University of Colorado Boulder.
