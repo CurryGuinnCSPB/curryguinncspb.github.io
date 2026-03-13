@@ -61,7 +61,7 @@ The official university pages are the authoritative source for admissions requir
 
 In my experience, the program works best for students who approach computer science as a craft. The students who thrive are the ones who show up consistently, ask thoughtful questions, and build real systems over time. If you do that, the program gives you the structure and community to make serious progress.
 
-## Official Links
+## Official Program Information
 
 - [Official CU Boulder CSPB program page](https://online.colorado.edu/applied-computer-science-bs)
 - [Official application page](https://online.colorado.edu/applied-computer-science-bs/admissions)

@@ -7,6 +7,10 @@ permalink: /
 ---
 
 
+<p class="landing-tagline">
+Teaching computer science, artificial intelligence, and natural language processing at the University of Colorado Boulder.
+</p>
+
 <div class="intro">
   <div class="intro-photo">
     <img src="/assets/images/headshot.jpg" alt="Curry Guinn">
@@ -21,9 +25,7 @@ permalink: /
     </div>
 
     <p>
-      I teach and write about computer science, artificial intelligence,
-      natural language processing, and computing education. This site includes
-      information about my teaching, research, writing, and resources about the CSPB program.
+I teach computer science and work at the intersection of artificial intelligence, language, and software systems. My interests include natural language processing, AI literacy, and helping students transition into technical careers. This site includes information about my teaching, research, writing, and resources related to the Applied Computer Science program at CU Boulder.
     </p>
   </div>
 </div>
