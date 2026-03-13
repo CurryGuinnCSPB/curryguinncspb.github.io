@@ -196,3 +196,16 @@
     margin-top: 1rem;
   }
 }
+
+/* External link icon for publication links */
+
+.pub-entry a::after {
+  content: " ↗";
+  font-size: 0.85em;
+  margin-left: 3px;
+  color: #888;
+}
+
+.pub-entry a:hover::after {
+  color: #444;
+}
