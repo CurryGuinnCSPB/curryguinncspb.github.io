@@ -94,16 +94,18 @@ In my experience, the program works best for students who approach computer scie
 - [Official CU Boulder CSPB program page](https://online.colorado.edu/applied-computer-science-bs)
 - [Official application page](https://online.colorado.edu/applied-computer-science-bs/admissions)
 
-## Related Pages
+## Guides for Prospective Computer Science Students
 
-- [Getting a second bachelor’s degree in computer science](/second-bachelors-computer-science/)
-- [Transitioning into computer science as a career changer](/career-change-computer-science/)
-- [Post-baccalaureate computer science FAQ](/post-baccalaureate-computer-science-faq/)
-- [Is a post-baccalaureate computer science degree worth it?](/is-post-bacc-computer-science-worth-it/)
+Students who are exploring a second bachelor’s degree in computer science or considering a transition into software development often have similar questions. The pages below address some of the most common topics students ask about when researching post-baccalaureate computer science programs.
+
 - [Is this program right for you?](/cspb/is-this-program-for-you/)
 - [What you learn](/cspb/what-you-learn/)
-- [Pathways](/cspb/pathways/)
+- [Pathways through the program](/cspb/pathways/)
 - [Student projects](/cspb/student-projects/)
+- [Career change into computer science](/career-change-computer-science/)
+- [Second bachelor’s degree in computer science](/second-bachelors-computer-science/)
+- [Is a post-baccalaureate computer science degree worth it?](/is-post-bacc-computer-science-worth-it/)
+- [Post-baccalaureate computer science FAQ](/post-baccalaureate-computer-science-faq/)
 
 ## More About Me
 
