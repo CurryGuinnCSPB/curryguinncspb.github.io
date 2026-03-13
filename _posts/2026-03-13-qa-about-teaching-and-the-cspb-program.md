@@ -94,4 +94,4 @@ If you are considering a transition into computer science or looking for an onli
 I have a separate page on this site that describes the program from a faculty perspective, including the kinds of courses students take, the pathways they often follow, and the types of projects they build.
 
 ➡ Learn more about the program here:  
-/cspb/
+[CSPB Program Overview](/cspb/)
