@@ -5,6 +5,7 @@ baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
 
 markdown: kramdown
 permalink: /:categories/:title/
@@ -33,4 +34,7 @@ collections:
   cspb:
     output: true
     permalink: /cspb/:path/
-    
+
+
+  
+  

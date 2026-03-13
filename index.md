@@ -8,7 +8,7 @@ permalink: /
 
 
 <p class="landing-tagline">
-Teaching computer science, artificial intelligence, and natural language processing at the University of Colorado Boulder.
+Teaching data structures, software development, and natural language processing in the Applied Computer Science program at the University of Colorado Boulder.
 </p>
 
 <div class="intro">
