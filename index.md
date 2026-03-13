@@ -51,6 +51,7 @@ I teach computer science and work at the intersection of artificial intelligence
 ## Applied Computer Science Post-Baccalaureate Program
 
 The Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder is designed for students who already hold a bachelor’s degree in another field and want to build a serious foundation in computer science. Many are making a career transition into software development or related technical roles, while others are preparing for graduate study in computer science or artificial intelligence.
+
 If you are exploring options such as a **second bachelor’s degree in computer science**, a **post-baccalaureate computer science program**, or a **career change into software engineering**, I have written a number of pages that explain how the program works from the perspective of someone teaching in it.
 
 ➡ [Learn more about the CSPB program](/cspb/)
