@@ -139,7 +139,7 @@ Komisin, M., &amp; Guinn, C. (2012). Identifying Personality Types Using Documen
 <div></div>
 <div class="pub-entry">
 Green, N., Guinn, C., &amp; Smith, R. (2012). Assisting Social Conversation between Persons with Alzheimer’s Disease and their Conversational Partners. Workshop on Speech and Language Processing for Assistive Technologies (NAACL-HLT).<br>
-<a href="https://aclanthology.org/W12-2906/ target="_blank" rel="noopener">ACL</a>
+<a href="https://aclanthology.org/W12-2906/" target="_blank" rel="noopener">ACL</a>
 </div>
 
 </div>
@@ -174,7 +174,6 @@ Guinn, C. (1996). Mechanisms for Mixed-Initiative Human-Computer Collaborative D
 
 </div>
 
-</div>
 
 Additional publications are listed in the full CV.
 
