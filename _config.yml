@@ -9,6 +9,7 @@ plugins:
 
 markdown: kramdown
 permalink: /:categories/:title/
+logo: /assets/images/headshot.jpg
 
 minimal_mistakes_skin: "dark"
 
@@ -37,6 +38,11 @@ collections:
 
 author:
   name: Curry Guinn
+    links:
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/curry-guinn-696685/
+    - label: Google Scholar
+      url: https://scholar.google.com/citations?user=Iwkx4qwAAAAJ&hl=en 
 
 lang: en  
   

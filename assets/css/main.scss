@@ -281,3 +281,32 @@
   padding-bottom: 0.5rem;
   border-bottom: 1px solid #e3e3e3;
 }
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.card-pathway {
+  padding: 1.3rem;
+  border-radius: 10px;
+  border: 1px solid #e6e6e6;
+  background: #fafafa;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card-pathway:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.card-pathway h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+.card-pathway p {
+  margin-bottom: 0;
+}
