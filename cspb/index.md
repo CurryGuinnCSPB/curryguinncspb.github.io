@@ -105,7 +105,7 @@ Students who are exploring a second bachelor’s degree in computer science or c
 - [Career change into computer science](/career-change-computer-science/)
 - [Second bachelor’s degree in computer science](/second-bachelors-computer-science/)
 - [Is a post-baccalaureate computer science degree worth it?](/is-post-bacc-computer-science-worth-it/)
-- [Post-baccalaureate computer science FAQ](/post-baccalaureate-computer-science-faq/)
+- [Post-baccalaureate computer science FAQ](/cspb/post-baccalaureate-computer-science-faq/)
 
 ## More About Me
 
