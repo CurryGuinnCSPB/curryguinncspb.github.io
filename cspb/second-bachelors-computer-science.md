@@ -1,8 +1,8 @@
 ---
-title: "Second Bachelor’s Degree in Computer Science | Career Change Path"
+title: "Second Bachelor’s Degree in Computer Science (Post-Baccalaureate CS Programs)"
 layout: single
 permalink: /second-bachelors-computer-science/
-excerpt: "Thinking about a second bachelor’s degree in computer science? A guide for career changers and professionals exploring post-baccalaureate computer science programs."
+excerpt: "What to know about earning a second bachelor’s degree in computer science, including post-baccalaureate programs designed for career changers and professionals."
 ---
 
 Many of the people who reach this page are exploring the idea of a second bachelor’s degree in computer science. They already hold a degree in another field but have developed an interest in computing somewhere along the way. Sometimes that interest grows out of work. Other times it begins with learning to program on their own.

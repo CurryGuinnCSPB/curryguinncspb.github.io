@@ -1,5 +1,5 @@
 ---
-title: "Post-Baccalaureate Computer Science FAQ"
+title: "title: "Post-Baccalaureate Computer Science Program FAQ""
 layout: single
 permalink: /post-baccalaureate-computer-science-faq/
 excerpt: "Common questions about post-baccalaureate computer science programs, second bachelor's degrees in computer science, and career transitions into computing."

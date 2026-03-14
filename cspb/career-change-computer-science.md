@@ -1,5 +1,5 @@
 ---
-title: "Career Change into Computer Science | Transition to Software Development"
+title: "Career Change into Computer Science or Software Engineering"
 layout: single
 permalink: /career-change-computer-science/
 excerpt: "Advice for professionals considering a career change into computer science, software development, or data science."
@@ -16,6 +16,21 @@ Computer science is not only about learning a programming language. It is also a
 That is one reason many career changers look at post-baccalaureate computer science programs. These programs are designed for students who already hold a bachelor’s degree but want to build the core foundations of computer science in a systematic way. Students move through topics such as programming, data structures, algorithms, and software development practices while gradually building the skills needed for technical work.
 
 In the Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder(/cspb/), many of the students fall into this category. They are professionals who are balancing work, family, and coursework while steadily building their knowledge of computing. One of the things I enjoy most about teaching in the program is seeing the different perspectives students bring from their previous careers. Those perspectives often lead to thoughtful questions and interesting projects as students connect computer science ideas with the domains they already know well.
+
+
+
+## Different paths people consider
+
+Before deciding to pursue a program like this, many people spend some time looking at the different ways people move into software development.
+
+Some focus on self-study. Today there are many high-quality tutorials, textbooks, and online courses, and motivated learners can make meaningful progress that way.
+
+Others enroll in coding bootcamps. These programs are usually short and intensive and often focus on specific development tools or web technologies.
+
+Another option is a structured computer science program designed for students who already hold a bachelor’s degree in another field. These programs move more deliberately through the core ideas of computing, including programming, data structures, algorithms, and software systems.
+
+Different approaches work for different people. What matters most is choosing a path that fits your goals, your schedule, and the kind of understanding you want to build over time.
+
 
 ➡ Learn more about the program here:  
 [CSPB Program Overview](/cspb/)
