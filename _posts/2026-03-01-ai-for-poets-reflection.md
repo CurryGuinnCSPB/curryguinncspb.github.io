@@ -26,9 +26,14 @@ toc: false
 
 Recently we hosted **Ben Snyder**, Senior Applied Scientist at Amazon Web Services, for a talk in the CSPB Speaker Series titled *AI for Poets (or Poets for AI)*.
 
+<figure class="align-left" style="width:250px">
+  <img src="/assets/images/speaker-series/ai-for-poets/ben-snyder.jpg" alt="Ben Snyder speaking during the CSPB Speaker Series talk AI for Poets">
+  <figcaption>Ben Snyder, Senior Applied Scientist at Amazon Web Services.</figcaption>
+</figure>
+
 Ben’s main point was simple. As AI tools automate more routine coding work, the skills that matter begin to shift. Writing code still matters, but understanding the problem and designing the solution matter even more.
 
-One thing that struck me during the talk is how closely this idea aligns with the structure of the **CSPB program**.
+One thing that struck me during the talk is how closely this idea aligns with the structure of the [**CSPB program**](/cspb/).
 
 Every student in this program already has a degree in another field before studying computer science. That might be physics, economics, psychology, biology, journalism, music, or something else entirely. Those backgrounds are not a detour. In many cases they become the domain knowledge that makes your technical work valuable.
 

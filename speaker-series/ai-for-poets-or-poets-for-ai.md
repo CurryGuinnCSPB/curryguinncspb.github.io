@@ -25,7 +25,7 @@ This page contains a lightly edited transcript of the CSPB Speaker Series talk
 ## Why Creative Thinkers and Eclectic Backgrounds Will Shape the Future of Software
 
 > **CSPB Speaker Series**  
-> Post-Baccalaureate B.S. in Applied Computer Science  
+> [Post-Baccalaureate B.S. in Applied Computer Science](/cspb/)  
 > University of Colorado Boulder
 
 ---
