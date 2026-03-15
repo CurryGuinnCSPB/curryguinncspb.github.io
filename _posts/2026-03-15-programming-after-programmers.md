@@ -34,7 +34,7 @@ One of the most interesting passages in the New York Times article describes how
 
 That observation is hard to dispute. Tools like ChatGPT, Claude, and Copilot now make it possible for non-programmers to generate working code for the first time.
 
-But there is an important detail hidden inside that shift. The number of people creating software will likely increase dramatically. The number of people **designing reliable software systems** will not increase at the same rate.
+But there is an important detail in that shift. The number of people creating software will likely increase dramatically. Turning that code into reliable software systems is a different challenge altogether.
 
 Those are different roles, and they require different skills.
 
@@ -126,8 +126,8 @@ In other words, they bring **two ways of thinking** to the same problem.
 
 ## Final Thought
 
-The New York Times article may be correct that programming is changing.
+The New York Times article is correct that programming is changing.
 
 But the deeper transformation is not about replacing programmers.
 
-It is about raising the bar for what it means to be one.
+It is about expanding what it means to be a programmer.
