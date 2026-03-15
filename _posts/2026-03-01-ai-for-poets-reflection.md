@@ -43,6 +43,18 @@ That kind of interdisciplinary thinking is becoming more common in AI.
 
 Modern systems often sit at the intersection of several domains. You might be building software that interacts with logistics systems, robotics, agriculture, finance, medicine, or manufacturing. Understanding the software is important. Understanding the domain is just as important.
 
+But another point Ben made during the talk is easy to miss in all the excitement around AI tools: **the technical foundations still matter**.
+
+Toward the end of the talk he was asked how he would teach introductory computer science today. His answer was telling.
+
+> “First of all, I would probably still have an incredibly annoying entry course on something like C++… basically when I learned coding they were like, go learn C++.”
+
+His point was not nostalgia for old programming languages. It was that students still need a place where they learn how software actually works: how programs execute, how systems behave, and how to reason about code.
+
+At the same time, he emphasized that modern developers also need to understand how to work effectively with new AI systems.
+
+> “I think we need to have courses in actually teaching people how to not only code, but how to interact with the new AI coding tools, and how to understand the relation between the two.”
+
 Several students picked up on another theme from the talk: how AI tools are changing the day-to-day work of programmers.
 
 One student summarized the shift this way:
@@ -61,12 +73,17 @@ Another student pointed to an example Ben mentioned where an AI assistant subtly
 
 That distinction matters. A compiler is deterministic. An AI system is not.
 
-One thing to keep in mind is that AI tends to work best when the output can be verified. A student mentioned this point directly:
+One of Ben’s most interesting comments came when he discussed how real AI systems are actually built in practice.
 
-> “If the output is something I can verify, I don’t need deep prior knowledge to trust the answer.”  
-> — Student Piazza Post
+---
 
-In general, that is a useful rule when working with AI systems.
+> **“Realistically, we need to know how to make traditional statistical models, machine learning, and large-scale AI work together.”**
+
+---
+
+That line stuck with me because it captures something important about modern software development. The tools may be evolving quickly, but the systems we build still rely on multiple layers of knowledge.
+
+Understanding AI today often means understanding how several ideas fit together: statistics, machine learning, large-scale systems, and the software that connects them.
 
 The discussion also touched on career preparation. Ben emphasized the importance of having a project that you can explain from beginning to end. Not just what the code does, but how the idea developed and what decisions you made along the way.
 
@@ -76,8 +93,7 @@ That is good advice.
 
 Projects help show how you think. They also give you something concrete to talk about during an interview. I am hearing similar comments from employers and alumni. It is getting harder for organizations to rely only on resumes to decide who to interview.
 
-In other words, the “poets” in Ben’s title are not just a metaphor. Many of you already bring that broader perspective to the field. That prior perspective may turn out to be one of your strongest advantages.
-
+In other words, the “poets” in Ben’s title are not just a metaphor. Many of you already bring that broader perspective to the field. And in an age where AI can generate code, that combination of **technical foundations and broader perspective** may turn out to be one of your strongest advantages.
 
 We have posted the **full (lightly edited) transcript of the talk** here:
 
