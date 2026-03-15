@@ -12,8 +12,6 @@ In February we hosted **Ben Snyder**, Senior Applied Scientist at Amazon Web Ser
 
 Ben discussed why creative thinkers and people with interdisciplinary backgrounds may play an increasingly important role in the future of software development and AI systems.
 
-Below is a lightly edited transcript of the talk.
-
 {: .notice--info}
 This page contains a lightly edited transcript of the CSPB Speaker Series talk  
 **AI for Poets (or Poets for AI)** by Ben Snyder (AWS).
