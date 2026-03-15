@@ -7,17 +7,39 @@ excerpt: "Reflections on a CSPB Speaker Series talk by Ben Snyder (AWS) on inter
 
 Recently we hosted **Ben Snyder**, a Senior Applied Scientist at Amazon Web Services, for a talk in the CSPB Speaker Series titled *AI for Poets (or Poets for AI)*.
 
-Ben’s central idea was simple but powerful.
+Ben’s central point was straightforward. As AI tools automate more routine coding work, the skills that matter begin to shift. Writing code still matters, but understanding the problem and designing the solution matter even more.
 
-Modern AI development increasingly rewards people who can think across disciplines. As AI tools automate more routine programming tasks, creativity, communication, and broad intellectual curiosity become even more valuable.
+One student captured this shift well in the discussion thread after the talk:
 
-> The future developer may look less like a narrow specialist and more like a renaissance professional.
+> “Instead of coding every feature we are now reviewers, problem solvers, and final approvers. Instead of coding taking 70–80% of your time it’s now 20–30%, which means more time to understand the problem and deliver a better product.” - Student Piazza Post
 
-Ben’s own career path illustrates this idea. He began in sociology before moving into statistics and eventually computer engineering. That interdisciplinary perspective continues to shape the way he approaches large-scale AI systems.
+I think that observation is exactly right.
 
-For students entering the field today, the message is encouraging. You do not need to follow a perfectly linear path into computer science. Diverse backgrounds can actually become a strength.
+Many of you are already seeing this with tools like Copilot or ChatGPT. They can generate code quickly, but they still rely on someone who understands what the code is supposed to do.
 
-We have posted the **full transcript of the talk** here:
+Another student pointed to an example Ben gave where an AI assistant flipped a couple of values in a program:
 
-**Read the full talk transcript:**  
+> “Even as these tools improve and make fewer mistakes, they won’t be provably correct like a compiler.” Student Piazza Post
+
+That distinction matters. A compiler is deterministic. An AI system is not.
+
+One thing to keep in mind is that AI tends to work best when the output can be verified. A student mentioned this point directly:
+
+> “If the output is something I can verify, I don’t need deep prior knowledge to trust the answer.” - Student Piazza Post
+
+In general, that is a useful rule when working with AI systems.
+
+Another takeaway from the talk involved career preparation. Ben emphasized the importance of having a project you can explain from beginning to end.
+
+One student wrote that the talk made them more thoughtful about the kinds of projects they choose so they can build a stronger portfolio. 
+
+I’m hearing similar comments from employers and alumni. It is getting harder for organizations to rely only on resumes to decide who to interview.
+
+Projects help show how you think. They also give you something concrete to talk about during an interview.
+
+We have posted the **full (lightly edited) transcript of the talk** here:
+
+**Read the talk transcript:**  
 [AI for Poets (or Poets for AI)](/speaker-series/ai-for-poets-or-poets-for-ai/)
+
+If you watched the talk or read the transcript, I’d be curious what stood out to you.
