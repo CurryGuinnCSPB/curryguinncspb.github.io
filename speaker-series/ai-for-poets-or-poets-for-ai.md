@@ -14,8 +14,6 @@ toc_icon: "list"
 
 In February we hosted **Ben Snyder**, Senior Applied Scientist at Amazon Web Services, for a talk in the CSPB Speaker Series titled *AI for Poets (or Poets for AI)*.
 
-In February we hosted **Ben Snyder**, Senior Applied Scientist at Amazon Web Services, for a talk in the CSPB Speaker Series titled *AI for Poets (or Poets for AI)*.
-
 Ben discussed why creative thinkers and people with interdisciplinary backgrounds may play an increasingly important role in the future of software development and AI systems.
 
 {: .notice--info}
