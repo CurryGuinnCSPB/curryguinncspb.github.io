@@ -1,7 +1,8 @@
 ---
-title: "CU Boulder Applied Computer Science Post-Baccalaureate Program (CSPB)"
+title: "CU Boulder Applied Computer Science Post-Baccalaureate Program | Second Bachelor's Degree in Computer Science"
 layout: single
 permalink: /cspb/
+description: "Overview of the CU Boulder Applied Computer Science Post-Baccalaureate program for students pursuing a second bachelor's degree in computer science or transitioning into software development."
 excerpt: "Overview of the Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder, including courses, pathways, and student experience."
 ---
 

@@ -15,7 +15,7 @@ Computer science is not only about learning a programming language. It is also a
 
 That is one reason many career changers look at post-baccalaureate computer science programs. These programs are designed for students who already hold a bachelor’s degree but want to build the core foundations of computer science in a systematic way. Students move through topics such as programming, data structures, algorithms, and software development practices while gradually building the skills needed for technical work.
 
-In the Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder (/cspb/), many of the students fall into this category. They are professionals who are balancing work, family, and coursework while steadily building their knowledge of computing. One of the things I enjoy most about teaching in the program is seeing the different perspectives students bring from their previous careers. Those perspectives often lead to thoughtful questions and interesting projects as students connect computer science ideas with the domains they already know well.
+In the [Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder](/cspb/), many of the students fall into this category. They are professionals who are balancing work, family, and coursework while steadily building their knowledge of computing. One of the things I enjoy most about teaching in the program is seeing the different perspectives students bring from their previous careers. Those perspectives often lead to thoughtful questions and interesting projects as students connect computer science ideas with the domains they already know well.
 
 
 
