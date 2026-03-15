@@ -12,7 +12,7 @@ The New York Times Magazine recently published a provocative essay titled:
 
 **“Coding After Coders: The End of Computer Programming as We Know It.”**
 
-You can read the article [here](/https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html/).
+You can read the article [here](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html).
 
 The piece explores a question that is increasingly on the minds of students, engineers, and executives alike.
 
