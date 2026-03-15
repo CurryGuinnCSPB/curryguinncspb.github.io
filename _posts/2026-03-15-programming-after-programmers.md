@@ -7,6 +7,9 @@ permalink: /programming-after-programmers/
 excerpt: "A response to the New York Times Magazine article on AI and the future of programming, and why interdisciplinary developers may matter more than ever."
 date: 2026-03-15
 ---
+<img src="/assets/images/blog/ai-coding-nyt.jpg"
+     alt="Illustration from the New York Times Magazine article 'Coding After Coders: The End of Computer Programming as We Know It'"
+     style="float:right; width:320px; margin-left:20px; margin-bottom:10px;">
 
 The New York Times Magazine recently published a provocative essay titled:
 
@@ -14,9 +17,7 @@ The New York Times Magazine recently published a provocative essay titled:
 
 You can read the article [here](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html).
 
-<img src="/assets/images/blog/ai-coding-nyt.jpg"
-     alt="Illustration from the New York Times Magazine article 'Coding After Coders: The End of Computer Programming as We Know It'"
-     style="float:right; width:320px; margin-left:20px; margin-bottom:10px;">
+
 
 Programming is not disappearing. It is changing.
 
