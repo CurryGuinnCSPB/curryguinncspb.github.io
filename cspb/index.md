@@ -108,6 +108,19 @@ Students who are exploring a second bachelor’s degree in computer science or c
 - [Is a post-baccalaureate computer science degree worth it?](/is-post-bacc-computer-science-worth-it/)
 - [Post-baccalaureate computer science FAQ](/cspb/post-baccalaureate-computer-science-faq/)
 
+## CSPB Speaker Series
+
+We regularly invite researchers and industry leaders to speak with our students about emerging topics in computing and AI.
+
+### Recent Talk
+
+**AI for Poets (or Poets for AI)**  
+Ben Snyder, Senior Applied Scientist, Amazon Web Services
+
+This talk explores why creative thinkers and interdisciplinary backgrounds are becoming increasingly important in the age of AI.
+
+[Read the full (lightly edited) talk transcript →](/speaker-series/ai-for-poets-or-poets-for-ai/)
+
 ## More About Me
 
 - [About](/about/)
