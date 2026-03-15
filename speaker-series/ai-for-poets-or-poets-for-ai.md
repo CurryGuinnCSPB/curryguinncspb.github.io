@@ -7,7 +7,7 @@ toc: false
 toc_label: "Contents"
 toc_icon: "list"
 ---
-<figure class="align-left" style="width:300px">
+<figure class="align-left" style="width:250px">
   <img src="/assets/images/speaker-series/ai-for-poets/ben-snyder.jpg" alt="Ben Snyder speaking during the CSPB Speaker Series talk AI for Poets">
   <figcaption>Ben Snyder, Senior Applied Scientist at Amazon Web Services.</figcaption>
 </figure>
