@@ -3,7 +3,7 @@ title: "AI for Poets (or Poets for AI)"
 layout: single
 permalink: /speaker-series/ai-for-poets-or-poets-for-ai/
 excerpt: "Ben Snyder (AWS) discusses how creative thinkers and interdisciplinary backgrounds are shaping the future of AI and software development."
-toc: true
+toc: false
 toc_label: "Contents"
 toc_icon: "list"
 ---
