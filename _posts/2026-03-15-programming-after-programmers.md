@@ -20,6 +20,10 @@ It is a fair question. But when you read the article carefully, a different stor
 
 Programming may not be disappearing. It may be changing.
 
+<img src="/assets/images/blog/ai-coding-nyt.jpg"
+     alt="Illustration from the New York Times Magazine article 'Coding After Coders: The End of Computer Programming as We Know It'"
+     style="float:right; width:320px; margin-left:20px; margin-bottom:10px;">
+
 ---
 
 ## “The realms of programmers and everyday people… are drifting closer together.”
