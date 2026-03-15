@@ -26,7 +26,7 @@ Programming may not be disappearing. It may be changing.
 
 One of the most interesting passages in the New York Times article describes how conversational AI tools are reshaping who writes code.
 
-> “The realms of programmers and everyday people, separated for decades by an ocean of arcane know-how, are drifting closer together.”
+> *“The realms of programmers and everyday people, separated for decades by an ocean of arcane know-how, are drifting closer together.”*
 
 That observation is hard to dispute. Tools like ChatGPT, Claude, and Copilot make it possible for non-programmers to produce working code for the first time.
 
