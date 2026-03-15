@@ -14,15 +14,19 @@ The New York Times Magazine recently published a provocative essay titled:
 
 You can read the article [here](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html).
 
+<img src="/assets/images/blog/ai-coding-nyt.jpg"
+     alt="Illustration from the New York Times Magazine article 'Coding After Coders: The End of Computer Programming as We Know It'"
+     style="float:right; width:320px; margin-left:20px; margin-bottom:10px;">
+
+Programming is not disappearing. It is changing.
+
 The piece explores a question that is increasingly on the minds of students, engineers, and executives alike. If AI systems can write software, what happens to programmers?
 
 It is a fair question. But when you read the article carefully, a different story begins to emerge.
 
-Programming may not be disappearing. It may be changing.
 
-<img src="/assets/images/blog/ai-coding-nyt.jpg"
-     alt="Illustration from the New York Times Magazine article 'Coding After Coders: The End of Computer Programming as We Know It'"
-     style="float:right; width:320px; margin-left:20px; margin-bottom:10px;">
+
+
 
 ---
 
@@ -34,7 +38,7 @@ One of the most interesting passages in the New York Times article describes how
 
 That observation is hard to dispute. Tools like ChatGPT, Claude, and Copilot make it possible for non-programmers to produce working code for the first time.
 
-But there is an important detail hidden inside that shift. The number of people creating software may increase dramatically. The number of people **designing software systems** may not.
+But there is an important detail hidden inside that shift. The number of people creating software will likely increase dramatically. The number of people **designing software systems** may not.
 
 Those are different roles, and they require different skills.
 
@@ -46,9 +50,9 @@ The NYT article quotes economist Erik Brynjolfsson describing this dynamic:
 
 > “Maybe they don’t label themselves as software engineers, but they’re creating code.”
 
-In other words, coding itself may become far more widespread. That does not necessarily mean professional developers disappear. It may simply mean that coding becomes a more accessible tool, much like spreadsheets or word processors.
+In other words, coding itself is becoming far more widespread. That does not necessarily mean professional developers disappear. It may simply mean that coding becomes a more accessible tool, much like spreadsheets or word processors.
 
-The interesting question is what happens after that shift: who designs the systems, who evaluates the outputs, and who understands the domain where the software is deployed?
+The real question is what happens after that shift: who designs the systems, who evaluates the outputs, and who understands the domain where the software is deployed?
 
 ---
 
@@ -88,7 +92,7 @@ Programming alone is rarely enough.
 
 ## A Different Kind of Programmer
 
-If AI truly changes programming, the shift may look something like this.
+AI is already changing programming. The shift looks something like this.
 
 Less emphasis on:
 
@@ -111,7 +115,7 @@ The developer becomes less like a typist and more like an architect.
 
 So perhaps the real question is not whether AI will eliminate programmers.
 
-The more interesting question might be what kind of programmer the AI era will reward.
+The more interesting question is what kind of programmer the AI era will reward.
 
 If the evidence from both industry and education is any guide, the answer is becoming clearer.
 
@@ -125,6 +129,6 @@ In other words, people who bring **two ways of thinking** to the same problem.
 
 The New York Times article may be correct that programming is changing.
 
-But the deeper transformation may not be about replacing programmers.
+But the deeper transformation is not about replacing programmers.
 
 It may be about expanding what it means to be one.
