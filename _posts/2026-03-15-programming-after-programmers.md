@@ -1,5 +1,5 @@
 ---
-title: "Programming After Programmers? 
+title: "Programming After Programmers?
 A Response to the New York Times on AI and Coding"
 subtitle: "How AI is changing coding and elevating the role of interdisciplinary developers."
 layout: single
@@ -14,17 +14,11 @@ The New York Times Magazine recently published a provocative essay titled:
 
 You can read the article [here](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html).
 
-The piece explores a question that is increasingly on the minds of students, engineers, and executives alike.
+The piece explores a question that is increasingly on the minds of students, engineers, and executives alike. If AI systems can write software, what happens to programmers?
 
-If AI systems can write software, what happens to programmers?
+It is a fair question. But when you read the article carefully, a different story begins to emerge.
 
-It is a fair question.
-
-But when you read the article carefully, a different story begins to emerge.
-
-Programming may not be disappearing.
-
-It may be changing.
+Programming may not be disappearing. It may be changing.
 
 ---
 
@@ -32,21 +26,13 @@ It may be changing.
 
 One of the most interesting passages in the New York Times article describes how conversational AI tools are reshaping who writes code.
 
-> “The realms of programmers and everyday people, separated for decades by an ocean of arcane know-how, are drifting closer together.” 
+> “The realms of programmers and everyday people, separated for decades by an ocean of arcane know-how, are drifting closer together.”
 
-That observation is hard to dispute.
+That observation is hard to dispute. Tools like ChatGPT, Claude, and Copilot make it possible for non-programmers to produce working code for the first time.
 
-Tools like ChatGPT, Claude, and Copilot make it possible for non-programmers to produce working code for the first time.
+But there is an important detail hidden inside that shift. The number of people creating software may increase dramatically. The number of people **designing software systems** may not.
 
-But there is an important detail hidden inside that shift.
-
-The number of people creating software may increase dramatically.
-
-The number of people **designing software systems** may not.
-
-Those are different roles.
-
-And they require different skills.
+Those are different roles, and they require different skills.
 
 ---
 
@@ -54,21 +40,11 @@ And they require different skills.
 
 The NYT article quotes economist Erik Brynjolfsson describing this dynamic:
 
-> “Maybe they don’t label themselves as software engineers, but they’re creating code.” 
+> “Maybe they don’t label themselves as software engineers, but they’re creating code.”
 
-In other words, coding itself may become far more widespread.
+In other words, coding itself may become far more widespread. That does not necessarily mean professional developers disappear. It may simply mean that coding becomes a more accessible tool, much like spreadsheets or word processors.
 
-That does not necessarily mean professional developers disappear.
-
-It may simply mean that coding becomes a more accessible tool, much like spreadsheets or word processors.
-
-The interesting question is what happens **after that shift**.
-
-Who designs the systems?
-
-Who evaluates the outputs?
-
-Who understands the domain where the software is deployed?
+The interesting question is what happens after that shift: who designs the systems, who evaluates the outputs, and who understands the domain where the software is deployed?
 
 ---
 
@@ -76,19 +52,13 @@ Who understands the domain where the software is deployed?
 
 Late in the article, the author makes a striking observation:
 
-> “Skills that seemed the most technical and forbidding can turn out to be the ones most easily automated. Social and imaginative ones come to the fore.” 
+> “Skills that seemed the most technical and forbidding can turn out to be the ones most easily automated. Social and imaginative ones come to the fore.”
 
-This line captures something important about the AI moment.
+This line captures something important about the AI moment. The hardest problems in computing were never purely technical.
 
-The hardest problems in computing were never purely technical.
+They were conceptual. They involved understanding systems, institutions, incentives, and human behavior.
 
-They were conceptual.
-
-They involved understanding systems, institutions, incentives, and human behavior.
-
-In other words:
-
-context.
+In other words: context.
 
 ---
 
@@ -98,20 +68,15 @@ Interestingly, a recent Forbes article makes almost exactly the same point when 
 
 Education researcher Aviva Legatt writes:
 
-> “Those who combine computer science with domain expertise in healthcare, finance, or other fields are finding significantly better opportunities.” 
-Her recommendation is simple:
+> “Those who combine computer science with domain expertise in healthcare, finance, or other fields are finding significantly better opportunities.”
 
-> “I would recommend a double major in computer science and another subject such as systems engineering, business, or healthcare.” 
+She goes on to recommend a specific educational path:
 
-The logic is straightforward.
+> “I would recommend a double major in computer science and another subject such as systems engineering, business, or healthcare.”
 
-Software only matters when it interacts with the real world.
+The logic is straightforward. Software only matters when it interacts with the real world.
 
-Healthcare systems require engineers who understand clinical workflows.
-
-Financial systems require engineers who understand markets.
-
-Educational technologies require engineers who understand how people learn.
+Healthcare systems require engineers who understand clinical workflows. Financial systems require engineers who understand markets. Educational technologies require engineers who understand how people learn.
 
 Programming alone is rarely enough.
 
@@ -140,29 +105,15 @@ The developer becomes less like a typist and more like an architect.
 
 ## The Real Question
 
-So perhaps the real question is not:
+So perhaps the real question is not whether AI will eliminate programmers.
 
-Will AI eliminate programmers?
-
-The more interesting question might be:
-
-What kind of programmer will the AI era reward?
+The more interesting question might be what kind of programmer the AI era will reward.
 
 If the evidence from both industry and education is any guide, the answer is becoming clearer.
 
-The most valuable programmers may be the ones who were never just programmers to begin with.
+The most valuable programmers may be the ones who were never just programmers to begin with. They are biologists building simulation engines, philosophers working on AI governance, economists designing financial systems, and teachers building educational technology.
 
-They are biologists building simulation engines.
-
-Philosophers working on AI governance.
-
-Economists designing financial systems.
-
-Teachers building educational technology.
-
-In other words:
-
-people who bring **two ways of thinking** to the same problem.
+In other words, people who bring **two ways of thinking** to the same problem.
 
 ---
 
