@@ -7,7 +7,8 @@ toc: false
 toc_label: "Contents"
 toc_icon: "list"
 ---
-![Ben Snyder, Senior Applied Scientist at Amazon Web Services, CSPB Speaker Series talk "AI for Poets" at CU Boulder](/assets/images/speaker-series/ai-for-poets/ben-snyder.jpg)
+![Ben Snyder, AWS Senior Applied Scientist, CSPB Speaker Series talk AI for Poets](/assets/images/speaker-series/ai-for-poets/ben-snyder.jpg){: .align-center}
+*Ben Snyder, Senior Applied Scientist at Amazon Web Services, CSPB Speaker Series.*
 
 In February we hosted **Ben Snyder**, Senior Applied Scientist at Amazon Web Services, for a talk in the CSPB Speaker Series titled *AI for Poets (or Poets for AI)*.
 
