@@ -58,27 +58,6 @@ Even when AI helps generate code, someone still has to decide **how the system s
 
 That is where computer science comes in.
 
----
-
-## Why Computer Science Still Matters
-
-Ironically, the rise of AI may make computer science education more important, not less.
-
-When code becomes easier to generate, the limiting factor shifts from typing syntax to understanding systems.
-
-A computer science curriculum focuses on exactly those foundations:
-
-- **Algorithms and data structures**, which determine whether software runs in milliseconds or minutes  
-- **Computer systems**, which explain how memory, processes, and networks actually behave  
-- **Databases**, which determine how information can be stored and retrieved reliably  
-- **Object-oriented design**, which allows complex systems to remain maintainable  
-- **Software engineering methodologies**, which allow teams to build and evolve systems over time  
-
-These ideas rarely appear in AI-generated snippets of code. But they determine whether the resulting software actually works.
-
-AI may help write programs.
-
-Computer science teaches you how to understand them.
 
 ---
 
