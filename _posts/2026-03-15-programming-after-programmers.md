@@ -20,7 +20,7 @@ You can read the article [here](https://www.nytimes.com/2026/03/12/magazine/ai-c
 
 Programming is not disappearing. It is changing.
 
-The piece explores a question that is increasingly on the minds of students, engineers, and executives alike. If AI systems can write software, what happens to programmers?
+The article explores a question that is increasingly on the minds of students, engineers, and executives alike. If AI systems can write software, what happens to programmers?
 
 It is a fair question. But when you read the article carefully, a different story begins to emerge.
 
@@ -32,13 +32,13 @@ One of the most interesting passages in the New York Times article describes how
 
 > *“The realms of programmers and everyday people, separated for decades by an ocean of arcane know-how, are drifting closer together.”*
 
-That observation is hard to dispute. Tools like ChatGPT, Claude, and Copilot make it possible for non-programmers to produce working code for the first time.
+That observation is hard to dispute. Tools like ChatGPT, Claude, and Copilot now make it possible for non-programmers to generate working code for the first time.
 
-But there is an important detail hidden inside that shift. The number of people creating software will likely increase dramatically. The number of people **designing software systems** will not increase at the same rate.
+But there is an important detail hidden inside that shift. The number of people creating software will likely increase dramatically. The number of people **designing reliable software systems** will not increase at the same rate.
 
 Those are different roles, and they require different skills.
 
-Writing code is one thing. Designing reliable software systems is another.
+Writing code is one thing. Designing a system that works at scale, survives failure, and evolves over time is another.
 
 ---
 
@@ -48,45 +48,29 @@ The NYT article quotes economist Erik Brynjolfsson describing this dynamic:
 
 > “Maybe they don’t label themselves as software engineers, but they’re creating code.”
 
-In other words, coding itself is becoming far more widespread. That does not necessarily mean professional developers disappear. It means coding is becoming easier to produce.
+In other words, coding itself is becoming far more widespread. That does not mean professional developers disappear. It means that code generation is becoming easier.
 
 The real question is what happens after that shift: who designs the systems, who evaluates the outputs, and who understands the domain where the software is deployed?
 
-Those tasks still require deep technical understanding.
+Those tasks depend on a deeper layer of knowledge. Large software systems rely on ideas that cannot simply be improvised by a prompt: algorithms, data structures, databases, distributed systems, and the architectural decisions that connect them.
 
-Large software systems depend on ideas that AI tools cannot simply improvise: algorithms, data structures, databases, distributed systems, and the architecture that ties them together. Even when AI helps generate code, someone still has to decide **which algorithms are appropriate, how the data should be structured, and how the system should behave under failure or scale**.
+Even when AI helps generate code, someone still has to decide **how the system should work**.
 
-That work requires real computer science.
-
----
-
-## “Skills that seemed the most technical and forbidding can turn out to be the ones most easily automated.”
-
-Late in the article, the author makes a striking observation:
-
-> “Skills that seemed the most technical and forbidding can turn out to be the ones most easily automated. Social and imaginative ones come to the fore.”
-
-This line captures something important about the AI moment. The hardest problems in computing were never purely technical.
-
-They were conceptual. They involved understanding systems, institutions, incentives, and human behavior.
-
-But they also depend on a strong technical foundation. Understanding why an algorithm scales, why a distributed system fails, or why a database schema breaks under load requires more than the ability to prompt an AI model.
-
-It requires the underlying discipline of computer science.
+That is where computer science comes in.
 
 ---
 
 ## Why Computer Science Still Matters
 
-Ironically, the rise of AI may make computer science education **more important**, not less.
+Ironically, the rise of AI may make computer science education more important, not less.
 
 When code becomes easier to generate, the limiting factor shifts from typing syntax to understanding systems.
 
-A computer science curriculum teaches the foundations that make that understanding possible:
+A computer science curriculum focuses on exactly those foundations:
 
 - **Algorithms and data structures**, which determine whether software runs in milliseconds or minutes  
 - **Computer systems**, which explain how memory, processes, and networks actually behave  
-- **Databases**, which determine whether information can be stored and retrieved reliably  
+- **Databases**, which determine how information can be stored and retrieved reliably  
 - **Object-oriented design**, which allows complex systems to remain maintainable  
 - **Software engineering methodologies**, which allow teams to build and evolve systems over time  
 
@@ -98,11 +82,39 @@ Computer science teaches you how to understand them.
 
 ---
 
+## Why Computer Science Matters More
+
+Ironically, the rise of AI may make computer science education more important, not less.
+
+When code becomes easier to generate, the limiting factor shifts from typing syntax to understanding systems. Someone still has to decide how software should behave, how data should be structured, and how a system should perform under load or failure.
+
+A computer science curriculum focuses on exactly those foundations:
+
+- **Algorithms and data structures**, which determine whether software runs in milliseconds or minutes  
+- **Computer systems**, which explain how memory, processes, and networks actually behave  
+- **Databases**, which determine how information can be stored and retrieved reliably  
+- **Object-oriented design**, which allows complex systems to remain maintainable  
+- **Software engineering methodologies**, which allow teams to build and evolve systems over time  
+
+These ideas rarely appear in AI-generated snippets of code. But they determine whether the resulting software actually works.
+
+As one [Forbes analysis](https://www.forbes.com/sites/avivalegatt/2025/05/30/ai-degrees-for-future-career-success/) puts it:
+
+> **“Employers aren’t just looking for programmers anymore. They need computer scientists who can bridge the gap between technical capability and real-world application; who understand both the code and the context in which it operates.”**
+
+AI may help write programs.
+
+Computer science teaches you how to understand them.
+
+---
+
 ## The Interdisciplinary Programmer
 
-Interestingly, a recent Forbes article makes almost exactly the same point when discussing education in the age of AI.
+But technical depth alone is not the whole story.
 
-Education researcher Aviva Legatt writes:
+The most valuable developers increasingly combine computer science with expertise in another domain. Software only matters when it interacts with the real world, and that means understanding the systems where the software is deployed.
+
+Education researcher Aviva Legatt makes this point clearly in the same Forbes article:
 
 > “Those who combine computer science with domain expertise in healthcare, finance, or other fields are finding significantly better opportunities.”
 
@@ -110,36 +122,10 @@ She goes on to recommend a specific educational path:
 
 > “I would recommend a double major in computer science and another subject such as systems engineering, business, or healthcare.”
 
-The logic is straightforward. Software only matters when it interacts with the real world.
+The logic is straightforward. Healthcare systems require engineers who understand clinical workflows. Financial systems require engineers who understand markets. Educational technologies require engineers who understand how people learn.
 
-Healthcare systems require engineers who understand clinical workflows. Financial systems require engineers who understand markets. Educational technologies require engineers who understand how people learn.
+The most effective developers increasingly combine **technical foundations with domain expertise**.
 
-Programming alone is rarely enough.
-
-But neither is domain knowledge alone. The most effective developers increasingly combine **technical depth with domain context**.
-
----
-
-## A Different Kind of Programmer
-
-AI is already changing programming. The shift looks something like this.
-
-Less emphasis on:
-
-- memorizing syntax  
-- writing boilerplate code  
-- implementing standard algorithms  
-
-More emphasis on:
-
-- system design  
-- domain modeling  
-- verification and evaluation  
-- human-AI collaboration  
-
-The developer becomes less like a typist and more like an architect.
-
-And architects need to understand the structure of what they are building.
 
 ---
 
