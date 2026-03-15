@@ -3,7 +3,7 @@ title: "Programming After Programmers? Reading the NYT Article on AI and Coding 
 layout: single
 permalink: /programming-after-programmers/
 excerpt: "A response to the New York Times Magazine article on AI and the future of programming."
-date: 2026-03-18
+date: 2026-03-15
 ---
 
 The New York Times Magazine recently published a provocative essay titled:
