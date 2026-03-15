@@ -4,7 +4,7 @@ layout: single
 permalink: /ai-for-poets-reflection/
 date: 2026-03-01
 last_modified_at: 2026-03-01
-
+image: /assets/images/speaker-series/ai-for-poets/ben-snyder.jpg
 excerpt: "Reflections on a CSPB Speaker Series talk by Ben Snyder (AWS) about artificial intelligence, interdisciplinary thinking, and the changing role of software engineers."
 
 categories:
