@@ -1,8 +1,10 @@
 ---
-title: "Programming After Programmers? Reading the NYT Article on AI and Coding Carefully"
+title: "Programming After Programmers? 
+A Response to the New York Times on AI and Coding"
+subtitle: "How AI is changing coding and elevating the role of interdisciplinary developers."
 layout: single
 permalink: /programming-after-programmers/
-excerpt: "A response to the New York Times Magazine article on AI and the future of programming."
+excerpt: "A response to the New York Times Magazine article on AI and the future of programming, and why interdisciplinary developers may matter more than ever."
 date: 2026-03-15
 ---
 
@@ -10,9 +12,7 @@ The New York Times Magazine recently published a provocative essay titled:
 
 **“Coding After Coders: The End of Computer Programming as We Know It.”**
 
-You can read the article here:
-
-https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html
+You can read the article [here](/https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html/).
 
 The piece explores a question that is increasingly on the minds of students, engineers, and executives alike.
 
