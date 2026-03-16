@@ -1,0 +1,17 @@
+---
+title: "NLP Student Projects"
+layout: single
+permalink: /student-projects/nlp/
+classes: wide
+excerpt: "Natural Language Processing student projects from the CU Boulder Applied Computer Science Post-Baccalaureate program."
+---
+
+This section collects NLP student projects and organizes them by subfield. Each project page is currently a stub with metadata and content placeholders so the collection can be expanded incrementally.
+
+## Categories
+
+- [Text Classification (22)](/student-projects/nlp/text-classification/)
+- [Language Modeling & Generation (14)](/student-projects/nlp/language-modeling-generation/)
+- [Applied NLP (15)](/student-projects/nlp/applied-nlp/)
+- [Information Extraction (5)](/student-projects/nlp/information-extraction/)
+- [Text Summarization (3)](/student-projects/nlp/summarization/)

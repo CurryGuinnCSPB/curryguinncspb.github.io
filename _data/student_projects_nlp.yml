@@ -1,0 +1,414 @@
+- id: 1
+  term: fall05
+  title: Hybrid Weather Data-to-Text Generation
+  slug: weather-data-text-generation
+  category: language-modeling-generation
+  desc: Generates natural language weather summaries from structured meteorological
+    data.
+  folder: Banuelosvielmasalex
+- id: 2
+  term: fall05
+  title: Sentiment Analysis of Amazon Musical Instrument Reviews
+  slug: amazon-review-sentiment
+  category: text-classification
+  desc: Classifies customer sentiment in Amazon musical instrument reviews.
+  folder: Blitonnate
+- id: 3
+  term: fall05
+  title: Cross-Domain Summarization Pipeline
+  slug: cross-domain-summarization
+  category: summarization
+  desc: Evaluates summarization methods across multiple text domains.
+  folder: Brachweston
+- id: 4
+  term: fall05
+  title: Yelp Multi-Class Sentiment Classifier
+  slug: yelp-multiclass-sentiment
+  category: text-classification
+  desc: Multi-class sentiment analysis applied to Yelp review datasets.
+  folder: Chenben
+- id: 5
+  term: fall05
+  title: Financial Sentiment Analysis Using Transformers
+  slug: financial-sentiment-transformers
+  category: text-classification
+  desc: Detects sentiment in financial text using transformer-based models.
+  folder: Dhillonbrad
+- id: 6
+  term: fall05
+  title: Stylometric Metadata Analysis
+  slug: stylometric-metadata-analysis
+  category: applied-nlp
+  desc: Uses stylometry to infer metadata about authors and documents.
+  folder: Duranjasmine
+- id: 7
+  term: fall05
+  title: Emotional Tone After Wins and Losses
+  slug: emotional-tone-analysis
+  category: text-classification
+  desc: Analyzes emotional tone shifts in sports and political commentary.
+  folder: Fitchtimothy
+- id: 8
+  term: fall05
+  title: Sarcasm Detection in Tweets
+  slug: sarcasm-detection-tweets
+  category: text-classification
+  desc: Detects sarcasm in social media posts using transformer models.
+  folder: Goshentherese
+- id: 9
+  term: fall05
+  title: Recipe Generation with GPT-2
+  slug: recipe-generation-gpt2
+  category: language-modeling-generation
+  desc: Generates cooking recipes using fine-tuned GPT-2 models.
+  folder: Hendersonemily
+- id: 10
+  term: fall05
+  title: Toxic Comment Filtering
+  slug: toxic-comment-filtering
+  category: text-classification
+  desc: Detects toxic language in online comment threads.
+  folder: Konasanthony
+- id: 11
+  term: fall05
+  title: Stance Detection in News Text
+  slug: stance-detection-news
+  category: text-classification
+  desc: Identifies stance and bias in news articles.
+  folder: Maccagnanlinda
+- id: 12
+  term: fall05
+  title: BioNER Model Comparison
+  slug: biomedical-ner-comparison
+  category: information-extraction
+  desc: Compares named entity recognition models for biomedical text.
+  folder: Martinmatthew
+- id: 13
+  term: fall05
+  title: Biological Sequence Modeling with Transformers
+  slug: biological-sequence-transformers
+  category: applied-nlp
+  desc: Applies transformer architectures to biological sequence data.
+  folder: Mertzrachel
+- id: 14
+  term: fall05
+  title: Automated Lease Detection in Financial Documents
+  slug: lease-detection-financial-docs
+  category: applied-nlp
+  desc: Extracts lease obligations from accounting documents.
+  folder: Nguyenanna
+- id: 15
+  term: fall05
+  title: Media Frame Classification
+  slug: media-frame-classification
+  category: applied-nlp
+  desc: Classifies political media frames in news coverage.
+  folder: Samayoaerick
+- id: 16
+  term: fall05
+  title: Stranger Things Story Generator
+  slug: stranger-things-story-generator
+  category: language-modeling-generation
+  desc: Generates creative short stories inspired by Stranger Things.
+  folder: Sawtellenicole
+- id: 17
+  term: fall05
+  title: Error Analysis in Named Entity Recognition
+  slug: ner-error-analysis
+  category: information-extraction
+  desc: Examines common error patterns in NER models.
+  folder: Schiavettaandrew
+- id: 18
+  term: fall05
+  title: Clickbait Detection
+  slug: clickbait-detection
+  category: text-classification
+  desc: Detects clickbait headlines using machine learning.
+  folder: Sheikhrex
+- id: 19
+  term: fall05
+  title: News Article Summarization
+  slug: news-article-summarization
+  category: summarization
+  desc: Generates concise summaries of long news articles.
+  folder: Vargasclaudia
+- id: 20
+  term: spring05
+  title: Multi-Agent AI for Construction Costing
+  slug: ai-construction-costing
+  category: applied-nlp
+  desc: Uses agentic workflows to automate cost estimation tasks.
+  folder: Alkamalismail
+- id: 21
+  term: spring05
+  title: Emotion Detection in Text
+  slug: emotion-detection-text
+  category: text-classification
+  desc: Identifies emotional states expressed in written language.
+  folder: Baileycharlie
+- id: 22
+  term: spring05
+  title: Knowledge-Base Question Answering
+  slug: knowledge-base-qa
+  category: applied-nlp
+  desc: Answers questions using structured knowledge base queries.
+  folder: Bianguanbo
+- id: 23
+  term: spring05
+  title: AI Autocomplete System
+  slug: ai-autocomplete-system
+  category: language-modeling-generation
+  desc: Builds predictive autocomplete suggestions using language models.
+  folder: Brownconnor
+- id: 24
+  term: spring05
+  title: Human vs. AI Text Detection
+  slug: human-ai-text-detection
+  category: text-classification
+  desc: Classifies whether text was written by humans or LLMs.
+  folder: Changningchih
+- id: 25
+  term: spring05
+  title: Text-to-SQL Generation
+  slug: text-to-sql-generation
+  category: applied-nlp
+  desc: Converts natural language queries into SQL statements.
+  folder: Egansidney
+- id: 26
+  term: spring05
+  title: Art Criticism Named Entity Recognition
+  slug: art-criticism-ner
+  category: information-extraction
+  desc: Extracts entities from modern art criticism texts.
+  folder: Escalonacatalina
+- id: 27
+  term: spring05
+  title: Japanese-English Neural Translation
+  slug: japanese-english-translation
+  category: language-modeling-generation
+  desc: Translates Japanese text into English using neural models.
+  folder: Forbyfelice
+- id: 28
+  term: spring05
+  title: Fitness FAQ Question Answering
+  slug: fitness-faq-qa
+  category: applied-nlp
+  desc: Answers fitness questions using a domain-specific dataset.
+  folder: Frenchelaine
+- id: 29
+  term: spring05
+  title: Fake News Detection
+  slug: fake-news-detection
+  category: text-classification
+  desc: Identifies misinformation in news and online articles.
+  folder: Garciacarlos
+- id: 30
+  term: spring05
+  title: Poetry Generation with Project Gutenberg
+  slug: poetry-generation-gutenberg
+  category: language-modeling-generation
+  desc: Generates poems trained on Project Gutenberg corpora.
+  folder: Gobleleonora
+- id: 31
+  term: spring05
+  title: Domain-Specific Financial Sentiment
+  slug: domain-financial-sentiment
+  category: text-classification
+  desc: Evaluates domain-specific vs. general sentiment models.
+  folder: Haquesulman
+- id: 32
+  term: spring05
+  title: Author Attribution with Stylometry
+  slug: author-attribution-stylometry
+  category: text-classification
+  desc: Uses stylometric features to attribute authorship.
+  folder: Hillisdestiny
+- id: 33
+  term: spring05
+  title: RAG Question Answering for Board Games
+  slug: rag-boardgame-qa
+  category: applied-nlp
+  desc: Uses retrieval-augmented generation to answer board game questions.
+  folder: Kawaguchinoah
+- id: 34
+  term: spring05
+  title: Named Entity Recognition for News Articles
+  slug: news-ner-system
+  category: information-extraction
+  desc: Identifies people, organizations, and locations in news text.
+  folder: Leejaekyeong
+- id: 35
+  term: spring05
+  title: English-German Machine Translation
+  slug: english-german-translation
+  category: language-modeling-generation
+  desc: Neural machine translation between English and German.
+  folder: Luekingclaire
+- id: 36
+  term: spring05
+  title: Toxic Comment Classification
+  slug: toxic-comment-classification
+  category: text-classification
+  desc: Classifies harmful online comments using ML models.
+  folder: Metztammy
+- id: 37
+  term: spring05
+  title: Code Documentation Generator
+  slug: code-documentation-generator
+  category: applied-nlp
+  desc: Automatically generates documentation from source code.
+  folder: Prestimatthew
+- id: 38
+  term: spring05
+  title: Transformer-Based Document Classifier
+  slug: transformer-document-classifier
+  category: text-classification
+  desc: Uses transformer models for document classification tasks.
+  folder: Riverstrent
+- id: 39
+  term: spring05
+  title: Legal Document Simplification
+  slug: legal-document-simplifier
+  category: applied-nlp
+  desc: Simplifies complex legal documents for readability.
+  folder: Sandkekevin
+- id: 40
+  term: spring05
+  title: Political Bias Detection
+  slug: political-bias-detection
+  category: text-classification
+  desc: Detects ideological bias in political news.
+  folder: Shahinfaisal
+- id: 41
+  term: spring05
+  title: Transformer Autocomplete Model
+  slug: transformer-autocomplete
+  category: language-modeling-generation
+  desc: Implements transformer models for predictive typing.
+  folder: Shimobemayumi
+- id: 42
+  term: spring05
+  title: GPT-2 Metered Verse Generation
+  slug: metered-verse-generation
+  category: language-modeling-generation
+  desc: Generates poetry that follows metrical patterns.
+  folder: Smithlayce
+- id: 43
+  term: spring05
+  title: Tweet Sarcasm Detection
+  slug: tweet-sarcasm-detection
+  category: text-classification
+  desc: Detects sarcastic tweets using deep learning models.
+  folder: Sparkschrista
+- id: 44
+  term: spring05
+  title: Social Media Misinformation Detection
+  slug: misinformation-detection
+  category: text-classification
+  desc: Detects misinformation in social media posts.
+  folder: Taylorchris
+- id: 45
+  term: spring05
+  title: Retrieval-Augmented Game Assistant
+  slug: rag-game-assistant
+  category: applied-nlp
+  desc: Builds a RAG assistant for board game instructions.
+  folder: Williamsdaniel
+- id: 46
+  term: spring05
+  title: Star Wars Story Generator
+  slug: star-wars-story-generator
+  category: language-modeling-generation
+  desc: Generates Star Wars themed narratives.
+  folder: Williamstravis
+- id: 47
+  term: summer05
+  title: Twitter/X Misinformation Detection
+  slug: twitter-misinformation
+  category: text-classification
+  desc: Detects misinformation in Twitter/X posts.
+  folder: AadiPore
+- id: 48
+  term: summer05
+  title: Multi-Class Emotion Detection
+  slug: multiclass-emotion-detection
+  category: text-classification
+  desc: Classifies emotional categories in text.
+  folder: Arroyo_Ramon
+- id: 49
+  term: summer05
+  title: Poetic Style Transfer
+  slug: poetic-style-transfer
+  category: language-modeling-generation
+  desc: Transfers poetic writing styles between texts.
+  folder: AshleyJudah
+- id: 50
+  term: summer05
+  title: Music Lyric Emotion Analysis
+  slug: lyric-emotion-analysis
+  category: applied-nlp
+  desc: Analyzes emotion and genre patterns in song lyrics.
+  folder: DainKim
+- id: 51
+  term: summer05
+  title: Tweet Sarcasm Classifier
+  slug: sarcasm-classifier
+  category: text-classification
+  desc: Machine learning model for sarcasm detection.
+  folder: HollySchwecke
+- id: 52
+  term: summer05
+  title: Stock Prediction from News Sentiment
+  slug: stock-sentiment-prediction
+  category: applied-nlp
+  desc: Predicts stock trends using sentiment from news data.
+  folder: JamesGiannoni
+- id: 53
+  term: summer05
+  title: Cyber Threat Intelligence NER
+  slug: cyber-threat-ner
+  category: information-extraction
+  desc: Extracts cyber threat entities from structured threat reports.
+  folder: JonathanTrull
+- id: 54
+  term: summer05
+  title: Medical Anxiety Topic Analysis
+  slug: medical-anxiety-topic-analysis
+  category: applied-nlp
+  desc: Uses NLP to study anxiety topics in dialysis patient discussions.
+  folder: JoshuaMorrison
+- id: 55
+  term: summer05
+  title: Podcast Episode Summarization
+  slug: podcast-summarization
+  category: summarization
+  desc: Summarizes long-form podcast transcripts.
+  folder: MarkWilkening
+- id: 56
+  term: summer05
+  title: Writing Style Transfer
+  slug: writing-style-transfer
+  category: language-modeling-generation
+  desc: Transfers writing style between authors.
+  folder: NathanHarris
+- id: 57
+  term: summer05
+  title: Natural Language Interface for Text Adventure Games
+  slug: nlp-text-adventure-interface
+  category: language-modeling-generation
+  desc: Allows natural language interaction with text adventure games.
+  folder: Panak_Spring2025
+- id: 58
+  term: summer05
+  title: Emotion Classification with GoEmotions
+  slug: goemotions-classifier
+  category: text-classification
+  desc: Fine-tunes BERT for emotion classification.
+  folder: RogerOcker
+- id: 59
+  term: summer05
+  title: Taylor Swift Lyric Generator
+  slug: taylor-swift-lyrics-generator
+  category: language-modeling-generation
+  desc: Generates song lyrics in the style of Taylor Swift.
+  folder: TorySwenson
