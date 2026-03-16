@@ -9,6 +9,15 @@ header:
   teaser: /assets/images/boulder-flatirons.jpg
 ---
 
+<figure class="align-right" style="width:300px">
+  <img src="/assets/images/Curry-Guinn-CU-Boulder-Campus.jpg"
+       alt="Curry Guinn on the University of Colorado Boulder campus"
+       loading="lazy">
+  <figcaption>
+    Curry Guinn on the University of Colorado Boulder campus.
+  </figcaption>
+</figure>
+
 
 Earlier this year the CU Boulder Online team published a short Q&A with me about teaching computer science and the Applied Computer Science Post-Baccalaureate program. The interview discusses my background, what makes the program distinctive, and some practical advice for students who are learning computer science or transitioning into the field.
 
