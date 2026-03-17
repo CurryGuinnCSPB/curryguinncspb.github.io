@@ -19,7 +19,7 @@ This page highlights a selection of NLP projects. Each project combines core com
 <div class="grid__item">
   <div class="archive__item">
     <a href="/student-projects/nlp/information-extraction/cyber-threat-ner/">
-      <img src="/assets/images/student-projects/nlp/cyber-threat-ner/hero.jpg" alt="Cyber Threat Intelligence NER project image">
+      <img src="/assets/images/student-projects/nlp/cyber-threat-ner/cyber-threat-ner-hero.jpg" alt="Cyber Threat Intelligence NER project image">
     </a>
     <h3 class="archive__item-title">
       <a href="/student-projects/nlp/information-extraction/cyber-threat-ner/">Cyber Threat Intelligence NER</a>

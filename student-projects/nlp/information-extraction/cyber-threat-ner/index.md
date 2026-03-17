@@ -3,7 +3,7 @@ title: "Cyber Threat Intelligence NER (STIX 2.1)"
 layout: single
 permalink: /student-projects/nlp/information-extraction/cyber-threat-ner/
 excerpt: "A hybrid transformer-based system for extracting STIX 2.1 entities from cybersecurity text."
-image: /assets/images/student-projects/nlp/cyber-threat-ner/hero.jpg
+image: /assets/images/student-projects/nlp/cyber-threat-ner/cyber-threat-ner-hero.jpg
 toc: false
 ---
 
