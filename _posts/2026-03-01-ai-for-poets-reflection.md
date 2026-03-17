@@ -55,23 +55,9 @@ At the same time, he emphasized that modern developers also need to understand h
 
 > “I think we need to have courses in actually teaching people how to not only code, but how to interact with the new AI coding tools, and how to understand the relation between the two.”
 
-Several students picked up on another theme from the talk: how AI tools are changing the day-to-day work of programmers.
+A related theme that came up in discussion is how the day-to-day work of programming is already shifting. Less time is spent writing every line of code from scratch, and more time is spent evaluating outputs, refining prompts, and making design decisions. In that environment, the role of the developer becomes less about typing and more about judgment.
 
-One student summarized the shift this way:
-
-> “Instead of coding every feature we are now reviewers, problem solvers, and final approvers. Instead of coding taking 70–80% of your time it’s now 20–30%, which means more time to understand the problem and deliver a better product.”  
-> — Student Piazza Post
-
-I think that observation is exactly right.
-
-Many of you are already seeing this with tools like Copilot or ChatGPT. They can generate code quickly, but they still rely on someone who understands what the code is supposed to do.
-
-Another student pointed to an example Ben mentioned where an AI assistant subtly flipped a couple of values in a program:
-
-> “Even as these tools improve and make fewer mistakes, they won’t be provably correct like a compiler.”  
-> — Student Piazza Post
-
-That distinction matters. A compiler is deterministic. An AI system is not.
+That shift also highlights an important limitation of current AI systems. Unlike compilers, which are deterministic and verifiable, AI-generated outputs require interpretation and validation. Even when the output looks correct, it still needs to be checked against the intended behavior of the system.
 
 One of Ben’s most interesting comments came when he discussed how real AI systems are actually built in practice.
 
@@ -81,19 +67,15 @@ One of Ben’s most interesting comments came when he discussed how real AI syst
 
 ---
 
-That line stuck with me because it captures something important about modern software development. The tools may be evolving quickly, but the systems we build still rely on multiple layers of knowledge.
+That line captures something important about modern software development. The tools may be evolving quickly, but the systems we build still rely on multiple layers of knowledge.
 
 Understanding AI today often means understanding how several ideas fit together: statistics, machine learning, large-scale systems, and the software that connects them.
 
-The discussion also touched on career preparation. Ben emphasized the importance of having a project that you can explain from beginning to end. Not just what the code does, but how the idea developed and what decisions you made along the way.
+The conversation also touched on career preparation. One consistent takeaway is the importance of being able to explain a project from beginning to end. Not just what the code does, but how the idea developed, what tradeoffs were considered, and how decisions were made along the way.
 
-One student wrote that the talk made them more thoughtful about the kinds of projects they choose so they can build a stronger portfolio.
+Projects make that visible. They show how someone thinks. They also give candidates something concrete to talk about during interviews. This is becoming increasingly important as employers look for signals beyond resumes alone.
 
-That is good advice.
-
-Projects help show how you think. They also give you something concrete to talk about during an interview. I am hearing similar comments from employers and alumni. It is getting harder for organizations to rely only on resumes to decide who to interview.
-
-In other words, the “poets” in Ben’s title are not just a metaphor. Many of you already bring that broader perspective to the field. And in an age where AI can generate code, that combination of **technical foundations and broader perspective** may turn out to be one of your strongest advantages.
+In other words, the “poets” in Ben’s title are not just a metaphor. Many students already bring that broader perspective to the field. And in an age where AI can generate code, that combination of **technical foundations and broader perspective** is becoming even more valuable.
 
 We have posted the **full (lightly edited) transcript of the talk** here:
 
