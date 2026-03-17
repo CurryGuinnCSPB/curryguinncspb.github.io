@@ -30,11 +30,11 @@ This page highlights a selection of NLP projects. Each project combines core com
 
 <div class="grid__item">
   <div class="archive__item">
-    <a href="/student-projects/nlp/applied-nlp/knowledge-base-qa/">
+    <a href="/student-projects/nlp/question-answering/knowledge-base-qa/">
       <img src="/assets/images/student-projects/nlp/knowledge-base-qa/hero.jpg" alt="Knowledge base question answering project image">
     </a>
     <h3 class="archive__item-title">
-      <a href="/student-projects/nlp/applied-nlp/knowledge-base-qa/">Knowledge-Base Question Answering</a>
+      <a href="/student-projects/nlp/question-answering/knowledge-base-qa/">Knowledge-Base Question Answering</a>
     </h3>
     <p class="archive__item-excerpt">Answering natural language questions using structured knowledge sources.</p>
   </div>
@@ -98,6 +98,7 @@ This page highlights a selection of NLP projects. Each project combines core com
 - [Language Modeling & Generation](/student-projects/nlp/language-modeling-generation/)
 - [Applied NLP](/student-projects/nlp/applied-nlp/)
 - [Information Extraction](/student-projects/nlp/information-extraction/)
+- [Question Answering](/student-projects/nlp/question-answering/)
 - [Text Summarization](/student-projects/nlp/summarization/)
 
 ---

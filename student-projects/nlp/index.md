@@ -12,6 +12,7 @@ This section collects NLP student projects and organizes them by subfield. Each 
 
 - [Text Classification (22)](/student-projects/nlp/text-classification/)
 - [Language Modeling & Generation (14)](/student-projects/nlp/language-modeling-generation/)
-- [Applied NLP (15)](/student-projects/nlp/applied-nlp/)
+- [Applied NLP (11)](/student-projects/nlp/applied-nlp/)
 - [Information Extraction (5)](/student-projects/nlp/information-extraction/)
+- [Question Answering (4)](/student-projects/nlp/question-answering/)
 - [Text Summarization (3)](/student-projects/nlp/summarization/)
