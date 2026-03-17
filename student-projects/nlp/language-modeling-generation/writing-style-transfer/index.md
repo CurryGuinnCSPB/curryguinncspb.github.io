@@ -3,52 +3,34 @@ title: "Writing Style Transfer"
 layout: single
 permalink: /student-projects/nlp/language-modeling-generation/writing-style-transfer/
 excerpt: "Transfers writing style between authors."
-course: "Natural Language Processing"
-term: "Summer 2005"
-category: "language-modeling-generation"
-project_id: 56
-source_folder: "NathanHarris"
-image: "/assets/images/student-projects/nlp/writing-style-transfer/hero.jpg"
+image: /assets/images/student-projects/nlp/writing-style-transfer/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Transfers writing style between authors.
+This project focuses on transfers writing style between authors.
 
-## Project Snapshot
+2 This project explored Text Style Transfer from neutral to stylized writing by fine-tuning GPT-2 Medium using open source Hugging Face transformers on Google Colab. The dataset consisted of 300 text chunks from Herman Melville's three most popular novels paired with corresponding neutralized texts generated using ChatGPT.
 
-- **Course:** Natural Language Processing
-- **Term:** Summer 2005
-- **Category:** Language Modeling & Generation
-- **Internal Project ID:** NLP-56
-- **Original Source Folder:** `NathanHarris`
+---
 
-## Approach
+## Data and System Design
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on Project Gutenberg, X.
+
+The core system is built around T5, GPT-2, RAG, transformer. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
+
+The implementation uses Hugging Face, transformers, ROUGE.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Writing Style Transfer](/assets/images/student-projects/nlp/writing-style-transfer/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Generation projects are useful because they show how language models can move from pattern recognition to actual output creation. This project also makes clear that dataset design and prompting choices shape the final result.

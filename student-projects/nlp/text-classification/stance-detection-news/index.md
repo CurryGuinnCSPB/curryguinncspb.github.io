@@ -3,52 +3,34 @@ title: "Stance Detection in News Text"
 layout: single
 permalink: /student-projects/nlp/text-classification/stance-detection-news/
 excerpt: "Identifies stance and bias in news articles."
-course: "Natural Language Processing"
-term: "Fall 2005"
-category: "text-classification"
-project_id: 11
-source_folder: "Maccagnanlinda"
-image: "/assets/images/student-projects/nlp/stance-detection-news/hero.jpg"
+image: /assets/images/student-projects/nlp/stance-detection-news/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Identifies stance and bias in news articles.
+This project focuses on identifies stance and bias in news articles.
 
-## Project Snapshot
+This project investigates stance detection in text using three diverse datasets: Internet Argument Corpus (IAC), Perspectrum, and Emergent. A traditional machine learning model, TF-IDF with logistic regression, is compared to a transformer-based model, RoBERTa-base, to classify text as supporting, critical, or neutral toward claims.
 
-- **Course:** Natural Language Processing
-- **Term:** Fall 2005
-- **Category:** Text Classification
-- **Internal Project ID:** NLP-11
-- **Original Source Folder:** `Maccagnanlinda`
+---
 
-## Approach
+## Data and Modeling
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on X, Macro F1 Scores Across Dataset.
+
+The core system is built around BERT, RoBERTa, TF-IDF, Logistic Regression. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
+
+The implementation uses Hugging Face, transformers.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results show a clear improvement over the comparison baseline or over simpler alternatives.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Stance Detection in News Text](/assets/images/student-projects/nlp/stance-detection-news/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.

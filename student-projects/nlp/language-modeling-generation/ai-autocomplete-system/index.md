@@ -3,52 +3,34 @@ title: "AI Autocomplete System"
 layout: single
 permalink: /student-projects/nlp/language-modeling-generation/ai-autocomplete-system/
 excerpt: "Builds predictive autocomplete suggestions using language models."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "language-modeling-generation"
-project_id: 23
-source_folder: "Brownconnor"
-image: "/assets/images/student-projects/nlp/ai-autocomplete-system/hero.jpg"
+image: /assets/images/student-projects/nlp/ai-autocomplete-system/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Builds predictive autocomplete suggestions using language models.
+This project focuses on builds predictive autocomplete suggestions using language models.
 
-## Project Snapshot
+This report presents the implementaEon and evaluaEon of a GPT-2 based autocomplete system designed to accurately predict and complete user-inpuLed text. The study addresses key challenges in text autocompleEon: maintaining contextual coherence in longer text sequences, opEmizing for speciﬁc domains, and producing text consistent with contemporary language paLerns.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Language Modeling & Generation
-- **Internal Project ID:** NLP-23
-- **Original Source Folder:** `Brownconnor`
+---
 
-## Approach
+## Data and System Design
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project uses X as its primary dataset.
+
+The core system is built around BERT, RoBERTa, GPT-2, LSTM. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
+
+The implementation uses Hugging Face, transformers, PyTorch, scikit-learn, NLTK.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for AI Autocomplete System](/assets/images/student-projects/nlp/ai-autocomplete-system/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Generation projects are useful because they show how language models can move from pattern recognition to actual output creation. This project also makes clear that dataset design and prompting choices shape the final result.

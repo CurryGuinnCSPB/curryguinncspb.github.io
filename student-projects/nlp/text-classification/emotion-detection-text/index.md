@@ -3,52 +3,34 @@ title: "Emotion Detection in Text"
 layout: single
 permalink: /student-projects/nlp/text-classification/emotion-detection-text/
 excerpt: "Identifies emotional states expressed in written language."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "text-classification"
-project_id: 21
-source_folder: "Baileycharlie"
-image: "/assets/images/student-projects/nlp/emotion-detection-text/hero.jpg"
+image: /assets/images/student-projects/nlp/emotion-detection-text/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Identifies emotional states expressed in written language.
+This project focuses on identifies emotional states expressed in written language.
 
-## Project Snapshot
+Emotion is one of the crucial human feedback mechanisms that is difficult to transmit with it's full potential in the written form. This project, demonstrates the efficacy of a fine-tuned BERT model at detecting and distinguishing between six core human emotions (sadness, joy, love, anger, fear, and surprise) in textual data.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Text Classification
-- **Internal Project ID:** NLP-21
-- **Original Source Folder:** `Baileycharlie`
+---
 
-## Approach
+## Data and Modeling
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on GoEmotions, Twitter, X. Reported data sizes include 2,000 validation, 2,000 test.
+
+The core system is built around BERT, LSTM, RAG, transformer. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
+
+The implementation uses Hugging Face, transformers, PyTorch, pandas.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+Reported evaluation includes F1: **0.932**, and Accuracy: **93.3**. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Emotion Detection in Text](/assets/images/student-projects/nlp/emotion-detection-text/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.

@@ -3,52 +3,34 @@ title: "News Article Summarization"
 layout: single
 permalink: /student-projects/nlp/summarization/news-article-summarization/
 excerpt: "Generates concise summaries of long news articles."
-course: "Natural Language Processing"
-term: "Fall 2005"
-category: "summarization"
-project_id: 19
-source_folder: "Vargasclaudia"
-image: "/assets/images/student-projects/nlp/news-article-summarization/hero.jpg"
+image: /assets/images/student-projects/nlp/news-article-summarization/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Generates concise summaries of long news articles.
+This project focuses on generates concise summaries of long news articles.
 
-## Project Snapshot
+Text summarization refers to the process of condensing lengthy text into shorter summaries that make it easy to grasp while preserving the main topics in a document. Prior work such as Abstractive vs Extractive Summarization argue that while abstractive summaries tend to resemble human-written text more closely compared to extractive, these approaches still lack contextual representation needed to form fluent summaries.This raises the broader question of how existing methods can be improved to better support natural language understanding.
 
-- **Course:** Natural Language Processing
-- **Term:** Fall 2005
-- **Category:** Text Summarization
-- **Internal Project ID:** NLP-19
-- **Original Source Folder:** `Vargasclaudia`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on X, HuggingFace Dataset, A Large-Scale Dataset.
+
+The core system is built around BERT, DistilBERT, TF-IDF, RAG. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
+
+The implementation uses transformers, scikit-learn, NLTK, ROUGE.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results show a clear improvement over the comparison baseline or over simpler alternatives.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for News Article Summarization](/assets/images/student-projects/nlp/news-article-summarization/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Summarization is one of the clearest ways to make NLP useful for real readers. A good summarization system reduces the amount of text someone needs to process while preserving the main information.

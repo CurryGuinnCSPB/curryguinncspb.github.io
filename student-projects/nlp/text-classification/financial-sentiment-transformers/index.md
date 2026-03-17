@@ -3,52 +3,34 @@ title: "Financial Sentiment Analysis Using Transformers"
 layout: single
 permalink: /student-projects/nlp/text-classification/financial-sentiment-transformers/
 excerpt: "Detects sentiment in financial text using transformer-based models."
-course: "Natural Language Processing"
-term: "Fall 2005"
-category: "text-classification"
-project_id: 5
-source_folder: "Dhillonbrad"
-image: "/assets/images/student-projects/nlp/financial-sentiment-transformers/hero.jpg"
+image: /assets/images/student-projects/nlp/financial-sentiment-transformers/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Detects sentiment in financial text using transformer-based models.
+This project focuses on detects sentiment in financial text using transformer-based models.
 
-## Project Snapshot
+Bradford Dhillon NLP Fall 2025 Final Report 1. Title: Analysis of public sentiment of financial instruments using transformers 2.
 
-- **Course:** Natural Language Processing
-- **Term:** Fall 2005
-- **Category:** Text Classification
-- **Internal Project ID:** NLP-05
-- **Original Source Folder:** `Dhillonbrad`
+---
 
-## Approach
+## Data and Modeling
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on Wikipedia, Twitter, X.
+
+The core system is built around BERT, RAG, transformer. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Financial Sentiment Analysis Using Transformers](/assets/images/student-projects/nlp/financial-sentiment-transformers/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.

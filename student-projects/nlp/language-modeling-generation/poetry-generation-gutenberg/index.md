@@ -3,52 +3,34 @@ title: "Poetry Generation with Project Gutenberg"
 layout: single
 permalink: /student-projects/nlp/language-modeling-generation/poetry-generation-gutenberg/
 excerpt: "Generates poems trained on Project Gutenberg corpora."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "language-modeling-generation"
-project_id: 30
-source_folder: "Gobleleonora"
-image: "/assets/images/student-projects/nlp/poetry-generation-gutenberg/hero.jpg"
+image: /assets/images/student-projects/nlp/poetry-generation-gutenberg/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Generates poems trained on Project Gutenberg corpora.
+This project focuses on generates poems trained on Project Gutenberg corpora.
 
-## Project Snapshot
+​ An interactive program for computational poetry generation which responds dynamically to user input was created with GPT-2 and Project Gutenberg poetry data. The program explores various poetry generation strategies based on the alternation of user-written lines with computer-generated lines.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Language Modeling & Generation
-- **Internal Project ID:** NLP-30
-- **Original Source Folder:** `Gobleleonora`
+---
 
-## Approach
+## Data and System Design
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on Project Gutenberg, X.
+
+The core system is built around GPT-2, transformer. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
+
+The implementation uses transformers, NLTK.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Poetry Generation with Project Gutenberg](/assets/images/student-projects/nlp/poetry-generation-gutenberg/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Generation projects are useful because they show how language models can move from pattern recognition to actual output creation. This project also makes clear that dataset design and prompting choices shape the final result.

@@ -3,52 +3,34 @@ title: "Toxic Comment Filtering"
 layout: single
 permalink: /student-projects/nlp/text-classification/toxic-comment-filtering/
 excerpt: "Detects toxic language in online comment threads."
-course: "Natural Language Processing"
-term: "Fall 2005"
-category: "text-classification"
-project_id: 10
-source_folder: "Konasanthony"
-image: "/assets/images/student-projects/nlp/toxic-comment-filtering/hero.jpg"
+image: /assets/images/student-projects/nlp/toxic-comment-filtering/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Detects toxic language in online comment threads.
+This project focuses on detects toxic language in online comment threads.
 
-## Project Snapshot
+My project consisted of building two different toxic comment filtering models. The first was a BERT-based pre-trained transformer model and the second was a Word2Vec + LSTM custom built model.
 
-- **Course:** Natural Language Processing
-- **Term:** Fall 2005
-- **Category:** Text Classification
-- **Internal Project ID:** NLP-10
-- **Original Source Folder:** `Konasanthony`
+---
 
-## Approach
+## Data and Modeling
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on Wikipedia, SARC, Twitter.
+
+The core system is built around BERT, LSTM, RAG, transformer. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
+
+The implementation uses Hugging Face, transformers, PyTorch, scikit-learn, pandas.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+Reported evaluation includes Accuracy: **96.95**, Precision: **83.10**, and Recall: **82.17**. The results show a clear improvement over the comparison baseline or over simpler alternatives.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Toxic Comment Filtering](/assets/images/student-projects/nlp/toxic-comment-filtering/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.

@@ -3,52 +3,34 @@ title: "Multi-Agent AI for Construction Costing"
 layout: single
 permalink: /student-projects/nlp/applied-nlp/ai-construction-costing/
 excerpt: "Uses agentic workflows to automate cost estimation tasks."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "applied-nlp"
-project_id: 20
-source_folder: "Alkamalismail"
-image: "/assets/images/student-projects/nlp/ai-construction-costing/hero.jpg"
+image: /assets/images/student-projects/nlp/ai-construction-costing/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Uses agentic workflows to automate cost estimation tasks.
+This project focuses on uses agentic workflows to automate cost estimation tasks.
 
-## Project Snapshot
+The purpose of this project is to build an agentic AI workflow for construction costing through parsing drawings, specifications and bill of quantities (BOQs), emailing suppliers and getting quotes and then generating a priced Bill of Quantities. Several experiments were conducted including: - Uploading drawings, specifications and BOQs on ChatGPT (GPT 4o) and generating supplier emails.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Applied NLP
-- **Internal Project ID:** NLP-20
-- **Original Source Folder:** `Alkamalismail`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project uses X as its primary dataset.
+
+The core system is built around BERT, RoBERTa, Claude, RAG. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Multi-Agent AI for Construction Costing](/assets/images/student-projects/nlp/ai-construction-costing/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+This project shows how NLP techniques can be adapted to a concrete problem rather than used only as benchmarks. That practical step is what makes the work especially useful on a public-facing portfolio page.

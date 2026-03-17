@@ -3,52 +3,34 @@ title: "GPT-2 Metered Verse Generation"
 layout: single
 permalink: /student-projects/nlp/language-modeling-generation/metered-verse-generation/
 excerpt: "Generates poetry that follows metrical patterns."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "language-modeling-generation"
-project_id: 42
-source_folder: "Smithlayce"
-image: "/assets/images/student-projects/nlp/metered-verse-generation/hero.jpg"
+image: /assets/images/student-projects/nlp/metered-verse-generation/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Generates poetry that follows metrical patterns.
+This project focuses on generates poetry that follows metrical patterns.
 
-## Project Snapshot
+Generating Metered Verse by Fine-Tuning GPT2 Natural Language Processing CSPB 4830 Spring 2025 Layce Smith - lasm5605@colorado.edu The goal of this project is to fine-tune GPT2 to create two language models that can generate metered verse in the form of iambic pentameter and haiku poems. I chose this task because metered verse is often easiest to learn if one taps out the beat.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Language Modeling & Generation
-- **Internal Project ID:** NLP-42
-- **Original Source Folder:** `Smithlayce`
+---
 
-## Approach
+## Data and System Design
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on Project Gutenberg, X, Haiku Dataset.
+
+The core system is built around GPT2, transformer. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
+
+The implementation uses Hugging Face, transformers.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for GPT-2 Metered Verse Generation](/assets/images/student-projects/nlp/metered-verse-generation/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Generation projects are useful because they show how language models can move from pattern recognition to actual output creation. This project also makes clear that dataset design and prompting choices shape the final result.

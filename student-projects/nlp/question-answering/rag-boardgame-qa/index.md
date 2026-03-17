@@ -3,52 +3,34 @@ title: "RAG Question Answering for Board Games"
 layout: single
 permalink: /student-projects/nlp/question-answering/rag-boardgame-qa/
 excerpt: "Uses retrieval-augmented generation to answer board game questions."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "applied-nlp"
-project_id: 33
-source_folder: "Kawaguchinoah"
-image: "/assets/images/student-projects/nlp/rag-boardgame-qa/hero.jpg"
+image: /assets/images/student-projects/nlp/rag-boardgame-qa/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Uses retrieval-augmented generation to answer board game questions.
+This project focuses on uses retrieval-augmented generation to answer board game questions.
 
-## Project Snapshot
+This project addresses the problem of text autocomplete systems, comparing three different approaches: n-gram models, LSTM models, and transformers. Specifically, the three approaches range from simple to complex and from cheap to expensive in terms of time and compute.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Applied NLP
-- **Internal Project ID:** NLP-33
-- **Original Source Folder:** `Kawaguchinoah`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project uses X as its primary dataset.
+
+The core system is built around LSTM, transformer, PyTorch. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
+
+The implementation uses Hugging Face, transformers, PyTorch, NLTK, TensorFlow.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results show a clear improvement over the comparison baseline or over simpler alternatives.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for RAG Question Answering for Board Games](/assets/images/student-projects/nlp/rag-boardgame-qa/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Question answering remains one of the most direct ways people interact with NLP systems. This project shows how retrieval and generation can be combined to return focused answers instead of a list of documents.

@@ -3,52 +3,34 @@ title: "Named Entity Recognition for News Articles"
 layout: single
 permalink: /student-projects/nlp/information-extraction/news-ner-system/
 excerpt: "Identifies people, organizations, and locations in news text."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "information-extraction"
-project_id: 34
-source_folder: "Leejaekyeong"
-image: "/assets/images/student-projects/nlp/news-ner-system/hero.jpg"
+image: /assets/images/student-projects/nlp/news-ner-system/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Identifies people, organizations, and locations in news text.
+This project focuses on identifies people, organizations, and locations in news text.
 
-## Project Snapshot
+Named Entity Recognition for News Articles CSPB 4830 Spring 2025 Final Project Jaekyeong Lee Task: Named Entity Recognition (NER) in News Articles Problem Overview What is NER? Identifying named entities (people, locations, organisations, etc) within text.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Information Extraction
-- **Internal Project ID:** NLP-34
-- **Original Source Folder:** `Leejaekyeong`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project uses X as its primary dataset.
+
+The core system is built around LSTM, PyTorch, scikit-learn. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Named Entity Recognition for News Articles](/assets/images/student-projects/nlp/news-ner-system/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Information extraction is useful whenever important details are buried in long, unstructured text. This project shows how NLP can turn those details into structured data that can support downstream systems or analysis.

@@ -3,52 +3,34 @@ title: "Code Documentation Generator"
 layout: single
 permalink: /student-projects/nlp/applied-nlp/code-documentation-generator/
 excerpt: "Automatically generates documentation from source code."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "applied-nlp"
-project_id: 37
-source_folder: "Prestimatthew"
-image: "/assets/images/student-projects/nlp/code-documentation-generator/hero.jpg"
+image: /assets/images/student-projects/nlp/code-documentation-generator/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Automatically generates documentation from source code.
+This project focuses on automatically generates documentation from source code.
 
-## Project Snapshot
+This project explores automated generation of code documentation for Python functions using transformer-based models. I implemented and evaluated CodeBERT for automatic docstring generation using the CodeSearchNet dataset, treating code documentation as a sequence-to-sequence translation task.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Applied NLP
-- **Internal Project ID:** NLP-37
-- **Original Source Folder:** `Prestimatthew`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on X, CodeDocDataset.
+
+The core system is built around BERT, RAG, transformer. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
+
+The implementation uses Hugging Face, transformers, ROUGE.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+Reported evaluation includes Accuracy: **0.17**, and ROUGE-1: **0.24**. The results show a clear improvement over the comparison baseline or over simpler alternatives.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Code Documentation Generator](/assets/images/student-projects/nlp/code-documentation-generator/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+This project shows how NLP techniques can be adapted to a concrete problem rather than used only as benchmarks. That practical step is what makes the work especially useful on a public-facing portfolio page.

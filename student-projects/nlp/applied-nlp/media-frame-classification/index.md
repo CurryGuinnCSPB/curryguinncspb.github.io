@@ -3,52 +3,34 @@ title: "Media Frame Classification"
 layout: single
 permalink: /student-projects/nlp/applied-nlp/media-frame-classification/
 excerpt: "Classifies political media frames in news coverage."
-course: "Natural Language Processing"
-term: "Fall 2005"
-category: "applied-nlp"
-project_id: 15
-source_folder: "Samayoaerick"
-image: "/assets/images/student-projects/nlp/media-frame-classification/hero.jpg"
+image: /assets/images/student-projects/nlp/media-frame-classification/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Classifies political media frames in news coverage.
+This project focuses on classifies political media frames in news coverage.
 
-## Project Snapshot
+From Words to Frames: Classifying Cinematography Shot Scales with Text-Based NLP Erick Samayoa CSPB 3832 Natural Language Processing Why Shot Scale? Why Text?
 
-- **Course:** Natural Language Processing
-- **Term:** Fall 2005
-- **Category:** Applied NLP
-- **Internal Project ID:** NLP-15
-- **Original Source Folder:** `Samayoaerick`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project uses X as its primary dataset.
+
+The core system is built around TF-IDF, transformer. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Media Frame Classification](/assets/images/student-projects/nlp/media-frame-classification/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+This project shows how NLP techniques can be adapted to a concrete problem rather than used only as benchmarks. That practical step is what makes the work especially useful on a public-facing portfolio page.

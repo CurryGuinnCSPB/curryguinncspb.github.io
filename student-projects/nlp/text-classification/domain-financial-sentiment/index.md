@@ -3,52 +3,34 @@ title: "Domain-Specific Financial Sentiment"
 layout: single
 permalink: /student-projects/nlp/text-classification/domain-financial-sentiment/
 excerpt: "Evaluates domain-specific vs. general sentiment models."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "text-classification"
-project_id: 31
-source_folder: "Haquesulman"
-image: "/assets/images/student-projects/nlp/domain-financial-sentiment/hero.jpg"
+image: /assets/images/student-projects/nlp/domain-financial-sentiment/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Evaluates domain-specific vs. general sentiment models.
+This project focuses on evaluates domain-specific vs. general sentiment models.
 
-## Project Snapshot
+Title: Financial Sentiment Analysis in General vs Domain Specific Language Models Course: CSPB 4380, Spring 2025 Natural Language Processing Author: Sulman Haque Date: 05/05/2025 ABSTRACT: Financial Sentiment Analysis (FSA) on documents can serve as a useful heuristic for investing professionals when evaluating and monitoring investments. FSA poses unique challenges including ambiguity on the rating of sentiment, reduced tonality and expressiveness of written financial information, and numerical relationships in the text to determine positive or negative outlooks, among others.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Text Classification
-- **Internal Project ID:** NLP-31
-- **Original Source Folder:** `Haquesulman`
+---
 
-## Approach
+## Data and Modeling
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on Twitter, X, Fine-Tuning Dataset.
+
+The core system is built around BERT, LSTM, Claude, RAG. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+Reported evaluation includes F1: **0**. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Domain-Specific Financial Sentiment](/assets/images/student-projects/nlp/domain-financial-sentiment/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.

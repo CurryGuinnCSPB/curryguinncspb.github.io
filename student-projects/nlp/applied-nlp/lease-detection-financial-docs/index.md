@@ -3,52 +3,34 @@ title: "Automated Lease Detection in Financial Documents"
 layout: single
 permalink: /student-projects/nlp/applied-nlp/lease-detection-financial-docs/
 excerpt: "Extracts lease obligations from accounting documents."
-course: "Natural Language Processing"
-term: "Fall 2005"
-category: "applied-nlp"
-project_id: 14
-source_folder: "Nguyenanna"
-image: "/assets/images/student-projects/nlp/lease-detection-financial-docs/hero.jpg"
+image: /assets/images/student-projects/nlp/lease-detection-financial-docs/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Extracts lease obligations from accounting documents.
+This project focuses on extracts lease obligations from accounting documents.
 
-## Project Snapshot
+Under the accounting standard ASC 842, companies are required to capitalize leases on their balance sheets. This has turned a routine compliance task into a massive data processing challenge, requiring accountants to manually review thousands of contracts to distinguish true leases from service agreements.
 
-- **Course:** Natural Language Processing
-- **Term:** Fall 2005
-- **Category:** Applied NLP
-- **Internal Project ID:** NLP-14
-- **Original Source Folder:** `Nguyenanna`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project uses X as its primary dataset.
+
+The core system is built around BERT, TF-IDF, Logistic Regression, transformer. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Automated Lease Detection in Financial Documents](/assets/images/student-projects/nlp/lease-detection-financial-docs/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+This project shows how NLP techniques can be adapted to a concrete problem rather than used only as benchmarks. That practical step is what makes the work especially useful on a public-facing portfolio page.

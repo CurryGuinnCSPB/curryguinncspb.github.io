@@ -3,52 +3,34 @@ title: "Transformer Autocomplete Model"
 layout: single
 permalink: /student-projects/nlp/language-modeling-generation/transformer-autocomplete/
 excerpt: "Implements transformer models for predictive typing."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "language-modeling-generation"
-project_id: 41
-source_folder: "Shimobemayumi"
-image: "/assets/images/student-projects/nlp/transformer-autocomplete/hero.jpg"
+image: /assets/images/student-projects/nlp/transformer-autocomplete/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Implements transformer models for predictive typing.
+This project focuses on implements transformer models for predictive typing.
 
-## Project Snapshot
+CSPB4830 NLP Mayumi Shimobe Apr 20, 2025 1. Fine-Tuning Transformer Models for Email Autocompletion: A Comparative Study 2.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Language Modeling & Generation
-- **Internal Project ID:** NLP-41
-- **Original Source Folder:** `Shimobemayumi`
+---
 
-## Approach
+## Data and System Design
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on X, The main dataset Enron Email Dataset, TextDataset.
+
+The core system is built around BERT, GPT-2, GPT2, RAG. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Transformer Autocomplete Model](/assets/images/student-projects/nlp/transformer-autocomplete/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Generation projects are useful because they show how language models can move from pattern recognition to actual output creation. This project also makes clear that dataset design and prompting choices shape the final result.

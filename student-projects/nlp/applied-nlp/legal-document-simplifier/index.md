@@ -3,52 +3,34 @@ title: "Legal Document Simplification"
 layout: single
 permalink: /student-projects/nlp/applied-nlp/legal-document-simplifier/
 excerpt: "Simplifies complex legal documents for readability."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "applied-nlp"
-project_id: 39
-source_folder: "Sandkekevin"
-image: "/assets/images/student-projects/nlp/legal-document-simplifier/hero.jpg"
+image: /assets/images/student-projects/nlp/legal-document-simplifier/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Simplifies complex legal documents for readability.
+This project focuses on simplifies complex legal documents for readability.
 
-## Project Snapshot
+Legal documents can often feel like a completely different language and that makes them less accessible to the average person. This project aims to address this by creating an NLP system that classifies, summarizes, and simplifies legal documents.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Applied NLP
-- **Internal Project ID:** NLP-39
-- **Original Source Folder:** `Sandkekevin`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on Amazon, X, Classification Dataset.
+
+The core system is built around BERT, T5-small, T5, RAG. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
+
+The implementation uses ROUGE.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+Reported evaluation includes ROUGE-1: **43.3**, ROUGE-1: **42.0**, ROUGE-2: **18.5**, and ROUGE-2: **12.7**. The results show a clear improvement over the comparison baseline or over simpler alternatives.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Legal Document Simplification](/assets/images/student-projects/nlp/legal-document-simplifier/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+This project shows how NLP techniques can be adapted to a concrete problem rather than used only as benchmarks. That practical step is what makes the work especially useful on a public-facing portfolio page.

@@ -3,52 +3,34 @@ title: "Podcast Episode Summarization"
 layout: single
 permalink: /student-projects/nlp/summarization/podcast-summarization/
 excerpt: "Summarizes long-form podcast transcripts."
-course: "Natural Language Processing"
-term: "Summer 2005"
-category: "summarization"
-project_id: 55
-source_folder: "MarkWilkening"
-image: "/assets/images/student-projects/nlp/podcast-summarization/hero.jpg"
+image: /assets/images/student-projects/nlp/podcast-summarization/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Summarizes long-form podcast transcripts.
+This project focuses on summarizes long-form podcast transcripts.
 
-## Project Snapshot
+1 Final Project Report Mark Wilkening – mawi3086 Style Aware Podcast Summarizer August 14, 2025 This project explores the task of abstractive summarization of long-form narrative audio content with a focus on This American Life, a narrative journalism podcast. The goal was to fine-tune a transformer-based model to generate summaries that match the tone, brevity, and narrative style of the show’s official blurbs.
 
-- **Course:** Natural Language Processing
-- **Term:** Summer 2005
-- **Category:** Text Summarization
-- **Internal Project ID:** NLP-55
-- **Original Source Folder:** `MarkWilkening`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on X, Spotify Podcast Dataset, This American Life Podcast Dialog Transcripts Dataset.
+
+The core system is built around BERT, T5, RAG, transformer. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Podcast Episode Summarization](/assets/images/student-projects/nlp/podcast-summarization/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Summarization is one of the clearest ways to make NLP useful for real readers. A good summarization system reduces the amount of text someone needs to process while preserving the main information.

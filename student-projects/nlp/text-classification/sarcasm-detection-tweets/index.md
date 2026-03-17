@@ -3,52 +3,34 @@ title: "Sarcasm Detection in Tweets"
 layout: single
 permalink: /student-projects/nlp/text-classification/sarcasm-detection-tweets/
 excerpt: "Detects sarcasm in social media posts using transformer models."
-course: "Natural Language Processing"
-term: "Fall 2005"
-category: "text-classification"
-project_id: 8
-source_folder: "Goshentherese"
-image: "/assets/images/student-projects/nlp/sarcasm-detection-tweets/hero.jpg"
+image: /assets/images/student-projects/nlp/sarcasm-detection-tweets/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Detects sarcasm in social media posts using transformer models.
+This project focuses on detects sarcasm in social media posts using transformer models.
 
-## Project Snapshot
+Sarcasm is a subtle and context-dependent way of communication, which largely depends on the intricacies of the linguistic cues, cultural knowledge, or implied meaning. Automatically detecting sarcasm in social media posts such as tweets has become an important task in applications like sentiment analysis and intent understanding.
 
-- **Course:** Natural Language Processing
-- **Term:** Fall 2005
-- **Category:** Text Classification
-- **Internal Project ID:** NLP-08
-- **Original Source Folder:** `Goshentherese`
+---
 
-## Approach
+## Data and Modeling
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on SARC, X. Reported data sizes include 3,800 training, 1,800 test.
+
+The core system is built around BERT, RoBERTa, TF-IDF, Logistic Regression. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
+
+The implementation uses Hugging Face, transformers, PyTorch, scikit-learn, pandas.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results show a clear improvement over the comparison baseline or over simpler alternatives.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Sarcasm Detection in Tweets](/assets/images/student-projects/nlp/sarcasm-detection-tweets/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.

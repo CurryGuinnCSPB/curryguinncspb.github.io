@@ -3,52 +3,34 @@ title: "Stylometric Metadata Analysis"
 layout: single
 permalink: /student-projects/nlp/applied-nlp/stylometric-metadata-analysis/
 excerpt: "Uses stylometry to infer metadata about authors and documents."
-course: "Natural Language Processing"
-term: "Fall 2005"
-category: "applied-nlp"
-project_id: 6
-source_folder: "Duranjasmine"
-image: "/assets/images/student-projects/nlp/stylometric-metadata-analysis/hero.jpg"
+image: /assets/images/student-projects/nlp/stylometric-metadata-analysis/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Uses stylometry to infer metadata about authors and documents.
+This project focuses on uses stylometry to infer metadata about authors and documents.
 
-## Project Snapshot
+Stylometry Metadata, explores the potential of stylometric analysis beyond predicting authorship to predicting publication date and geographical origin of texts. Using a dataset of 70,000 public domain works from a Project Gutenberg Kaggle database, feature-based and transformer-based approaches compare the three tasks, authorship, publication date and geographical origin.
 
-- **Course:** Natural Language Processing
-- **Term:** Fall 2005
-- **Category:** Applied NLP
-- **Internal Project ID:** NLP-06
-- **Original Source Folder:** `Duranjasmine`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on Project Gutenberg, Twitter, X.
+
+The core system is built around BERT, DistilBERT, RAG, transformer. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
+
+The implementation uses transformers, pandas, NLTK.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+Reported evaluation includes F1: **.119**, F1: **.11209**, Accuracy: **.286**, and Accuracy: **.06667**. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Stylometric Metadata Analysis](/assets/images/student-projects/nlp/stylometric-metadata-analysis/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+This project shows how NLP techniques can be adapted to a concrete problem rather than used only as benchmarks. That practical step is what makes the work especially useful on a public-facing portfolio page.

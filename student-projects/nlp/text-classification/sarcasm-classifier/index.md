@@ -3,52 +3,34 @@ title: "Tweet Sarcasm Classifier"
 layout: single
 permalink: /student-projects/nlp/text-classification/sarcasm-classifier/
 excerpt: "Machine learning model for sarcasm detection."
-course: "Natural Language Processing"
-term: "Summer 2005"
-category: "text-classification"
-project_id: 51
-source_folder: "HollySchwecke"
-image: "/assets/images/student-projects/nlp/sarcasm-classifier/hero.jpg"
+image: /assets/images/student-projects/nlp/sarcasm-classifier/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Machine learning model for sarcasm detection.
+This project focuses on machine learning model for sarcasm detection.
 
-## Project Snapshot
+Sarcasm detection is a challenging problem in natural language processing (NLP) due to its reliance on subtle linguistic cues, context, and tone. This project investigates sarcasm detection in short-form social media text using the TweetEval irony dataset.
 
-- **Course:** Natural Language Processing
-- **Term:** Summer 2005
-- **Category:** Text Classification
-- **Internal Project ID:** NLP-51
-- **Original Source Folder:** `HollySchwecke`
+---
 
-## Approach
+## Data and Modeling
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on SARC, TweetEval, Twitter.
+
+The core system is built around BERT, RoBERTa, DistilBERT, TF-IDF. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+Reported evaluation includes F1: **0.6454**, F1: **0.6705**, Accuracy: **0.6416**, and Accuracy: **0.6712**. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Tweet Sarcasm Classifier](/assets/images/student-projects/nlp/sarcasm-classifier/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.

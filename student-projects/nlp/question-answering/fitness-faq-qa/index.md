@@ -3,52 +3,34 @@ title: "Fitness FAQ Question Answering"
 layout: single
 permalink: /student-projects/nlp/question-answering/fitness-faq-qa/
 excerpt: "Answers fitness questions using a domain-specific dataset."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "applied-nlp"
-project_id: 28
-source_folder: "Frenchelaine"
-image: "/assets/images/student-projects/nlp/fitness-faq-qa/hero.jpg"
+image: /assets/images/student-projects/nlp/fitness-faq-qa/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Answers fitness questions using a domain-specific dataset.
+This project focuses on answers fitness questions using a domain-specific dataset.
 
-## Project Snapshot
+This project presents a hybrid Question Answering (QA) system tailored to the fitness domain, aiming to provide accurate, relevant responses to user questions about exercise, nutrition, and wellness. The system combines traditional information retrieval methods, TF-IDF and Word2Vec, with a transformer-based extractive QA model (DistilBERT) fine- tuned on the SQuAD 2.0 dataset.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Applied NLP
-- **Internal Project ID:** NLP-28
-- **Original Source Folder:** `Frenchelaine`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on SQuAD, X, Hugging Face Dataset.
+
+The core system is built around BERT, RoBERTa, DistilBERT, TF-IDF. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
+
+The implementation uses Hugging Face, transformers, scikit-learn, NLTK, TensorFlow.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results show a clear improvement over the comparison baseline or over simpler alternatives.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Fitness FAQ Question Answering](/assets/images/student-projects/nlp/fitness-faq-qa/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Question answering remains one of the most direct ways people interact with NLP systems. This project shows how retrieval and generation can be combined to return focused answers instead of a list of documents.

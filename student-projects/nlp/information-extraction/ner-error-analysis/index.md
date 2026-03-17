@@ -3,52 +3,34 @@ title: "Error Analysis in Named Entity Recognition"
 layout: single
 permalink: /student-projects/nlp/information-extraction/ner-error-analysis/
 excerpt: "Examines common error patterns in NER models."
-course: "Natural Language Processing"
-term: "Fall 2005"
-category: "information-extraction"
-project_id: 17
-source_folder: "Schiavettaandrew"
-image: "/assets/images/student-projects/nlp/ner-error-analysis/hero.jpg"
+image: /assets/images/student-projects/nlp/ner-error-analysis/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Examines common error patterns in NER models.
+This project focuses on examines common error patterns in NER models.
 
-## Project Snapshot
+Error Analysis in NER with FiNER-ORD Dataset By Andrew Schiavetta CSPB 3832 Natural Language Processing This project addresses the problem of Named Entity Recognition in the financial domain Named entity recognition is a subset of natural language processing problems that deals with identifying and classifying people, organizations, and locations. Those are just the three primary categories and specific NER tasks can focus on dates or monetary values as well.
 
-- **Course:** Natural Language Processing
-- **Term:** Fall 2005
-- **Category:** Information Extraction
-- **Internal Project ID:** NLP-17
-- **Original Source Folder:** `Schiavettaandrew`
+---
 
-## Approach
+## Data and Approach
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project draws on FiNER-ORD, X, FiNER-ORD Dataset.
+
+The core system is built around BERT, RoBERTa, transformer, scikit-learn. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
+
+The implementation centers on pretrained models and standard Python NLP tooling.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Error Analysis in Named Entity Recognition](/assets/images/student-projects/nlp/ner-error-analysis/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Information extraction is useful whenever important details are buried in long, unstructured text. This project shows how NLP can turn those details into structured data that can support downstream systems or analysis.

@@ -33,7 +33,7 @@ The final system integrates both models into a Python application. A user provid
 
 The comparison shows a consistent pattern across models and datasets. In the initial WikiSQL experiments, **CodeT5-base achieved an Exact Match score of approximately 0.67**, outperforming the smaller models and establishing a strong baseline for the next phase.
 
-In the SQL-Create-Context evaluation (7,858 examples), CodeT5-base again performed well and **outperformed Claude 3.7 Sonnet on Exact Match, ROUGE-2, and BLEU**. At the same time, the results highlight an important nuance. When Exact Match is relaxed to ignore formatting differences such as capitalization and punctuation, **Claude’s performance improves substantially**, narrowing the gap between the models.
+In the SQL-Create-Context evaluation, CodeT5-base again performed well and outperformed Claude 3.7 Sonnet on Exact Match, ROUGE-2, and BLEU. At the same time, the results highlight an important nuance. When Exact Match is relaxed to ignore formatting differences such as capitalization and punctuation, Claude’s performance improves substantially, narrowing the gap between the models.
 
 This distinction is useful. Some of the performance difference reflects true query accuracy, while some reflects surface-level formatting choices. The project captures both perspectives and shows how evaluation criteria can influence conclusions.
 

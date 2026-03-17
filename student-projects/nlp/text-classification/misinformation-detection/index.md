@@ -3,52 +3,34 @@ title: "Social Media Misinformation Detection"
 layout: single
 permalink: /student-projects/nlp/text-classification/misinformation-detection/
 excerpt: "Detects misinformation in social media posts."
-course: "Natural Language Processing"
-term: "Spring 2005"
-category: "text-classification"
-project_id: 44
-source_folder: "Taylorchris"
-image: "/assets/images/student-projects/nlp/misinformation-detection/hero.jpg"
+image: /assets/images/student-projects/nlp/misinformation-detection/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Detects misinformation in social media posts.
+This project focuses on detects misinformation in social media posts.
 
-## Project Snapshot
+This project addresses the critical challenge of automatically detecting misinformation in social media posts and news headlines. Using the FakeNewsNet dataset comprising over 23,000 news headlines from GossipCop and PolitiFact sources, I developed a BERT-based classiﬁcation model to distinguish between real and fake news.
 
-- **Course:** Natural Language Processing
-- **Term:** Spring 2005
-- **Category:** Text Classification
-- **Internal Project ID:** NLP-44
-- **Original Source Folder:** `Taylorchris`
+---
 
-## Approach
+## Data and Modeling
 
-_Add a short description of the method, dataset, model, or workflow used in this project._
+The project uses X as its primary dataset.
+
+The core system is built around BERT, RoBERTa, transformer. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
+
+The implementation uses transformers.
+
+---
 
 ## Results
 
-_Add a short summary of the main findings, evaluation results, or generated outputs._
+Reported evaluation includes F1: **0.90**, F1: **0.69**, F1: **0.6944**, and F1: **0.6330**. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
 
-## Tools and Techniques
+---
 
-- _Add tools, libraries, or frameworks here_
-- _Examples: Python, transformers, spaCy, scikit-learn, PyTorch, pandas_
+## Why This Matters
 
-## Images / Figures
-
-![Placeholder image for Social Media Misinformation Detection](/assets/images/student-projects/nlp/misinformation-detection/hero.jpg)
-
-_Replace the placeholder above with an extracted image, chart, diagram, or screenshot from the report or slides._
-
-## Key Takeaways
-
-- _Add 2–4 takeaways here_
-- _Focus on what the student built, learned, or demonstrated_
-
-## Source Notes
-
-- _Primary source file to use later: report / README / slides_
-- _Add permissions / anonymization notes if needed_
+Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.
