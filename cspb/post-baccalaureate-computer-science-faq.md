@@ -5,6 +5,8 @@ permalink: /cspb/post-baccalaureate-computer-science-faq/
 excerpt: "Common questions about post-baccalaureate computer science programs, second bachelor's degrees in computer science, and career transitions into computing."
 ---
 
+These answers are based on my experience working with students and are intended as general guidance rather than official program policy.
+
 ## What is a post-baccalaureate computer science program?
 
 A post-baccalaureate computer science program is designed for students who already hold a bachelor’s degree in another field and want a structured way to build real computer science skills. In practice, many of the students I talk with are trying to make a serious transition into software development, data science, or related technical work. They are not looking for a casual introduction. They want a solid foundation.
