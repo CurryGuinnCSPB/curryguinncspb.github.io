@@ -7,47 +7,8 @@ image: /assets/images/student-projects/nlp/cyber-threat-ner/hero.jpg
 toc: false
 ---
 
-## Overview
+## Abstract
 
-This project focuses on extracting structured threat intelligence from unstructured cybersecurity text.
+This project develops a named entity recognition system for extracting structured cyber threat intelligence from unstructured text, aligned with the STIX 2.1 standard. The task focuses on identifying entities such as malware, threat actors, tools, reports, and indicators of compromise from sources including incident reports, security blogs, and IOC feeds. The dataset consists of a curated and annotated corpus created using Doccano, with approximately 1,000 training examples and 200 examples each for validation and testing. In addition to the annotated data, the system incorporates domain-specific resources, including gazetteer lists derived from STIX terminology and publicly available indicator sources, enabling the model to leverage both contextual and structured signals.
 
-The system is designed around the STIX 2.1 standard and targets entities such as malware, threat actors, tools, and indicators of compromise. The goal is to move from narrative security reports to structured representations that can support downstream analysis and automated threat detection.
-
----
-
-## Data and Approach
-
-The dataset consists of a structured cybersecurity corpus created to reflect common CTI scenarios. The data was annotated using Doccano and includes simulated inputs such as incident reports, security blogs, and IOC feeds. Gazetteer lists derived from STIX terminology and public indicator sources were also incorporated.
-
-The dataset includes approximately:
-- 1,000 training examples
-- 200 validation examples
-- 200 test examples
-
-The model targets five entity types: Indicator, Malware, Report, Threat-Actor, and Tool.
-
-Two approaches are compared. The baseline uses a fine-tuned `bert-base-cased` model for token classification. The second approach augments this model with domain-specific signals, including gazetteer features and regular expressions for structured entities such as IP addresses, domains, and file hashes.
-
----
-
-## Results
-
-Evaluation is performed using macro F1 on both clean and noisy datasets.
-
-On the clean dataset, both models perform near perfectly:
-- Baseline BERT: **0.995 to 1.000 F1**
-- Hybrid model: **~1.000 F1**
-
-On the noisy dataset, the difference becomes more apparent:
-- Baseline BERT: **0.648 F1**
-- Hybrid model: **0.699 F1**
-
-This represents a meaningful improvement under noisier, more realistic conditions.
-
----
-
-## Why This Matters
-
-Cyber threat intelligence is inherently unstructured. Analysts often work with long-form reports, blog posts, and fragmented indicators that must be translated into structured formats before they can be used effectively.
-
-This project shows how that translation can be partially automated. It also highlights an important pattern in applied NLP. Transformer models provide a strong foundation, but domain knowledge can still play a critical role in specialized settings.
+Two modeling approaches are evaluated. The baseline uses a fine-tuned `bert-base-cased` model for token classification, while the second approach augments this architecture with domain knowledge through gazetteer-based features and regular expressions targeting structured entities such as IP addresses, domains, and file hashes. Performance is evaluated using macro F1 on both clean and noisy datasets. On clean data, both models achieve near-perfect performance, with the baseline ranging from 0.995 to 1.000 F1 and the hybrid model reaching approximately 1.000 F1. On noisier data, the hybrid approach shows a consistent improvement, increasing F1 from 0.648 to 0.699. These results highlight the role of domain-specific signals in improving robustness under realistic conditions and demonstrate a broader pattern in applied NLP: while transformer models provide strong baseline performance, incorporating structured domain knowledge can meaningfully improve performance in specialized settings.
