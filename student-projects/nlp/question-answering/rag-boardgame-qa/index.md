@@ -1,7 +1,7 @@
 ---
 title: "RAG Question Answering for Board Games"
 layout: single
-permalink: /student-projects/nlp/applied-nlp/rag-boardgame-qa/
+permalink: /student-projects/nlp/question-answering/rag-boardgame-qa/
 excerpt: "Uses retrieval-augmented generation to answer board game questions."
 course: "Natural Language Processing"
 term: "Spring 2005"

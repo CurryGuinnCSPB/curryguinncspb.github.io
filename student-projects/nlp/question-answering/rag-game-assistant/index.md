@@ -1,7 +1,7 @@
 ---
 title: "Retrieval-Augmented Game Assistant"
 layout: single
-permalink: /student-projects/nlp/applied-nlp/rag-game-assistant/
+permalink: /student-projects/nlp/question-answering/rag-game-assistant/
 excerpt: "Builds a RAG assistant for board game instructions."
 course: "Natural Language Processing"
 term: "Spring 2005"

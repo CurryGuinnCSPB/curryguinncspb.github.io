@@ -11,111 +11,51 @@ toc: false
 
 This project focuses on extracting structured threat intelligence from unstructured cybersecurity text.
 
-The student builds a named entity recognition system aligned with the STIX 2.1 standard, targeting entities such as malware, threat actors, and indicators of compromise. The main goal is to move from raw reports to structured data that can be used in downstream security systems.
+The system is designed around the STIX 2.1 standard and targets entities such as malware, threat actors, tools, and indicators of compromise. The goal is to move from narrative security reports to structured representations that can support downstream analysis and automated threat detection.
 
 ---
 
-## Data
+## Data and Approach
 
-The project uses a synthetic but structured cybersecurity corpus designed to reflect real CTI scenarios.
+The dataset consists of a structured cybersecurity corpus created to reflect common CTI scenarios. The data was annotated using Doccano and includes simulated inputs such as incident reports, security blogs, and IOC feeds. Gazetteer lists derived from STIX terminology and public indicator sources were also incorporated.
 
-- Annotated CTI dataset created in Doccano (JSONL format)  
-- Gazetteer lists derived from STIX 2.1 terminology and public IOC sources  
-- Simulated inputs including security blogs, incident reports, and IOC feeds  
-
-Dataset size:
-
-- ~1,000 training examples  
+The dataset includes approximately:
+- 1,000 training examples  
 - 200 validation examples  
 - 200 test examples  
 
-Entities:
+The model targets five entity types: Indicator, Malware, Report, Threat-Actor, and Tool.
 
-- Indicator  
-- Malware  
-- Report  
-- Threat-Actor  
-- Tool  
+Two approaches are compared.
 
-One thing to keep in mind is that the data is synthetic. That makes it easier to control labeling, but it also leads to cleaner patterns than would appear in real-world CTI.
+The baseline uses a standard fine-tuned `bert-base-cased` model for token classification. The second approach augments this model with domain-specific signals. Gazetteer features are added at the token level, and regular expressions are used to capture structured entities such as IP addresses, domains, and file hashes.
 
----
-
-## Approach
-
-The project compares two models.
-
-Baseline:
-
-- Fine-tuned `bert-base-cased` for token classification  
-- Standard Hugging Face Trainer setup  
-- No domain-specific features  
-
-Hybrid model:
-
-- Same BERT backbone  
-- Gazetteer-based features added as token-level signals  
-- Regex rules for structured entities such as IPs, domains, and hashes  
-- Combined lexical and contextual signals during training  
-
-In general, the idea is simple. Let the transformer handle context, and let domain knowledge handle structure.
-
----
-
-## Tech Stack
-
-- Hugging Face transformers and datasets  
-- PyTorch (training backend)  
-- spaCy (token alignment and preprocessing)  
-- Doccano (annotation pipeline)  
-- Google Colab with Tesla T4 GPU  
-
-Note that the pipeline is fairly standard. The main difference is how domain knowledge is injected into the model.
-
----
-
-## Evaluation
-
-Evaluation is done using macro F1 on both clean and noisy datasets.
-
-Clean dataset:
-
-- Baseline BERT: 0.995 to 1.000 F1  
-- Hybrid model: approximately 1.000 F1  
-
-Noisy dataset:
-
-- Baseline BERT: 0.648 F1  
-- Hybrid model: 0.699 F1  
-
-The gap on the noisy dataset is the key result.
+The resulting system combines contextual representations from the transformer with explicit domain knowledge, allowing it to better handle both linguistic variation and structured patterns.
 
 ---
 
 ## Results
 
-On clean data, both models perform almost perfectly. That is expected given the controlled nature of the dataset.
+Evaluation is performed using macro F1 on both clean and noisy datasets.
 
-On noisy data, the hybrid model shows a clear improvement. The gain is modest in absolute terms, but meaningful for harder entity types.
+On the clean dataset, both models perform near perfectly:
+- Baseline BERT: **0.995 to 1.000 F1**  
+- Hybrid model: **~1.000 F1**
 
-In particular:
+On the noisy dataset, the difference between the approaches becomes more apparent:
+- Baseline BERT: **0.648 F1**  
+- Hybrid model: **0.699 F1**
 
-- Structured entities benefit from regex features  
-- Rare or domain-specific terms benefit from gazetteers  
-- The transformer alone struggles more in these cases  
+This represents an improvement of roughly five F1 points under more realistic conditions.
 
-At that point, the value of combining approaches becomes clear.
-
----
-
-## Takeaways
-
-This project shows a useful pattern for domain-specific NLP work.
-
-- Transformer models provide strong baseline performance  
-- Domain knowledge still matters, especially in noisy settings  
-- Hybrid systems can improve robustness without major architectural changes  
-
-If extended with real CTI data, this approach would likely show a larger performance gap.
+The gains are most noticeable for structured and domain-specific entities. Gazetteer features help with rare terminology, while regex patterns improve recognition of indicators such as IP addresses and hashes. The transformer model provides strong contextual understanding, and the additional signals improve robustness when the input becomes less predictable.
 
 ---
+
+## Why This Matters
+
+Cyber threat intelligence is inherently unstructured. Analysts often work with long-form reports, blog posts, and fragmented indicators that must be translated into structured formats before they can be used effectively.
+
+This project shows how that translation can be partially automated. It also highlights an important pattern in applied NLP. Transformer models provide a strong foundation, but domain knowledge can still play a critical role, especially in specialized settings.
+
+By combining learned representations with structured signals, the system improves performance in the conditions that matter most, where data is noisy, incomplete, and domain-specific.

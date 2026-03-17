@@ -1,7 +1,7 @@
 ---
 title: "Fitness FAQ Question Answering"
 layout: single
-permalink: /student-projects/nlp/applied-nlp/fitness-faq-qa/
+permalink: /student-projects/nlp/question-answering/fitness-faq-qa/
 excerpt: "Answers fitness questions using a domain-specific dataset."
 course: "Natural Language Processing"
 term: "Spring 2005"
