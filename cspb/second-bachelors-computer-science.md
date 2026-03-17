@@ -15,4 +15,8 @@ One of the things that sometimes surprises people is how much of computer scienc
 
 Another reason students pursue a second bachelor’s degree in computer science is flexibility. Many students who begin exploring a **[career change into computer science](/career-change-computer-science/)** are thinking about how software skills might open the door to different technical directions over time. Some graduates move into software development. Others become interested in areas such as machine learning, data engineering, cybersecurity, or distributed systems. It is much easier to move across those areas when the underlying foundations are in place.
 
-In the **[Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder](/cspb/)**, most of the students I work with fall into exactly this category. They already have one degree and are returning to school with a fairly clear sense of purpose. Many are working professionals who are building their computing skills steadily while balancing other responsibilities. One of the things I enjoy most about teaching in the program is seeing how students connect computer science ideas with the experience they already bring from other fields.
+In the **[Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder](/cspb/)**, from my experience teaching in the program, many students fall into this category. They already have one degree and are returning to school with a fairly clear sense of purpose. Many are working professionals who are building their computing skills steadily while balancing other responsibilities. One of the things I enjoy most about teaching in the program is seeing how students connect computer science ideas with the experience they already bring from other fields.
+
+---
+
+{% include cspb-disclaimer.html %}

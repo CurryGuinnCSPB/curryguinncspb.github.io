@@ -17,7 +17,7 @@ If you are exploring that path, you might also want to read more about **[pursui
 
 ## Can you complete a post-baccalaureate computer science program while working full time?
 
-Many students do exactly that. In the programs I know best, including the one I teach in, a large number of students are balancing coursework with full-time jobs, family responsibilities, or both.  
+Many students do exactly that. In programs like the one I teach in a large number of students are balancing coursework with full-time jobs, family responsibilities, or both.  
 
 Flexibility does not mean easy. The work still requires steady effort each week. Students who treat the program as part of their regular routine tend to make the most progress.
 
@@ -81,3 +81,7 @@ Programs such as the **[Applied Computer Science Post-Baccalaureate program](/cs
  ]
 }
 </script>
+
+---
+
+{% include cspb-disclaimer.html %}

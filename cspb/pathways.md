@@ -4,7 +4,7 @@ layout: single
 permalink: /cspb/pathways/
 ---
 
-The core curriculum of the Applied Computer Science Post-Baccalaureate program focuses on the foundations of computer science. Students work through topics such as programming, data structures, algorithms, and software development practices. Those ideas form the backbone of almost every area of modern computing.
+In the program, students work through core areas of computer science such as programming, data structures, and algorithms. Students work through topics such as programming, data structures, algorithms, and software development practices. Those ideas form the backbone of almost every area of modern computing.
 
 At the same time, students often arrive with different goals. Some are thinking about internships or software development careers. Others are interested in data science or artificial intelligence. Some are preparing for graduate study. Because of that, the program describes several **course pathways** that help students see how particular courses fit together depending on the direction they want to pursue.
 
@@ -60,3 +60,7 @@ These pathways illustrate some of the ways students can shape their experience i
 
 ➡ Learn more about the program here:  
 [CSPB Program Overview](/cspb/)
+
+---
+
+{% include cspb-disclaimer.html %}

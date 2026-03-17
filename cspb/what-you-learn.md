@@ -6,7 +6,7 @@ permalink: /cspb/what-you-learn/
 
 One of the things I often tell prospective students is that computer science is not just about learning a programming language. Languages come and go. The deeper ideas behind computing tend to last much longer.
 
-In the Applied Computer Science Post-Baccalaureate program, students gradually build a foundation in the core concepts that make modern software systems possible. Along the way they develop practical programming skills, but they also learn how to reason about algorithms, data structures, and the design of larger systems. Those ideas show up again and again across different areas of computing.
+In the Applied Computer Science Post-Baccalaureate program, students I work with gradually build a foundation in the core concepts that make modern software systems possible. Along the way they develop practical programming skills, but they also learn how to reason about algorithms, data structures, and the design of larger systems. Those ideas show up again and again across different areas of computing.
 
 Most students begin by learning how to think computationally. That means breaking problems into smaller pieces, designing clear procedures, and writing programs that express those procedures in a precise way. Early courses focus on programming and problem solving, but they also introduce ways of thinking that are central to computer science.
 
@@ -20,3 +20,7 @@ One of the things I enjoy most about teaching in the program is watching how stu
 
 ➡ Learn more about the program here:  
 [CSPB Program Overview](/cspb/)
+
+---
+
+{% include cspb-disclaimer.html %}
