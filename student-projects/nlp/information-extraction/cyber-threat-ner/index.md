@@ -1,92 +1,121 @@
 ---
-title: "Cyber Threat Intelligence NER"
+title: "Cyber Threat Intelligence NER (STIX 2.1)"
 layout: single
 permalink: /student-projects/nlp/information-extraction/cyber-threat-ner/
-excerpt: "Extracting structured threat indicators from cybersecurity reports using named entity recognition."
+excerpt: "A hybrid transformer-based system for extracting STIX 2.1 entities from cybersecurity text."
 image: /assets/images/student-projects/nlp/cyber-threat-ner/hero.jpg
 toc: false
 ---
 
 ## Overview
 
-Cyber threat intelligence reports contain valuable information about malware, vulnerabilities, threat actors, and attack techniques. However, this information is often buried in unstructured text, making it difficult to analyze at scale.
+This project focuses on extracting structured threat intelligence from unstructured cybersecurity text.
 
-This project focuses on extracting structured entities from cybersecurity reports using Named Entity Recognition (NER). The goal is to transform free-form text into structured data that can support downstream analysis, alerting systems, and threat intelligence pipelines.
+The student builds a named entity recognition system aligned with the STIX 2.1 standard, targeting entities such as malware, threat actors, and indicators of compromise. The main goal is to move from raw reports to structured data that can be used in downstream security systems.
 
 ---
 
-## Problem
+## Data
 
-Security analysts regularly work with large volumes of text-based reports. Manually extracting key indicators such as IP addresses, malware names, and organizations is time-consuming and error-prone.
+The project uses a synthetic but structured cybersecurity corpus designed to reflect real CTI scenarios.
 
-This project explores how NLP techniques can automate that process by identifying and classifying relevant entities directly from raw text.
+- Annotated CTI dataset created in Doccano (JSONL format)  
+- Gazetteer lists derived from STIX 2.1 terminology and public IOC sources  
+- Simulated inputs including security blogs, incident reports, and IOC feeds  
+
+Dataset size:
+
+- ~1,000 training examples  
+- 200 validation examples  
+- 200 test examples  
+
+Entities:
+
+- Indicator  
+- Malware  
+- Report  
+- Threat-Actor  
+- Tool  
+
+One thing to keep in mind is that the data is synthetic. That makes it easier to control labeling, but it also leads to cleaner patterns than would appear in real-world CTI.
 
 ---
 
 ## Approach
 
-The project implements a Named Entity Recognition pipeline tailored to cybersecurity text.
+The project compares two models.
 
-Key steps include:
+Baseline:
 
-- preprocessing raw threat intelligence reports  
-- selecting or adapting an NER model  
-- defining relevant entity categories (e.g., malware, vulnerabilities, organizations)  
-- training or fine-tuning the model on domain-specific data  
-- evaluating performance using standard NER metrics  
+- Fine-tuned `bert-base-cased` for token classification  
+- Standard Hugging Face Trainer setup  
+- No domain-specific features  
 
-Special attention is given to the challenges of domain-specific language, including abbreviations, technical jargon, and inconsistent formatting.
+Hybrid model:
+
+- Same BERT backbone  
+- Gazetteer-based features added as token-level signals  
+- Regex rules for structured entities such as IPs, domains, and hashes  
+- Combined lexical and contextual signals during training  
+
+In general, the idea is simple. Let the transformer handle context, and let domain knowledge handle structure.
+
+---
+
+## Tech Stack
+
+- Hugging Face transformers and datasets  
+- PyTorch (training backend)  
+- spaCy (token alignment and preprocessing)  
+- Doccano (annotation pipeline)  
+- Google Colab with Tesla T4 GPU  
+
+Note that the pipeline is fairly standard. The main difference is how domain knowledge is injected into the model.
+
+---
+
+## Evaluation
+
+Evaluation is done using macro F1 on both clean and noisy datasets.
+
+Clean dataset:
+
+- Baseline BERT: 0.995 to 1.000 F1  
+- Hybrid model: approximately 1.000 F1  
+
+Noisy dataset:
+
+- Baseline BERT: 0.648 F1  
+- Hybrid model: 0.699 F1  
+
+The gap on the noisy dataset is the key result.
 
 ---
 
 ## Results
 
-The system demonstrates the ability to extract meaningful entities from unstructured reports with reasonable accuracy.
+On clean data, both models perform almost perfectly. That is expected given the controlled nature of the dataset.
 
-Key outcomes include:
+On noisy data, the hybrid model shows a clear improvement. The gain is modest in absolute terms, but meaningful for harder entity types.
 
-- identification of core cybersecurity entities  
-- improved consistency compared to manual extraction  
-- a structured representation of threat intelligence data  
+In particular:
 
-These results suggest that even relatively lightweight NLP pipelines can provide meaningful support for cybersecurity workflows.
+- Structured entities benefit from regex features  
+- Rare or domain-specific terms benefit from gazetteers  
+- The transformer alone struggles more in these cases  
 
----
-
-## Why This Matters
-
-Cybersecurity is a domain where **speed and accuracy are critical**.
-
-Automating entity extraction enables:
-
-- faster analysis of threat reports  
-- improved situational awareness  
-- integration with downstream systems such as dashboards or alerting tools  
-
-This project highlights how NLP techniques can directly support real-world operational needs.
+At that point, the value of combining approaches becomes clear.
 
 ---
 
-## Tools and Techniques
+## Takeaways
 
-- Python  
-- spaCy or transformer-based NER models  
-- domain-specific datasets  
-- standard evaluation metrics (precision, recall, F1)  
+This project shows a useful pattern for domain-specific NLP work.
 
----
+- Transformer models provide strong baseline performance  
+- Domain knowledge still matters, especially in noisy settings  
+- Hybrid systems can improve robustness without major architectural changes  
 
-## Visual Example
-
-![Example of extracted entities from cybersecurity text](/assets/images/student-projects/nlp/cyber-threat-ner/figure-01.jpg)
-
-*Example output showing entities extracted from a cybersecurity report.*
+If extended with real CTI data, this approach would likely show a larger performance gap.
 
 ---
-
-## Key Takeaways
-
-- NLP can convert unstructured cybersecurity text into structured, actionable data  
-- Domain-specific adaptation is essential for strong performance  
-- Even modest models can deliver practical value in real-world settings  
-- This type of pipeline is a foundation for more advanced threat intelligence systems  
