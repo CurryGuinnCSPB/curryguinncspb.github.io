@@ -1,0 +1,16 @@
+slug,source_folder,source_used,generated_files
+knowledge-base-qa,Bianguanbo,PPTX media from project_GuanboBian.pptx,hero.jpg
+text-to-sql-generation,Egansidney,PPTX media from egansidney_440094_79510388_slides.pptx,hero.jpg
+rag-boardgame-qa,Kawaguchinoah,Rendered from PDF kawaguchinoah_491316_79498231_slides.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"
+rag-game-assistant,Williamsdaniel,PPTX media from williamsdaniel_492535_79524982_FInalProject.pptx,"hero.jpg, figure-01.jpg, figure-02.jpg"
+cyber-threat-ner,JonathanTrull,Rendered from PDF stix_ner_final_report_trull-1.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"
+taylor-swift-lyrics-generator,TorySwenson,Rendered from PDF final_report.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"
+poetry-generation-gutenberg,Gobleleonora,Rendered from PDF gobleleonora_463905_79530093_presentation.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"
+star-wars-story-generator,Williamstravis,Rendered from PDF williamstravis_441488_79522599_trwi4612 - CSPB4830 Final Project Report.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"
+recipe-generation-gpt2,Hendersonemily,Rendered from PDF hendersonemily_421733_81896184_CSPB3832 Final Project Presentation.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"
+nlp-text-adventure-interface,Panak_Spring2025,Rendered from PDF PanakJ Final Report.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"
+fake-news-detection,Garciacarlos,PPTX media from Presentation.pptx,"hero.jpg, figure-01.jpg, figure-02.jpg"
+human-ai-text-detection,Changningchih,Rendered from PDF changningchih_441249_79530784_Final_Project_Updated_PDF-1.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"
+sarcasm-detection-tweets,Goshentherese,Rendered from PDF goshentherese_464715_81894301_Mi proyecto.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"
+political-bias-detection,Shahinfaisal,PPTX media from shahinfaisal_489054_79455641_NLP_Presintation-1.pptx,"hero.jpg, figure-01.jpg, figure-02.jpg"
+emotion-detection-text,Baileycharlie,Rendered from PDF baileycharlie_224497_79533705_BERT_Emotion_Detection_Presentation.pdf,"hero.jpg, figure-01.jpg, figure-02.jpg"

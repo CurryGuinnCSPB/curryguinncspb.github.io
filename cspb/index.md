@@ -56,7 +56,7 @@ The program includes curated pathways that help students align their coursework 
 </div>
 
 <div class="cspb-card">
-<h3><a href="/cspb/student-projects/">Student projects</a></h3>
+<h3><a href="/student-projects/">Student projects</a></h3>
 <p>
 Coursework emphasizes building real systems rather than memorizing concepts. Students write code, design algorithms, test their solutions, and document their work. Over time they build a portfolio of technical artifacts including repositories, projects, and written explanations of their design decisions.
 </p>
@@ -102,7 +102,7 @@ Students who are exploring a second bachelor’s degree in computer science or c
 - [Is this program right for you?](/cspb/is-this-program-for-you/)
 - [What you learn](/cspb/what-you-learn/)
 - [Pathways through the program](/cspb/pathways/)
-- [Student projects](/cspb/student-projects/)
+- [Student projects](/student-projects/)
 - [Career change into computer science](/career-change-computer-science/)
 - [Second bachelor’s degree in computer science](/second-bachelors-computer-science/)
 - [Is a post-baccalaureate computer science degree worth it?](/is-post-bacc-computer-science-worth-it/)

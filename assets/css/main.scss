@@ -3,6 +3,9 @@
 
 @import "minimal-mistakes";
 
+/* custom overrides */
+@import "custom";
+
 .page__content a {
   text-decoration: none;
 }
