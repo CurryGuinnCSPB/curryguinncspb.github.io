@@ -70,7 +70,7 @@ Students use the program in different ways. Some are preparing for internships o
 </div>
 
 <div class="cspb-card">
-<h3><a href="/post-baccalaureate-computer-science-faq/">Learning environment</a></h3>
+<h3><a href="/cspb/post-baccalaureate-computer-science-faq/">Learning environment</a></h3>
 <p>
 Although the program is fully online, courses are structured and interactive. Students work through weekly modules, participate in discussion forums, and meet instructors during office hours. The community that forms around these discussions often becomes one of the most valuable parts of the learning experience.
 </p>
