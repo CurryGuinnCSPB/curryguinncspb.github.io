@@ -6,105 +6,39 @@ classes: wide
 excerpt: "Selected student projects from the CU Boulder Applied Computer Science Post-Baccalaureate program."
 ---
 
-The projects below were completed by students in the CU Boulder Applied Computer Science Post-Baccalaureate program. These projects reflect the kind of applied, interdisciplinary work students complete across the curriculum.
+The projects completed in the CU Boulder Applied Computer Science Post-Baccalaureate program reflect the kind of applied, interdisciplinary work students undertake across the curriculum.
 
-This page highlights a selection of NLP projects. Each project combines core computer science concepts with domain knowledge, real data, and modern AI tools.
-
----
-
-## Featured NLP Projects
-
-<div class="grid__wrapper">
-
-<div class="grid__item">
-  <div class="archive__item">
-    <a href="/student-projects/nlp/information-extraction/cyber-threat-ner/">
-      <img src="/assets/images/student-projects/nlp/cyber-threat-ner/cyber-threat-ner-hero.jpg" alt="Cyber Threat Intelligence NER project image">
-    </a>
-    <h3 class="archive__item-title">
-      <a href="/student-projects/nlp/information-extraction/cyber-threat-ner/">Cyber Threat Intelligence NER</a>
-    </h3>
-    <p class="archive__item-excerpt">Extracting structured threat indicators from cybersecurity reports.</p>
-  </div>
-</div>
-
-<div class="grid__item">
-  <div class="archive__item">
-    <a href="/student-projects/nlp/question-answering/knowledge-base-qa/">
-      <img src="/assets/images/student-projects/nlp/knowledge-base-qa/hero.jpg" alt="Knowledge base question answering project image">
-    </a>
-    <h3 class="archive__item-title">
-      <a href="/student-projects/nlp/question-answering/knowledge-base-qa/">Knowledge-Base Question Answering</a>
-    </h3>
-    <p class="archive__item-excerpt">Answering natural language questions using structured knowledge sources.</p>
-  </div>
-</div>
-
-<div class="grid__item">
-  <div class="archive__item">
-    <a href="/student-projects/nlp/applied-nlp/text-to-sql-generation/">
-      <img src="/assets/images/student-projects/nlp/text-to-sql-generation/hero.jpg" alt="Text to SQL project image">
-    </a>
-    <h3 class="archive__item-title">
-      <a href="/student-projects/nlp/applied-nlp/text-to-sql-generation/">Text-to-SQL Generation</a>
-    </h3>
-    <p class="archive__item-excerpt">Translating natural language queries into executable SQL.</p>
-  </div>
-</div>
-
-<div class="grid__item">
-  <div class="archive__item">
-    <a href="/student-projects/nlp/language-modeling-generation/taylor-swift-lyrics-generator/">
-      <img src="/assets/images/student-projects/nlp/taylor-swift-lyrics-generator/hero.jpg" alt="Taylor Swift lyrics generator project image">
-    </a>
-    <h3 class="archive__item-title">
-      <a href="/student-projects/nlp/language-modeling-generation/taylor-swift-lyrics-generator/">Taylor Swift Lyric Generator</a>
-    </h3>
-    <p class="archive__item-excerpt">Generating lyrics in the style of Taylor Swift using language models.</p>
-  </div>
-</div>
-
-<div class="grid__item">
-  <div class="archive__item">
-    <a href="/student-projects/nlp/text-classification/fake-news-detection/">
-      <img src="/assets/images/student-projects/nlp/fake-news-detection/hero.jpg" alt="Fake news detection project image">
-    </a>
-    <h3 class="archive__item-title">
-      <a href="/student-projects/nlp/text-classification/fake-news-detection/">Fake News Detection</a>
-    </h3>
-    <p class="archive__item-excerpt">Detecting misinformation in online news using machine learning.</p>
-  </div>
-</div>
-
-<div class="grid__item">
-  <div class="archive__item">
-    <a href="/student-projects/nlp/text-classification/sarcasm-detection-tweets/">
-      <img src="/assets/images/student-projects/nlp/sarcasm-detection-tweets/hero.jpg" alt="Sarcasm detection project image">
-    </a>
-    <h3 class="archive__item-title">
-      <a href="/student-projects/nlp/text-classification/sarcasm-detection-tweets/">Sarcasm Detection</a>
-    </h3>
-    <p class="archive__item-excerpt">Identifying sarcasm in tweets using transformer-based models.</p>
-  </div>
-</div>
-
-</div>
+These projects often combine core computer science concepts with domain knowledge, real-world data, and modern tools from software engineering, data science, and artificial intelligence.
 
 ---
 
-## Browse NLP Projects by Category
+## Project Showcase (Coming Soon)
 
-- [Text Classification](/student-projects/nlp/text-classification/)
-- [Language Modeling & Generation](/student-projects/nlp/language-modeling-generation/)
-- [Applied NLP](/student-projects/nlp/applied-nlp/)
-- [Information Extraction](/student-projects/nlp/information-extraction/)
-- [Question Answering](/student-projects/nlp/question-answering/)
-- [Text Summarization](/student-projects/nlp/summarization/)
+This section of the site is currently being updated.
+
+Selected student projects will be featured here in the near future. These summaries will highlight the technical approach, the underlying problem, and the broader context in which the work was developed.
+
+Before publishing, all project materials will be reviewed to ensure appropriate permissions and presentation.
 
 ---
 
-## Complete NLP Project Archive
+## What to Expect
 
-If you are interested in exploring the full set of student work, you can browse all projects organized by term and topic in the sections above.
+When this section is complete, it will include:
 
-This collection includes 59 NLP projects spanning multiple semesters, covering topics such as classification, generation, question answering, and domain-specific applications.
+- Concise summaries of selected student projects  
+- Examples spanning multiple areas of computer science  
+- Projects that connect technical work to real-world domains  
+- Illustrations of how students integrate prior background knowledge with computing  
+
+---
+
+## In the Meantime
+
+If you are interested in the types of work students complete in the program, you may find the following pages helpful:
+
+- [About the Program](/about/)
+- [CSPB Overview](/cspb/)
+- [Blog Posts and Reflections](/)
+
+These provide additional context on the curriculum, the student experience, and the kinds of problems students engage with throughout the program.
