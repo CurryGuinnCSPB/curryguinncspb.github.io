@@ -7,6 +7,10 @@ image: /assets/images/student-projects/nlp/cyber-threat-ner/cyber-threat-ner-her
 toc: false
 ---
 
+<img src="/assets/images/student-projects/nlp/cyber-threat-ner/cyber-threat-ner-hero.jpg"
+     alt="Cyber threat intelligence NER visualization with STIX entities"
+     style="float:right; width:320px; margin-left:20px; margin-bottom:10px;">
+
 ## Abstract
 
 This project develops a named entity recognition system for extracting structured cyber threat intelligence from unstructured text, aligned with the STIX 2.1 standard. The task focuses on identifying entities such as malware, threat actors, tools, reports, and indicators of compromise from sources including incident reports, security blogs, and IOC feeds. The dataset consists of a curated and annotated corpus created using Doccano, with approximately 1,000 training examples and 200 examples each for validation and testing. In addition to the annotated data, the system incorporates domain-specific resources, including gazetteer lists derived from STIX terminology and publicly available indicator sources, enabling the model to leverage both contextual and structured signals.
