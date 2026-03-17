@@ -6,7 +6,7 @@ classes: wide
 excerpt: "Natural Language Processing student projects from the CU Boulder Applied Computer Science Post-Baccalaureate program."
 ---
 
-This section collects NLP student projects and organizes them by subfield. Each project page is currently a stub with metadata and content placeholders so the collection can be expanded incrementally.
+This section collects NLP student projects and organizes them by subfield. Each project page provides a concise public-facing summary that can be expanded over time.
 
 ## Categories
 

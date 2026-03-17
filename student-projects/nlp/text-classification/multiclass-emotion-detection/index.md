@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on classifies emotional categories in text.
+This project focuses on Classifies emotional categories in text.
 
-This project compares three approaches to six-way emotion classification on short social-media texts: a compact feed-forward neural network (FFNN) baseline with learned embeddings, DistilBERT-base-uncased, and BERT-base-uncased. Each model is built using Hugging Face’s transformer library.
+The work sits in the area of text classification. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
-## Data and Modeling
+## Data and Approach
 
-The project draws on Twitter, X. Reported data sizes include 333,447 training, 41,681 validation, 41,681 test.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around BERT, RoBERTa, DistilBERT, transformer. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
-
-The implementation uses Hugging Face, transformers, PyTorch, pandas, TensorFlow.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-Reported evaluation includes F1: **0.8393**, F1: **0.9406**, and Accuracy: **0.8899**. The results show a clear improvement over the comparison baseline or over simpler alternatives.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

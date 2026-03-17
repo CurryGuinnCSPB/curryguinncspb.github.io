@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on applies transformer architectures to biological sequence data.
+This project focuses on Applies transformer architectures to biological sequence data.
 
-Although natural languages and biological sequences like RNA would appear to have little in common at first glance, transformer-based classifiers like BERT (Devlin et al., 2019) have been successfully adapted to perform labeling tasks in computational biology. Despite substantial differences in the underlying data, there are many commonalities in the training workflow.
+The work sits in the area of applied natural language processing. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
 ## Data and Approach
 
-The project uses X as its primary dataset.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around BERT, RAG, transformer. The workflow emphasizes text preprocessing, feature representation, and supervised prediction of the target labels.
-
-The implementation centers on pretrained models and standard Python NLP tooling.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results show a clear improvement over the comparison baseline or over simpler alternatives.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-This project shows how NLP techniques can be adapted to a concrete problem rather than used only as benchmarks. That practical step is what makes the work especially useful on a public-facing portfolio page.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on transfers writing style between authors.
+This project focuses on Transfers writing style between authors.
 
-2 This project explored Text Style Transfer from neutral to stylized writing by fine-tuning GPT-2 Medium using open source Hugging Face transformers on Google Colab. The dataset consisted of 300 text chunks from Herman Melville's three most popular novels paired with corresponding neutralized texts generated using ChatGPT.
+The work sits in the area of language modeling and generation. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
-## Data and System Design
+## Data and Approach
 
-The project draws on Project Gutenberg, X.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around T5, GPT-2, RAG, transformer. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
-
-The implementation uses Hugging Face, transformers, ROUGE.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Generation projects are useful because they show how language models can move from pattern recognition to actual output creation. This project also makes clear that dataset design and prompting choices shape the final result.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

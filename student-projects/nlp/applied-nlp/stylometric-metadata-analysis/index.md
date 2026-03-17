@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on uses stylometry to infer metadata about authors and documents.
+This project focuses on Uses stylometry to infer metadata about authors and documents.
 
-Stylometry Metadata, explores the potential of stylometric analysis beyond predicting authorship to predicting publication date and geographical origin of texts. Using a dataset of 70,000 public domain works from a Project Gutenberg Kaggle database, feature-based and transformer-based approaches compare the three tasks, authorship, publication date and geographical origin.
+The work sits in the area of applied natural language processing. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
 ## Data and Approach
 
-The project draws on Project Gutenberg, Twitter, X.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around BERT, DistilBERT, RAG, transformer. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
-
-The implementation uses transformers, pandas, NLTK.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-Reported evaluation includes F1: **.119**, F1: **.11209**, Accuracy: **.286**, and Accuracy: **.06667**. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-This project shows how NLP techniques can be adapted to a concrete problem rather than used only as benchmarks. That practical step is what makes the work especially useful on a public-facing portfolio page.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

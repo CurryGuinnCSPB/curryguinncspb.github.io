@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on classifies political media frames in news coverage.
+This project focuses on Classifies political media frames in news coverage.
 
-From Words to Frames: Classifying Cinematography Shot Scales with Text-Based NLP Erick Samayoa CSPB 3832 Natural Language Processing Why Shot Scale? Why Text?
+The work sits in the area of applied natural language processing. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
 ## Data and Approach
 
-The project uses X as its primary dataset.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around TF-IDF, transformer. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
-
-The implementation centers on pretrained models and standard Python NLP tooling.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-This project shows how NLP techniques can be adapted to a concrete problem rather than used only as benchmarks. That practical step is what makes the work especially useful on a public-facing portfolio page.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on transfers poetic writing styles between texts.
+This project focuses on Transfers poetic writing styles between texts.
 
-Fine-Tuning Language Models for Poetic Style Transfer Ashley Judah CSPB 3832 - Natural Language Processing August 2025 8/13/25, 2:51 PM Proton Docs Editor https://docs.proton.me/doc?mode=open&volumeId=U2bXmhYlEqpVkjeqUwkrLYLjx19J39BL2SL178_7ki9yXljO7ymtjaH-UKpzVoTAjL_wK9C9O2WhoKuUqgjK… 1/5 Fine-Tuning Language Models for Poetic Style Transfer This project is aimed at the NLP task of poetic style transfer, specifically converting Robert Frost's style to a Shakespearean sonnet style. The primary method was fine-tuning the pre-trained model BART with a manually created dataset consisting of 15 paired examples of Frost poems and their Shakespearean-style translations.
+The work sits in the area of language modeling and generation. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
-## Data and System Design
+## Data and Approach
 
-The project draws on Project Gutenberg, X, Hugging Face Dataset.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around BERT, T5-small, T5, RAG. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
-
-The implementation centers on pretrained models and standard Python NLP tooling.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Generation projects are useful because they show how language models can move from pattern recognition to actual output creation. This project also makes clear that dataset design and prompting choices shape the final result.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

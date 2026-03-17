@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on identifies stance and bias in news articles.
+This project focuses on Identifies stance and bias in news articles.
 
-This project investigates stance detection in text using three diverse datasets: Internet Argument Corpus (IAC), Perspectrum, and Emergent. A traditional machine learning model, TF-IDF with logistic regression, is compared to a transformer-based model, RoBERTa-base, to classify text as supporting, critical, or neutral toward claims.
+The work sits in the area of text classification. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
-## Data and Modeling
+## Data and Approach
 
-The project draws on X, Macro F1 Scores Across Dataset.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around BERT, RoBERTa, TF-IDF, Logistic Regression. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
-
-The implementation uses Hugging Face, transformers.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results show a clear improvement over the comparison baseline or over simpler alternatives.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Classification projects like this matter because they turn large collections of text into signals that can actually be used. That can support moderation, decision-making, or domain analysis depending on the setting.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

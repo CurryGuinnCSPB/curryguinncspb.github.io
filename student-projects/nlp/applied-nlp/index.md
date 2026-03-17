@@ -10,14 +10,14 @@ This page collects NLP projects that apply language technologies to specific dom
 
 ## Projects
 
-- [Text-to-SQL Generation](/student-projects/nlp/applied-nlp/text-to-sql-generation/) — Translating natural language queries into executable SQL.
-- [Resume Screening System](/student-projects/nlp/applied-nlp/resume-screening/) — Matching resumes to job descriptions using NLP techniques.
-- [Legal Document Analysis](/student-projects/nlp/applied-nlp/legal-document-analysis/) — Extracting and analyzing information from legal texts.
-- [Medical Text Classification](/student-projects/nlp/applied-nlp/medical-text-classification/) — Classifying clinical or medical text data.
-- [Customer Support Ticket Classification](/student-projects/nlp/applied-nlp/support-ticket-classification/) — Categorizing support tickets using NLP models.
-- [Chat Log Analysis](/student-projects/nlp/applied-nlp/chat-log-analysis/) — Analyzing conversational data for patterns and insights.
-- [Product Review Analysis](/student-projects/nlp/applied-nlp/product-review-analysis/) — Extracting sentiment and themes from product reviews.
-- [Email Classification System](/student-projects/nlp/applied-nlp/email-classification/) — Automatically organizing email content.
-- [Topic Modeling for News Articles](/student-projects/nlp/applied-nlp/topic-modeling-news/) — Discovering latent topics in news corpora.
-- [Keyword Extraction System](/student-projects/nlp/applied-nlp/keyword-extraction/) — Identifying important terms in documents.
-- [Document Similarity Search](/student-projects/nlp/applied-nlp/document-similarity/) — Finding similar documents using vector representations.
+- [Multi-Agent AI for Construction Costing](/student-projects/nlp/applied-nlp/ai-construction-costing/) — Uses agentic workflows to automate cost estimation tasks.
+- [Biological Sequence Modeling with Transformers](/student-projects/nlp/applied-nlp/biological-sequence-transformers/) — Applies transformer architectures to biological sequence data.
+- [Code Documentation Generator](/student-projects/nlp/applied-nlp/code-documentation-generator/) — Automatically generates documentation from source code.
+- [Automated Lease Detection in Financial Documents](/student-projects/nlp/applied-nlp/lease-detection-financial-docs/) — Extracts lease obligations from accounting documents.
+- [Legal Document Simplification](/student-projects/nlp/applied-nlp/legal-document-simplifier/) — Simplifies complex legal documents for readability.
+- [Music Lyric Emotion Analysis](/student-projects/nlp/applied-nlp/lyric-emotion-analysis/) — Analyzes emotion and genre patterns in song lyrics.
+- [Media Frame Classification](/student-projects/nlp/applied-nlp/media-frame-classification/) — Classifies political media frames in news coverage.
+- [Medical Anxiety Topic Analysis](/student-projects/nlp/applied-nlp/medical-anxiety-topic-analysis/) — Uses NLP to study anxiety topics in clinical discussion text.
+- [Stock Prediction from News Sentiment](/student-projects/nlp/applied-nlp/stock-sentiment-prediction/) — Predicts stock trends using sentiment from news data.
+- [Stylometric Metadata Analysis](/student-projects/nlp/applied-nlp/stylometric-metadata-analysis/) — Uses stylometry to infer metadata about authors and documents.
+- [Text-to-SQL with Transformer Models and a Modern LLM](/student-projects/nlp/applied-nlp/text-to-sql-generation/) — A Text-to-SQL system comparing fine-tuned transformer models with a modern LLM.

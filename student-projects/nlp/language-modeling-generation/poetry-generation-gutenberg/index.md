@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on generates poems trained on Project Gutenberg corpora.
+This project focuses on Generates poems trained on Project Gutenberg corpora.
 
-​ An interactive program for computational poetry generation which responds dynamically to user input was created with GPT-2 and Project Gutenberg poetry data. The program explores various poetry generation strategies based on the alternation of user-written lines with computer-generated lines.
+The work sits in the area of language modeling and generation. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
-## Data and System Design
+## Data and Approach
 
-The project draws on Project Gutenberg, X.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around GPT-2, transformer. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
-
-The implementation uses transformers, NLTK.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Generation projects are useful because they show how language models can move from pattern recognition to actual output creation. This project also makes clear that dataset design and prompting choices shape the final result.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

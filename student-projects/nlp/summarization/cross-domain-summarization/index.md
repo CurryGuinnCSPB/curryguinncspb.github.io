@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on evaluates summarization methods across multiple text domains.
+This project focuses on Evaluates summarization methods across multiple text domains.
 
-This project evaluates the performance of T5-small transformer model on summarization across four textual domains, including philosophy, news, medical, and scientific articles. A dataset of 40 documents, 10 per domain, was chosen from the Stanford Encyclopedia of Philosophy (SEP), CNN/ DailyMail news articles, PubMed abstracts, and arXiv scientific papers.
+The work sits in the area of text summarization. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
 ## Data and Approach
 
-The project uses X as its primary dataset.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around BERT, T5-small, T5, RAG. The model combines contextual language modeling with domain-specific signals so that structured entities are easier to detect.
-
-The implementation uses ROUGE.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results show a clear improvement over the comparison baseline or over simpler alternatives.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Summarization is one of the clearest ways to make NLP useful for real readers. A good summarization system reduces the amount of text someone needs to process while preserving the main information.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

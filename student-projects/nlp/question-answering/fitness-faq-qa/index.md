@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on answers fitness questions using a domain-specific dataset.
+This project focuses on Answers fitness questions using a domain-specific dataset.
 
-This project presents a hybrid Question Answering (QA) system tailored to the fitness domain, aiming to provide accurate, relevant responses to user questions about exercise, nutrition, and wellness. The system combines traditional information retrieval methods, TF-IDF and Word2Vec, with a transformer-based extractive QA model (DistilBERT) fine- tuned on the SQuAD 2.0 dataset.
+The work sits in the area of question answering. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
 ## Data and Approach
 
-The project draws on SQuAD, X, Hugging Face Dataset.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around BERT, RoBERTa, DistilBERT, TF-IDF. The pipeline separates retrieval from generation so the system can first identify useful context and then produce an answer from that material.
-
-The implementation uses Hugging Face, transformers, scikit-learn, NLTK, TensorFlow.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results show a clear improvement over the comparison baseline or over simpler alternatives.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Question answering remains one of the most direct ways people interact with NLP systems. This project shows how retrieval and generation can be combined to return focused answers instead of a list of documents.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

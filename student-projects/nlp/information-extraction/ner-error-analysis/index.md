@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on examines common error patterns in NER models.
+This project focuses on Examines common error patterns in NER models.
 
-Error Analysis in NER with FiNER-ORD Dataset By Andrew Schiavetta CSPB 3832 Natural Language Processing This project addresses the problem of Named Entity Recognition in the financial domain Named entity recognition is a subset of natural language processing problems that deals with identifying and classifying people, organizations, and locations. Those are just the three primary categories and specific NER tasks can focus on dates or monetary values as well.
+The work sits in the area of information extraction. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
 ## Data and Approach
 
-The project draws on FiNER-ORD, X, FiNER-ORD Dataset.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around BERT, RoBERTa, transformer, scikit-learn. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
-
-The implementation centers on pretrained models and standard Python NLP tooling.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Information extraction is useful whenever important details are buried in long, unstructured text. This project shows how NLP can turn those details into structured data that can support downstream systems or analysis.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

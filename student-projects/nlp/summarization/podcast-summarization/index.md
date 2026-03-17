@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on summarizes long-form podcast transcripts.
+This project focuses on Summarizes long-form podcast transcripts.
 
-1 Final Project Report Mark Wilkening – mawi3086 Style Aware Podcast Summarizer August 14, 2025 This project explores the task of abstractive summarization of long-form narrative audio content with a focus on This American Life, a narrative journalism podcast. The goal was to fine-tune a transformer-based model to generate summaries that match the tone, brevity, and narrative style of the show’s official blurbs.
+The work sits in the area of text summarization. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
 ## Data and Approach
 
-The project draws on X, Spotify Podcast Dataset, This American Life Podcast Dialog Transcripts Dataset.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around BERT, T5, RAG, transformer. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
-
-The implementation centers on pretrained models and standard Python NLP tooling.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results point to a workable solution for the target task and a clear path for refinement.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Summarization is one of the clearest ways to make NLP useful for real readers. A good summarization system reduces the amount of text someone needs to process while preserving the main information.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.

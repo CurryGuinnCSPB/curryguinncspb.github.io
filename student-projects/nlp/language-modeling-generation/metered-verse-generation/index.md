@@ -9,28 +9,30 @@ toc: false
 
 ## Overview
 
-This project focuses on generates poetry that follows metrical patterns.
+This project focuses on Generates poetry that follows metrical patterns.
 
-Generating Metered Verse by Fine-Tuning GPT2 Natural Language Processing CSPB 4830 Spring 2025 Layce Smith - lasm5605@colorado.edu The goal of this project is to fine-tune GPT2 to create two language models that can generate metered verse in the form of iambic pentameter and haiku poems. I chose this task because metered verse is often easiest to learn if one taps out the beat.
+The work sits in the area of language modeling and generation. The main goal is to build a system that moves from raw language input to a clearer, more useful output for the target task.
 
 ---
 
-## Data and System Design
+## Data and Approach
 
-The project draws on Project Gutenberg, X, Haiku Dataset.
+The project uses a task-specific workflow built around standard NLP preprocessing, model selection, and evaluation.
 
-The core system is built around GPT2, transformer. The workflow is designed to move from raw text to a structured or interpretable output with as little manual intervention as possible.
-
-The implementation uses Hugging Face, transformers.
+The exact pipeline varies by project, but the overall structure is straightforward. Text is prepared for the task, one or more models are applied, and the output is compared against reference data or other evaluation criteria.
 
 ---
 
 ## Results
 
-The project reports qualitative or comparative results rather than a single headline metric. The results suggest that the system is effective on the target task and provides a useful baseline for future work.
+The project reports a workable solution for the target task and shows how NLP methods can be applied to the problem in a practical way.
+
+In cases where the underlying report or slides provide detailed metrics, those can be added later. For now, this page is intended to provide a concise public-facing summary of the project rather than a full technical report.
 
 ---
 
 ## Why This Matters
 
-Generation projects are useful because they show how language models can move from pattern recognition to actual output creation. This project also makes clear that dataset design and prompting choices shape the final result.
+Projects like this show how natural language processing can be connected to real questions, real data, and real applications.
+
+In addition, they show the range of work students can do when they combine core computer science ideas with domain-specific problems.
