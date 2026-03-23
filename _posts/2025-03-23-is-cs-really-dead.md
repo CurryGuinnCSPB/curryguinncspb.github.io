@@ -1,10 +1,10 @@
 ---
-title: "Is Computer Science Really Dead? A Data-Driven Reality Check"
+title: "Is Computer Science Dead in 2026? What the Data Says About AI and Jobs"
 layout: single
 permalink: /is-cs-really-dead/
 date: 2026-03-23
 last_modified_at: 2026-03-23
-excerpt: "A data-driven look at the current state of computer science jobs, AI, and the workforce, based on a talk by Will Markow (FourOne Insights)."
+excerpt: "A data-driven look at whether computer science jobs are declining, what AI is really changing, and what students should expect in today’s job market."
 categories:
   - Computer Science Education
   - AI
@@ -37,7 +37,7 @@ toc: false
 <p>That line came early in the talk and framed the rest of the discussion. A common claim right now is that AI is driving the decline in entry-level CS jobs, but when you line up the timing, that explanation doesn’t hold up very well.</p>
 
 <figure>
-  <img src="/assets/images/speaker-series/markow/job-postings-by-month.png" alt="Job postings over time showing decline aligned with interest rate hikes rather than ChatGPT release">
+  <img src="/assets/images/speaker-series/markow/job-postings-by-month.png" alt="Tech job postings decline aligned with interest rate hikes rather than AI release">
   <figcaption>
     Job postings by month (2019–2025). The largest declines align with interest rate hikes, not the release of ChatGPT. Source: Will Markow, FourOne Insights.
   </figcaption>
@@ -79,9 +79,11 @@ toc: false
 
 <h3>“The disruption is happening at the level of skills.”</h3>
 
-<p>Jobs are not disappearing. They are evolving. Over the past decade, employers have steadily shifted what they ask for, with growth in areas like AI, machine learning, and cloud, alongside continued demand for Python and cybersecurity.</p>
+<p>Jobs are not disappearing. They are evolving. Over the past decade, employers have steadily shifted what they ask for, with growth in areas like AI, machine learning, and cloud, alongside continued demand for Python and cybersecurity. I wrote about this idea in more detail in a <a href="/programming-after-programmers/">recent response to a New York Times Magazine article</a>, where the focus shifts from writing code to understanding systems.</p>
 
 <p>The job titles often stay the same, but the expectations inside those roles change. That means the question is not just whether jobs exist. It’s whether your skills line up with where those jobs are going.</p>
+
+<p>This connects closely to ideas from a <a href="/ai-for-poets-reflection/">previous CSPB Speaker Series talk</a> on how AI is shifting the role of software engineers.</p>
 
 <h3>A quick reality check</h3>
 
@@ -120,7 +122,7 @@ toc: false
 
 <p>Even leaders at major AI companies emphasize that the value of computer science training is not just coding. It’s systems thinking, design, and the ability to reason about complex problems.</p>
 
-<p>Those are not going away.</p>
+<p>This is also the perspective we take in the <a href="/cspb/">CSPB program</a>, where the focus is not just on coding, but on building systems and developing strong technical foundations.</p>
 
 <h3>Final thought</h3>
 
