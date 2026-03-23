@@ -136,4 +136,3 @@ toc: false
 The Truth About AI and the Workforce
 </a></strong></p>
 
-<p>If you’ve been following this space, I’d be curious what stands out to you.</p>
