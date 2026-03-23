@@ -24,6 +24,26 @@ excerpt: "Overview of the Applied Computer Science Post-Baccalaureate program at
 }
 </script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": "https://curryguinncspb.github.io/"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Applied Computer Science Post-Baccalaureate Program",
+    "item": "https://curryguinncspb.github.io/cspb/"
+  }]
+}
+</script>
+
+# CU Boulder Applied Computer Science Post-Baccalaureate Program
+
 Many students who arrive here are exploring the idea of a second bachelor’s degree in computer science or a post-baccalaureate computer science program. These programs are designed for students who already hold a degree in another field but want to build a serious foundation in computing. Some are making a career transition into software development or data science. Others are preparing for graduate study in computer science.
 
 This page is based on my experience teaching in the program and working with students, and is intended as an informal guide rather than an official program description.
