@@ -45,7 +45,7 @@ toc: false
 
 <p>Take a look at the figure above. The steepest drop in job postings happens <strong>before</strong> ChatGPT is released. What lines up more closely is the first interest rate hike, followed by another drop after the next round of increases.</p>
 
-<p>That doesn’t mean AI has no impact. It clearly does. But the data suggests that broader economic factors, especially interest rates and general uncertainty, are doing more of the work here.</p>
+<p>That doesn’t mean AI has no impact. But the data suggests that broader economic factors, especially interest rates and general uncertainty, are doing more of the work here.</p>
 
 <p>At that point, it helps to ask a different question. If this isn’t primarily an AI story, then what changed?</p>
 
