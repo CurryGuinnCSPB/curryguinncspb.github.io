@@ -1,10 +1,20 @@
 ---
-title: "Teaching Computer Science and the CSPB Program: A Q&A"
 layout: single
+title: "Teaching Computer Science and the CSPB Program: A Q&A"
 date: 2026-03-13
-categories: blog
+last_modified_at: 2026-03-29
+categories:
+  - Computer Science Education
+  - CSPB
+tags:
+  - CSPB
+  - computer science education
+  - career change computer science
+  - CU Boulder
+  - teaching computer science
 excerpt: "A conversation about teaching computer science, career transitions into the field, and the Applied Computer Science Post-Baccalaureate program at CU Boulder."
-tags: [CSPB, computer science education, career change, CU Boulder]
+author_profile: false
+toc: false
 header:
   teaser: /assets/images/boulder-flatirons.jpg
 ---
@@ -19,7 +29,9 @@ header:
 </figure>
 
 
-Earlier this year the CU Boulder Online team published a short Q&A with me about teaching computer science and the Applied Computer Science Post-Baccalaureate program. The interview discusses my background, what makes the program distinctive, and some practical advice for students who are learning computer science or transitioning into the field.
+
+Earlier this year the CU Boulder Online team published a short Q&A with me about teaching computer science and the Applied Computer Science Post-Baccalaureate program. The interview discusses my background, what makes the program distinctive, and some practical advice for students who are learning computer science or considering a <a href="/career-change-computer-science/">career transition into the field</a>.
+
 
 You can read the original interview here:
 
@@ -44,13 +56,16 @@ My academic background combines **computer science and philosophy**, which led n
 
 One of the reasons I have always enjoyed computer science is the balance between creativity and discipline. You begin with an idea, try to turn it into a working system, and then refine it through testing and iteration until the result is reliable and understandable.
 
-Another appealing aspect of the field is its breadth. Once you learn the core principles of computing, you start to see opportunities to apply them in almost every domain—from science and medicine to business and education. Students in the post-baccalaureate program often bring expertise from earlier careers and find interesting ways to combine that experience with computing.
+Another appealing aspect of the field is its breadth. Once you learn the core principles of computing, you start to see opportunities to apply them in almost every domain, from science and medicine to business and education. Those are some of the same foundations I describe in more detail in <a href="/cspb/what-you-learn/">this overview of what students learn in the program</a>. Students in the post-baccalaureate program often bring expertise from earlier careers and find interesting ways to combine that experience with computing.
 
 ---
 
 ## Why teach in the Applied Computer Science program?
 
-What drew me to CU Boulder’s Applied Computer Science Post-Baccalaureate program was the focus on students who are **making a deliberate transition into computer science**. Most students already hold a bachelor’s degree and are choosing to build technical skills with clear goals in mind.
+
+What drew me to CU Boulder’s Applied Computer Science Post-Baccalaureate program was the focus on students who are **making a deliberate transition into computer science**. Most students already hold a bachelor’s degree and are choosing to build technical skills with clear goals in mind. In many ways, they are the kinds of students described in <a href="/cspb/is-this-program-for-you/">this guide to who the program is designed for</a>.
+
+
 
 The students are one of the most rewarding aspects of the program. Many are balancing work, family, and coursework while building new technical abilities. That level of motivation makes the teaching experience particularly meaningful.
 
@@ -104,3 +119,39 @@ I have a separate page on this site that describes the program from a faculty pe
 
 ➡ Learn more about the program here:  
 [CSPB Program Overview](/cspb/)
+
+<hr>
+
+<h3>Related Pages and Articles</h3>
+
+<p>If you are exploring computer science as a field of study or career transition, these pages offer additional perspective on program fit, curriculum, and how the field is changing.</p>
+
+<ul>
+  <li>
+    <a href="/cspb/is-this-program-for-you/">
+      Is This Program Right for You?
+    </a><br>
+    A closer look at the kinds of students who often benefit from a structured path into computer science.
+  </li>
+
+  <li>
+    <a href="/cspb/what-you-learn/">
+      What You Learn
+    </a><br>
+    An overview of the core computer science ideas and practical skills students build in the program.
+  </li>
+
+  <li>
+    <a href="/career-change-computer-science/">
+      Career Change into Computer Science
+    </a><br>
+    Practical guidance for professionals moving into software development, data science, or related technical work.
+  </li>
+
+  <li>
+    <a href="/programming-after-programmers/">
+      Programming After Programmers
+    </a><br>
+    A broader discussion of how AI is changing software development and why strong computer science foundations still matter.
+  </li>
+</ul>
