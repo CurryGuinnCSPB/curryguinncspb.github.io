@@ -1,12 +1,33 @@
 ---
-title: "Pathways"
 layout: single
+title: "Pathways"
 permalink: /cspb/pathways/
+
+date: 2026-02-08
+last_modified_at: 2026-03-29
+
+categories:
+  - Computer Science Education
+  - CSPB
+
+tags:
+  - computer science pathways
+  - cs curriculum paths
+  - internships computer science
+  - data science pathway
+  - graduate study cs
+  - CSPB
+
+excerpt: "An overview of course pathways in the CU Boulder Applied Computer Science Post-Baccalaureate program and how they align with goals such as internships, data science, and graduate study."
+
+author_profile: false
+toc: false
 ---
 
-In the program, students work through core areas of computer science such as programming, data structures, and algorithms. Students work through topics such as programming, data structures, algorithms, and software development practices. Those ideas form the backbone of almost every area of modern computing.
 
-At the same time, students often arrive with different goals. Some are thinking about internships or software development careers. Others are interested in data science or artificial intelligence. Some are preparing for graduate study. Because of that, the program describes several **course pathways** that help students see how particular courses fit together depending on the direction they want to pursue.
+In the program, students work through core areas of computer science such as programming, data structures, and algorithms. These ideas form the backbone of almost every area of modern computing and are part of <a href="/cspb/what-you-learn/">what students learn as they build a strong foundation in computer science</a>.
+
+At the same time, students often arrive with different goals. Some are thinking about internships or software development careers. Others are interested in data science or artificial intelligence. Some are preparing for graduate study. Many are also coming from different backgrounds and thinking about <a href="/career-change-computer-science/">how to transition into computer science</a> in a structured and sustainable way. Because of that, the program describes several **course pathways** that help students see how particular courses fit together depending on the direction they want to pursue.
 
 These pathways are not separate tracks or specializations. Instead, they are examples of how different courses in the program can support different learning goals. Many students move across these areas as their interests evolve.
 
@@ -60,6 +81,51 @@ These pathways illustrate some of the ways students can shape their experience i
 
 ➡ Learn more about the program here:  
 [CSPB Program Overview](/cspb/)
+
+---
+
+<hr>
+
+<h3>Related Articles</h3>
+
+<p>If you are exploring how different course paths align with your goals, these pages provide additional context on careers, program fit, and what students learn.</p>
+
+<ul>
+  <li>
+    <a href="/cspb/what-you-learn/">
+      What You Learn
+    </a><br>
+    An overview of the core computer science concepts that support long-term growth across different areas of computing.
+  </li>
+
+  <li>
+    <a href="/cspb/is-this-program-for-you/">
+      Is This Program Right for You?
+    </a><br>
+    A closer look at the kinds of students who benefit most from a structured path into computer science.
+  </li>
+
+  <li>
+    <a href="/career-change-computer-science/">
+      Career Change into Computer Science
+    </a><br>
+    Practical considerations for transitioning into software development or data science roles.
+  </li>
+
+  <li>
+    <a href="/is-post-bacc-computer-science-worth-it/">
+      Is a Post-Baccalaureate Computer Science Degree Worth It?
+    </a><br>
+    When returning to school makes sense for building deeper technical foundations.
+  </li>
+
+  <li>
+    <a href="/programming-after-programmers/">
+      Programming After Programmers
+    </a><br>
+    How AI is changing software development and why core computer science ideas still matter.
+  </li>
+</ul>
 
 ---
 
