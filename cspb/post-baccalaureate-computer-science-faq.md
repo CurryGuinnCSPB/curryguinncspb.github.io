@@ -1,15 +1,35 @@
 ---
-title: "title: "Post-Baccalaureate Computer Science Program FAQ""
 layout: single
+title: "Post-Baccalaureate Computer Science Program FAQ"
 permalink: /cspb/post-baccalaureate-computer-science-faq/
+
+date: 2026-02-12
+last_modified_at: 2026-03-29
+
+categories:
+  - Computer Science Education
+  - CSPB
+
+tags:
+  - post baccalaureate computer science
+  - computer science faq
+  - second bachelor's degree computer science
+  - career change computer science
+  - CSPB
+
 excerpt: "Common questions about post-baccalaureate computer science programs, second bachelor's degrees in computer science, and career transitions into computing."
+
+author_profile: false
+toc: true
+toc_label: "On this page"
 ---
 
 These answers are based on my experience working with students and are intended as general guidance rather than official program policy.
 
 ## What is a post-baccalaureate computer science program?
 
-A post-baccalaureate computer science program is designed for students who already hold a bachelor’s degree in another field and want a structured way to build real computer science skills. In practice, many of the students I talk with are trying to make a serious transition into software development, data science, or related technical work. They are not looking for a casual introduction. They want a solid foundation.
+A post-baccalaureate computer science program is designed for students who already hold a bachelor’s degree in another field and want a structured way to build real computer science skills. In practice, many of the students I talk with are trying to make a serious <a href="/career-change-computer-science/">transition into computer science</a>, software development, data science, or related technical work. They are not looking for a casual introduction. They want a solid foundation.
+
 
 ## Is a post-baccalaureate computer science program the same as a second bachelor’s degree?
 
@@ -33,7 +53,8 @@ What matters more is curiosity and persistence. You do not need to know everythi
 
 This question comes up surprisingly often. AI tools can certainly help write code and accelerate some parts of development, but they do not replace the need for people who understand how software systems actually work.
 
-Engineers still need to understand data structures, algorithms, system design, testing, and debugging. If anything, the rise of AI makes strong computer science foundations more important, because someone still has to understand whether the generated solutions are correct and appropriate.
+Engineers still need to understand data structures, algorithms, system design, testing, and debugging. If anything, the rise of AI makes strong computer science foundations more important, because someone still has to understand whether the generated solutions are correct and appropriate. I discuss that shift in more detail in <a href="/programming-after-programmers/">Programming After Programmers</a>.
+
 
 ## Why not just learn programming on your own?
 
@@ -83,6 +104,51 @@ Programs such as the **[Applied Computer Science Post-Baccalaureate program](/cs
  ]
 }
 </script>
+
+---
+
+<hr>
+
+<h3>Related Pages and Articles</h3>
+
+<p>If you are exploring post-baccalaureate computer science programs, these pages provide more detail on program fit, curriculum, career transitions, and how the field is changing.</p>
+
+<ul>
+  <li>
+    <a href="/cspb/is-this-program-for-you/">
+      Is This Program Right for You?
+    </a><br>
+    A closer look at the kinds of students who often benefit from a structured path into computer science.
+  </li>
+
+  <li>
+    <a href="/cspb/what-you-learn/">
+      What You Learn
+    </a><br>
+    An overview of the core computer science ideas and practical skills students build in the program.
+  </li>
+
+  <li>
+    <a href="/career-change-computer-science/">
+      Career Change into Computer Science
+    </a><br>
+    Practical guidance for professionals moving into software development, data science, or related technical work.
+  </li>
+
+  <li>
+    <a href="/is-post-bacc-computer-science-worth-it/">
+      Is a Post-Baccalaureate Computer Science Degree Worth It?
+    </a><br>
+    When returning to school makes sense for building a deeper foundation in computing.
+  </li>
+
+  <li>
+    <a href="/programming-after-programmers/">
+      Programming After Programmers
+    </a><br>
+    A broader discussion of how AI is changing software development and why strong computer science foundations still matter.
+  </li>
+</ul>
 
 ---
 
