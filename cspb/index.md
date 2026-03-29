@@ -2,8 +2,28 @@
 title: "CU Boulder Applied Computer Science Post-Baccalaureate Program | Second Bachelor's Degree in Computer Science"
 layout: single
 permalink: /cspb/
+
+date: 2026-01-20
+last_modified_at: 2026-03-29
+
 description: "Overview of the CU Boulder Applied Computer Science Post-Baccalaureate program for students pursuing a second bachelor's degree in computer science or transitioning into software development."
+
 excerpt: "Overview of the Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder, including courses, pathways, and student experience."
+
+categories:
+  - Computer Science Education
+  - CSPB
+
+tags:
+  - CU Boulder
+  - applied computer science
+  - post baccalaureate computer science
+  - second bachelor's degree computer science
+  - career change computer science
+  - online computer science degree
+
+author_profile: false
+toc: false
 ---
 
 <script type="application/ld+json">
@@ -44,11 +64,14 @@ excerpt: "Overview of the Applied Computer Science Post-Baccalaureate program at
 
 # CU Boulder Applied Computer Science Post-Baccalaureate Program
 
-Many students who arrive here are exploring the idea of a second bachelor’s degree in computer science or a post-baccalaureate computer science program. These programs are designed for students who already hold a degree in another field but want to build a serious foundation in computing. Some are making a career transition into software development or data science. Others are preparing for graduate study in computer science.
+Many students who arrive here are exploring the idea of a second bachelor’s degree in computer science or a post-baccalaureate computer science program. These programs are designed for students who already hold a degree in another field but want to build a serious foundation in computing. Some are making a <a href="/career-change-computer-science/">career transition into computer science</a> or software development. Others are preparing for graduate study in computer science.
+
 
 This page is based on my experience teaching in the program and working with students, and is intended as an informal guide rather than an official program description.
 
-The Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder is designed for exactly this audience, and in my experience teaching in the program, it serves this group particularly well. The program is fully online and designed for students who may already be working full time, but it is also structured and rigorous in ways that reward steady progress and sustained engagement with the material. Students work through core areas of computer science while gradually building the skills needed for modern software development.
+
+The Applied Computer Science Post-Baccalaureate program at the University of Colorado Boulder is designed for exactly this audience, and in my experience teaching in the program, it serves this group particularly well. The program is fully online and designed for students who may already be working full time, but it is also structured and rigorous in ways that reward steady progress and sustained engagement with the material. Students work through core areas of computer science while gradually building the skills needed for modern software development, including many of the foundations described in <a href="/cspb/what-you-learn/">what students learn in the program</a>.
+
 
 I teach several courses in the program, including data structures, software development methodologies and tools, professional development in computer science, and natural language processing. I am also involved in broader student experience initiatives such as program pathways, advising resources, and outreach to prospective students. One of the distinctive features of the program is the range of backgrounds students bring with them. Many arrive from engineering, business, the sciences, or the humanities, and that diversity often leads to thoughtful discussions and interesting projects as students connect computer science ideas with the domains they already know well.
 
@@ -149,6 +172,30 @@ This talk explores why creative thinkers and interdisciplinary backgrounds are b
 - [Teaching](/teaching/)
 - [Research](/research/)
 - [CV](/cv/)
+
+---
+
+<hr>
+
+<h3>Related Perspectives</h3>
+
+<p>If you are interested in how computer science and software development are evolving, these articles provide additional context.</p>
+
+<ul>
+  <li>
+    <a href="/programming-after-programmers/">
+      Programming After Programmers
+    </a><br>
+    How AI is changing software development and why strong foundations still matter.
+  </li>
+
+  <li>
+    <a href="/is-cs-really-dead/">
+      Is Computer Science Dead in 2026?
+    </a><br>
+    A data-driven look at the job market and what broader trends suggest.
+  </li>
+</ul>
 
 ---
 
