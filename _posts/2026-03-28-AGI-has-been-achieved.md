@@ -2,7 +2,7 @@
 layout: single
 title: "Has AGI Already Been Achieved? A Response to Nature’s Human-Level Intelligence Argument"
 date: 2026-03-26
-last_modified_at: 2026-03-26
+last_modified_at: 2026-03-29
 permalink: /artificial-intelligence/has-agi-already-been-achieved/
 categories:
   - Artificial Intelligence
@@ -112,3 +112,40 @@ toc_label: "On this page"
 </strong></p>
 
 <p class="small">Alan Turing, <em>Intelligent Machinery, A Heretical Theory</em>, lecture to the 51 Society, University of Manchester, c. 1951. (emphasis mine)</p>
+
+
+<hr>
+
+<h3>Related Articles</h3>
+
+<p>If you are thinking about artificial intelligence, computer science, and what these changes mean for students and professionals, these pieces connect closely to this discussion.</p>
+
+<ul>
+  <li>
+    <a href="/programming-after-programmers/">
+      Programming After Programmers
+    </a><br>
+    A response to the New York Times on AI and coding, and why system design and domain knowledge may matter even more as code generation becomes easier.
+  </li>
+
+  <li>
+    <a href="/is-cs-really-dead/">
+      Is Computer Science Dead in 2026?
+    </a><br>
+    A data-driven look at what AI is really changing in the job market and what broader labor trends suggest.
+  </li>
+
+  <li>
+    <a href="/ai-for-poets-reflection/">
+      AI for Poets: Why Interdisciplinary Thinkers Matter in the Age of AI
+    </a><br>
+    A reflection on why interdisciplinary backgrounds may become more valuable, not less, as AI systems take on more routine coding work.
+  </li>
+
+  <li>
+    <a href="/is-post-bacc-computer-science-worth-it/">
+      Is a Post-Baccalaureate Computer Science Degree Worth It?
+    </a><br>
+    When it makes sense to build a deeper foundation in computing, especially in a moment when AI is changing how software gets built.
+  </li>
+</ul>
