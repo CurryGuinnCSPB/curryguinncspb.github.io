@@ -6,6 +6,7 @@ layout: single
 permalink: /programming-after-programmers/
 excerpt: "A response to the New York Times Magazine article on AI and the future of programming, and why interdisciplinary developers may matter more than ever."
 date: 2026-03-15
+last_modified_at: 2026-03-29
 ---
 
 <img src="/assets/images/blog/ai-coding-nyt.jpg"
@@ -20,7 +21,9 @@ You can read the article [here](https://www.nytimes.com/2026/03/12/magazine/ai-c
 
 Programming is not disappearing. It is changing.
 
-The article explores a question that is increasingly on the minds of students, engineers, and executives alike. If AI systems can write software, what happens to programmers?
+<p>
+The article explores a question that is increasingly on the minds of students, engineers, and executives alike. If AI systems can write software, what happens to programmers? This is a question I explore from a data perspective in <a href="/is-cs-really-dead/">this analysis of the current computer science job market</a>.
+</p>
 
 It is a fair question. But when you read the article carefully, a different story begins to emerge.
 
@@ -131,3 +134,46 @@ The New York Times article is correct that programming is changing.
 But the deeper transformation is not about replacing programmers.
 
 It is about expanding what it means to be a programmer.
+
+<hr>
+
+<h3>Related Articles</h3>
+
+<p>If you are thinking about how AI is changing software development and computer science, these pieces explore closely related ideas.</p>
+
+<ul>
+  <li>
+    <a href="/artificial-intelligence/has-agi-already-been-achieved/">
+      Has AGI Already Been Achieved?
+    </a><br>
+    A closer look at whether modern AI systems already meet a reasonable definition of human-level intelligence.
+  </li>
+
+  <li>
+    <a href="/is-cs-really-dead/">
+      Is Computer Science Dead in 2026?
+    </a><br>
+    A data-driven perspective on AI, hiring trends, and what is actually happening in the job market.
+  </li>
+
+  <li>
+    <a href="/ai-for-poets-reflection/">
+      AI for Poets: Why Interdisciplinary Thinkers Matter
+    </a><br>
+    Why domain knowledge and problem framing may matter more than raw coding ability in an AI-driven world.
+  </li>
+
+  <li>
+    <a href="/career-change-computer-science/">
+      Career Change into Computer Science
+    </a><br>
+    What it looks like to transition into software engineering and how to build a strong foundation.
+  </li>
+
+  <li>
+    <a href="/cspb/what-you-learn/">
+      What You Learn in Computer Science
+    </a><br>
+    An overview of the core concepts behind modern software systems and why they still matter.
+  </li>
+</ul>
