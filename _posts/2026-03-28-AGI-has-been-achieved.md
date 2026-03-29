@@ -47,9 +47,11 @@ toc_label: "On this page"
 
 <p class="notice--primary"><strong>“No single test is definitive, but evidence accumulates.”</strong></p>
 
-<p>Models can pass exams, write and debug code, assist with research, generate ideas, and move across domains with a flexibility that we had not seen before.</p>
 
-<p>It is easy to push back on individual examples. I found myself doing that while reading. What is harder to dismiss is how wide the capabilities are when you step back and look across them. Taken together, they point to human-level breadth in a way that no single example does.</p>
+<p>
+Models can pass exams, write and debug code, assist with research, generate ideas, and move across domains with a flexibility that we had not seen before. It is easy to push back on individual examples, but when you step back and look across them, the breadth becomes harder to dismiss. That raises a related question about what this means for software development and careers, something I explore in more detail in <a href="/programming-after-programmers/">Programming After Programmers</a>.
+</p>
+
 
 <h2>Why AGI standards have shifted beyond human intelligence</h2>
 
@@ -76,6 +78,10 @@ toc_label: "On this page"
 <p>The “stochastic parrot” argument suggests that models are simply remixing training data. That explanation starts to break down when models write working code for new problems, respond to unfamiliar prompts, and apply knowledge in contexts that were not part of their training data.</p>
 
 <p>There is also the question of whether these systems actually understand what they are saying, or whether they are only producing convincing language. In practice, these systems can explain concepts, apply them correctly, and adapt them to new situations. That begins to look very close to what we mean by understanding.</p>
+
+<p>
+If these systems are already approaching human-level performance across many tasks, then the question shifts from whether they are capable to how they will be used in practice. That includes questions about jobs, hiring, and long-term demand, which I examine more directly in <a href="/is-cs-really-dead/">this analysis of computer science careers</a>.
+</p>
 
 <p>Embodiment is another concern. Intelligence is often tied to physical interaction, but we do not require that in every case. We would still recognize intelligence in someone who cannot act physically yet can reason, communicate, and engage with ideas. A mathematician working entirely in symbols, or someone reasoning through complex problems in conversation alone, would still be considered intelligent. That makes it harder to treat physical embodiment as a requirement for intelligence.</p>
 
