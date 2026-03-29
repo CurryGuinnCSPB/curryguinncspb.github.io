@@ -3,7 +3,7 @@ title: "Is Computer Science Dead in 2026? What the Data Says About AI and Jobs"
 layout: single
 permalink: /is-cs-really-dead/
 date: 2026-03-23
-last_modified_at: 2026-03-23
+last_modified_at: 2026-03-26
 excerpt: "A data-driven look at whether computer science jobs are declining, what AI is really changing, and what students should expect in today’s job market."
 categories:
   - Computer Science Education
@@ -47,7 +47,13 @@ toc: false
 
 <p>That doesn’t mean AI has no impact. But the data suggests that broader economic factors, especially interest rates and general uncertainty, are doing more of the work here.</p>
 
-<p>At that point, it helps to ask a different question. If this isn’t primarily an AI story, then what changed?</p>
+<p>
+That doesn’t mean AI has no impact. But the data suggests that broader economic factors, especially interest rates and general uncertainty, are doing more of the work here.
+</p>
+
+<p>
+At that point, it helps to ask a different question. If this isn’t primarily an AI story, then what changed? Part of the answer involves how AI is reshaping the nature of programming work itself, something I explore in more detail in <a href="/programming-after-programmers/">this discussion of how AI is changing coding and software development</a>.
+</p>
 
 <h3>“What we saw after the pandemic was probably the anomaly.”</h3>
 
@@ -138,3 +144,38 @@ toc: false
 The Truth About AI and the Workforce
 </a></strong></p>
 
+<hr>
+
+<h3>Related Articles</h3>
+
+<p>If you are trying to understand how AI is affecting computer science careers and what to do next, these pieces explore closely related questions.</p>
+
+<ul>
+  <li>
+    <a href="/programming-after-programmers/">
+      Programming After Programmers
+    </a><br>
+    A deeper look at how AI is changing the role of developers and shifting the emphasis toward system design and problem framing.
+  </li>
+
+  <li>
+    <a href="/artificial-intelligence/has-agi-already-been-achieved/">
+      Has AGI Already Been Achieved?
+    </a><br>
+    A broader discussion of AI capability and what it means to describe systems as having human-level intelligence.
+  </li>
+
+  <li>
+    <a href="/career-change-computer-science/">
+      Career Change into Computer Science
+    </a><br>
+    Practical considerations for transitioning into software development and building a strong technical foundation.
+  </li>
+
+  <li>
+    <a href="/is-post-bacc-computer-science-worth-it/">
+      Is a Post-Baccalaureate Computer Science Degree Worth It?
+    </a><br>
+    When returning to school makes sense for developing deeper computer science skills in a changing job market.
+  </li>
+</ul>
