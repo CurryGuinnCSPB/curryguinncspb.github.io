@@ -40,22 +40,15 @@ So it is worth asking a simple question.
 
 Is that graph picking up something real?
 
+I think it is.
+
+The stronger case, though, comes from whether independent sources show the same thing.
+
 ---
 
 ## “Job postings for software engineers are rising rapidly, up 11% YoY.”
 
 That quote comes directly from the Citadel Securities article that featured the chart above.
-
-The <a href="https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE">Federal Reserve Economic Data series</a> for software development job postings on Indeed also shows an upturn beginning near the end of 2025 and continuing into early 2026.
-
-<figure>
-  <img src="/assets/images/blog/fred-software-development-job-postings-2026.png" alt="FRED graph of Software Development Job Postings on Indeed in the United States rising into 2026">
-  <figcaption>
-    FRED chart based on Indeed data, showing software development job postings rising into early 2026.
-  </figcaption>
-</figure>
-
-That is still part of the Indeed data family, so it should not be treated as a fully independent confirmation. It is better understood as a cleaner view of the same underlying trend.
 
 ---
 
@@ -127,7 +120,7 @@ I would also include cloud systems in that conversation.
 
 I think that is the main thing students should take from all of this.
 
-The current evidence does not support a simple collapse story. Recent data suggests that software-related postings have turned upward. The Citadel chart raised the question, the FRED series shows the same Indeed trend more directly, and CompTIA and Dice provide the stronger outside support.
+The current evidence does not support a simple collapse story. Recent data suggests that software-related postings have turned upward. The Citadel chart raised the question, and CompTIA and Dice provide strong outside support.
 
 At the same time, the market is asking for something a little different than it was asking for several years ago.
 
