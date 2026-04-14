@@ -30,12 +30,11 @@ toc: false
   </figcaption>
 </figure>
 
-A chart from <a href="https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/">
-    Citadel Securities </a> recently caught my eye.
+A chart from <a href="https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/">Citadel Securities</a> recently caught my eye.
 
 It showed software engineer job postings turning upward at the end of 2025 and continuing to rise into 2026.
 
-That matters, because the public story around computer science has leaned heavily in the other direction. For a while now, the dominant narrative has been decline: fewer jobs, shrinking opportunity, and AI sweeping away the bottom rungs of the ladder.
+That matters because the public story around computer science has leaned heavily in the other direction. For a while now, the dominant narrative has been decline: fewer jobs, shrinking opportunity, and AI sweeping away the bottom rungs of the ladder.
 
 So it is worth asking a simple question.
 
@@ -47,7 +46,7 @@ Is that graph picking up something real?
 
 That quote comes directly from the Citadel Securities article that featured the chart above.
 
-The Federal Reserve Economic Data series for software development job postings on Indeed also shows an upturn beginning near the end of 2025 and continuing into early 2026. If you look at the FRED version of the data, the climb is visible across the first months of 2026.
+The <a href="https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE">Federal Reserve Economic Data series</a> for software development job postings on Indeed also shows an upturn beginning near the end of 2025 and continuing into early 2026.
 
 <figure>
   <img src="/assets/images/blog/fred-software-development-job-postings-2026.png" alt="FRED graph of Software Development Job Postings on Indeed in the United States rising into 2026">
@@ -56,29 +55,28 @@ The Federal Reserve Economic Data series for software development job postings o
   </figcaption>
 </figure>
 
-That is still part of the Indeed data family, so it should not be treated as a fully independent confirmation. But it does support the basic shape of the trend.
+That is still part of the Indeed data family, so it should not be treated as a fully independent confirmation. It is better understood as a cleaner view of the same underlying trend.
 
 ---
 
 ## “Software Developer / Engineer 54,614 +4,361”
 
-A stronger confirmation comes from <a href="https://lecbyo.files.cmp.optimizely.com/download/6b6fc8e4ff4a11efbebeaeb5c39a94d9?sfvrsn=725f3c8d_0"> CompTIA’s April 2026 Tech Jobs Report</a>, which draws on Lightcast posting data.
+A stronger confirmation comes from <a href="https://lecbyo.files.cmp.optimizely.com/download/6b6fc8e4ff4a11efbebeaeb5c39a94d9?sfvrsn=725f3c8d_0">CompTIA’s April 2026 Tech Jobs Report</a>, which draws on Lightcast posting data.
 
 <figure>
   <img src="/assets/images/blog/comptia-tech-jobs-report-april-2026.png" alt="CompTIA April 2026 Tech Jobs Report showing software developer engineer postings rising month over month">
   <figcaption>
-    CompTIA, using Lightcast job posting data, also shows Software Developer / Engineer postings increasing in March 2026.
+    CompTIA, using Lightcast job posting data, shows Software Developer / Engineer postings increasing in March 2026.
   </figcaption>
 </figure>
 
 In that report, Software Developer / Engineer postings rose to 54,614 in March 2026, up 4,361 from February. Remote Software Developer / Engineer postings also increased, rising by 1,403 month over month.
 
-That matters because it is a separate data source telling a similar story. In general, when different sources with different methods begin pointing in the same direction, I pay more attention.
-
+That matters because it is a separate data source telling a similar story.
 
 There is more in that same report that students should notice.
 
-The growth is not only about software jobs in the abstract. It is also about changing skill demand. The report shows very sharp growth in AI-related hiring intent and continued demand for technical roles tied to data, cloud systems, cybersecurity, and engineering.
+The growth is not only about software jobs in the abstract. It is also about changing skill demand. The report shows sharp growth in AI-related hiring intent and continued demand for technical roles tied to data, cloud systems, cybersecurity, and engineering.
 
 That is a useful correction to the common claim that AI is simply wiping out computer science jobs.
 
@@ -93,21 +91,19 @@ The jobs are still there. The skill mix inside them is shifting.
 <figure>
   <img src="/assets/images/blog/AI-in-job-description.png" alt="AI Hiring Intent Index">
   <figcaption>
-    CompTIA, Growth in hob listings with an AI skill requirment.
+    CompTIA chart showing growth in job listings with an AI skill requirement.
   </figcaption>
 </figure>
 
 Dice points in a similar direction.
 
-In its <a href="https://www.dice.com/recruiting/ebooks/dice-tech-job-report/"> February 2026 Tech Jobs Report</a>, Dice reported that tech job postings increased 12% month over month in January 2026. The report also noted that AI skill requirements appeared in 58% of U.S. tech job postings, up from 51% the month before, and up 108% from January 2025.
+In its <a href="https://www.dice.com/recruiting/ebooks/dice-tech-job-report/">February 2026 Tech Jobs Report</a>, Dice reported that tech job postings increased 12% month over month in January 2026. The report also noted that AI skill requirements appeared in 58% of U.S. tech job postings, up from 51% the month before, and up 108% from January 2025.
 
 That does not mean every student needs to become a machine learning researcher.
 
 It does mean that AI is moving from the margins toward the center of technical work.
 
 If you are studying computer science right now, one thing to keep in mind is that AI is increasingly showing up as part of the expected toolkit. That can mean machine learning. It can mean data science. It can mean working with LLMs and natural language processing. It can also mean understanding how to build systems around AI tools rather than simply calling an API.
-
-At that point, the question becomes less about whether AI is replacing the field and more about how the field is being redefined.
 
 ---
 
@@ -121,7 +117,7 @@ But the expectations inside those roles change.
 
 Students still need the foundations of computer science. They also need to be paying attention to where employers are putting new emphasis.
 
-In practical terms, that means that coursework and projects in AI, machine learning, data science, and natural language processing are becoming more valuable, not less.
+In practical terms, that means that coursework and projects in AI, machine learning, data science, and natural language processing are becoming more valuable.
 
 I would also include cloud systems in that conversation.
 
@@ -131,13 +127,13 @@ I would also include cloud systems in that conversation.
 
 I think that is the main thing students should take from all of this.
 
-The current evidence does not support a simple collapse story. Recent data suggests that software-related postings have turned upward. The trend appears in the Citadel chart, in the Indeed data surfaced through FRED, in CompTIA’s use of Lightcast data, and in Dice’s reporting on the early 2026 tech hiring market.
+The current evidence does not support a simple collapse story. Recent data suggests that software-related postings have turned upward. The Citadel chart raised the question, the FRED series shows the same Indeed trend more directly, and CompTIA and Dice provide the stronger outside support.
 
 At the same time, the market is asking for something a little different than it was asking for several years ago.
 
-Core software skills still matter. In fact, they matter a lot. But they increasingly sit alongside AI, data, cloud, and systems thinking.
+Core software skills still matter. But they increasingly sit alongside AI, data, cloud, and systems thinking.
 
-That is one reason I continue to think computer science remains a strong major. The field is changing, but it is changing in a way that makes deeper technical understanding more valuable. If software is becoming more connected to AI tools, data pipelines, cloud platforms, and language technologies, then students who understand those systems will be in a stronger position.
+That is one reason I continue to think computer science remains a strong major. The field is changing in a way that makes deeper technical understanding more valuable. If software is becoming more connected to AI tools, data pipelines, cloud platforms, and language technologies, then students who understand those systems will be in a stronger position.
 
 For students deciding whether to major in computer science, that is a useful distinction.
 
@@ -201,4 +197,3 @@ That combination looks increasingly relevant.
     An overview of the core ideas behind software systems, and why those ideas still matter in an AI-heavy environment.
   </li>
 </ul>
-
