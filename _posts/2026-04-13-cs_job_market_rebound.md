@@ -30,27 +30,21 @@ toc: false
   </figcaption>
 </figure>
 
-A chart from <a href="https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/">Citadel Securities</a> recently caught my eye.
+A chart and a quote from <a href="https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/">Citadel Securities</a> recently caught my eye.
+
+## “Job postings for software engineers are rising rapidly, up 11% YoY.” -- Citadel Securities
 
 It showed software engineer job postings turning upward at the end of 2025 and continuing to rise into 2026.
 
-That matters because the public story around computer science has leaned heavily in the other direction. For a while now, the dominant narrative has been decline: fewer jobs, shrinking opportunity, and AI sweeping away the bottom rungs of the ladder.
+I found that striking because the public story around computer science has leaned so heavily in the other direction. For a while now, the dominant narrative has been decline: fewer jobs, shrinking opportunity, and AI sweeping away the bottom rungs of the ladder.
 
-So it is worth asking a simple question.
+So I think it is worth asking a simple question.
 
 Is that graph picking up something real?
 
-I think it is.
+My view is yes.
 
 The stronger case, though, comes from whether independent sources show the same thing.
-
----
-
-## “Job postings for software engineers are rising rapidly, up 11% YoY.”
-
-That quote comes directly from the Citadel Securities article that featured the chart above.
-
----
 
 ## “Software Developer / Engineer 54,614 +4,361”
 
@@ -65,13 +59,17 @@ A stronger confirmation comes from <a href="https://lecbyo.files.cmp.optimizely.
 
 In that report, Software Developer / Engineer postings rose to 54,614 in March 2026, up 4,361 from February. Remote Software Developer / Engineer postings also increased, rising by 1,403 month over month.
 
-That matters because it is a separate data source telling a similar story.
+To me, that is where the argument starts to feel more convincing.
 
-There is more in that same report that students should notice.
+It is a separate data source telling a similar story.
+
+There is more in that same report that I think students should notice.
 
 The growth is not only about software jobs in the abstract. It is also about changing skill demand. The report shows sharp growth in AI-related hiring intent and continued demand for technical roles tied to data, cloud systems, cybersecurity, and engineering.
 
 That is a useful correction to the common claim that AI is simply wiping out computer science jobs.
+
+What the evidence suggests, at least to me, is something different.
 
 The jobs are still there. The skill mix inside them is shifting.
 
@@ -92,27 +90,27 @@ In its <a href="https://www.dice.com/recruiting/ebooks/dice-tech-job-report/">Fe
 
 That does not mean every software professional needs to become a machine learning researcher.
 
-It does mean that AI is moving from the margins toward the center of technical work.
+But it does mean AI is moving from the margins toward the center of technical work.
 
 If you are studying computer science right now, one thing to keep in mind is that AI is increasingly showing up as part of the expected toolkit. That can mean machine learning. It can mean data science. It can mean working with LLMs and natural language processing. It can also mean understanding how to build systems around AI tools rather than simply calling an API.
 
-Natural language processing deserves special attention here, because transformers and large language models sit at the center of so much current AI development.
+I would give natural language processing special attention here, because transformers and large language models sit so close to the center of current AI development.
 
 ---
 
 ## “The disruption is happening at the level of skills.”
 
-That was one of the main points in my earlier post, <a href="/is-cs-really-dead/">Is Computer Science Dead in 2026?</a>, and I think it still holds.
+That was one of the main points in my earlier post, <a href="/is-cs-really-dead/">Is Computer Science Dead in 2026?</a>, and I still think it holds up.
 
-The titles often stay familiar. Software engineer. Developer. Analyst. Data engineer.
+The job titles often stay familiar. Software engineer. Developer. Analyst. Data engineer.
 
 But the expectations inside those roles change.
 
-Students still need the foundations of computer science. They also need to be paying attention to where employers are putting new emphasis.
+That shift matters.
 
-In practical terms, that means that coursework and projects in AI, machine learning, data science, and natural language processing are becoming more valuable.
+Students still need the foundations of computer science. At the same time, they need to be paying attention to where employers are putting new emphasis.
 
-I would also include cloud systems in that conversation.
+In practical terms, I think that means coursework and projects in AI, machine learning, data science, and natural language processing are becoming more valuable.
 
 ---
 
@@ -124,15 +122,17 @@ The current evidence does not support a simple collapse story. Recent data sugge
 
 At the same time, the market is asking for something a little different than it was asking for several years ago.
 
-Core software skills still matter. But they increasingly sit alongside AI, data, cloud, and systems thinking.
+Core software skills still matter. They matter a lot. But they increasingly sit alongside AI, data, cloud, and systems thinking.
 
 That is one reason I continue to think computer science remains a strong major. If software is becoming more connected to AI tools, data pipelines, cloud platforms, and language technologies, then students who understand those systems will be in a stronger position.
 
 For students deciding whether to major in computer science, that is a useful distinction.
 
-The story is not that the field is disappearing.
+The story here is not disappearance.
 
-The story is that the field is evolving, and students should evolve with it.
+It is change.
+
+And I think students are better served when we talk about that change directly.
 
 ---
 
@@ -144,9 +144,9 @@ The market cooled. That part was real.
 
 But recent data suggests that postings have begun to rise again, and the deeper shift seems to be toward new skill combinations rather than simple job disappearance.
 
-If you are in computer science now, or considering it, my suggestion is to build the fundamentals and then add modern layers on top of them. Study algorithms, data structures, systems, and databases. In addition, spend real time with AI, machine learning, data science, and natural language processing.
+So if you are in computer science now, or considering it, my suggestion is to build the fundamentals and then add modern layers on top of them. Study algorithms, data structures, systems, and databases. In addition, spend real time with AI, machine learning, data science, and natural language processing.
 
-That combination looks increasingly relevant.
+That combination looks increasingly relevant to me.
 
 <hr>
 
