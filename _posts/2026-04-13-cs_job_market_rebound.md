@@ -80,8 +80,6 @@ The growth is not only about software jobs in the abstract. It is also about cha
 
 That is a useful correction to the common claim that AI is simply wiping out computer science jobs.
 
-The evidence looks different from that.
-
 The jobs are still there. The skill mix inside them is shifting.
 
 ---
@@ -99,11 +97,13 @@ Dice points in a similar direction.
 
 In its <a href="https://www.dice.com/recruiting/ebooks/dice-tech-job-report/">February 2026 Tech Jobs Report</a>, Dice reported that tech job postings increased 12% month over month in January 2026. The report also noted that AI skill requirements appeared in 58% of U.S. tech job postings, up from 51% the month before, and up 108% from January 2025.
 
-That does not mean every student needs to become a machine learning researcher.
+That does not mean every software professional needs to become a machine learning researcher.
 
 It does mean that AI is moving from the margins toward the center of technical work.
 
 If you are studying computer science right now, one thing to keep in mind is that AI is increasingly showing up as part of the expected toolkit. That can mean machine learning. It can mean data science. It can mean working with LLMs and natural language processing. It can also mean understanding how to build systems around AI tools rather than simply calling an API.
+
+Natural language processing deserves special attention here, because transformers and large language models sit at the center of so much current AI development.
 
 ---
 
@@ -133,7 +133,7 @@ At the same time, the market is asking for something a little different than it 
 
 Core software skills still matter. But they increasingly sit alongside AI, data, cloud, and systems thinking.
 
-That is one reason I continue to think computer science remains a strong major. The field is changing in a way that makes deeper technical understanding more valuable. If software is becoming more connected to AI tools, data pipelines, cloud platforms, and language technologies, then students who understand those systems will be in a stronger position.
+That is one reason I continue to think computer science remains a strong major. If software is becoming more connected to AI tools, data pipelines, cloud platforms, and language technologies, then students who understand those systems will be in a stronger position.
 
 For students deciding whether to major in computer science, that is a useful distinction.
 
