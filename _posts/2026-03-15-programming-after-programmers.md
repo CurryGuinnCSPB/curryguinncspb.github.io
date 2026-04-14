@@ -7,6 +7,8 @@ permalink: /programming-after-programmers/
 excerpt: "A response to the New York Times Magazine article on AI and the future of programming, and why interdisciplinary developers may matter more than ever."
 date: 2026-03-15
 last_modified_at: 2026-03-29
+og_image: /assets/images/blog/ai-coding-nyt.jpg
+og_image_alt: "Coding After Coders: The End of Computer Programming as We Know It"
 ---
 
 <img src="/assets/images/blog/ai-coding-nyt.jpg"
