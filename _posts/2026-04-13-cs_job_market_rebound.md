@@ -30,7 +30,8 @@ toc: false
   </figcaption>
 </figure>
 
-A chart from Citadel Securities recently caught my eye.
+A chart from <a href="https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/">
+    Citadel Securities </a> recently caught my eye.
 
 It showed software engineer job postings turning upward at the end of 2025 and continuing to rise into 2026.
 
@@ -45,10 +46,6 @@ Is that graph picking up something real?
 ## “Job postings for software engineers are rising rapidly, up 11% YoY.”
 
 That quote comes directly from the Citadel Securities article that featured the chart above.
-
-On its own, that would not be enough. One company citing one chart is interesting, but it is not yet a case.
-
-What makes this more persuasive is that other sources point in the same general direction.
 
 The Federal Reserve Economic Data series for software development job postings on Indeed also shows an upturn beginning near the end of 2025 and continuing into early 2026. If you look at the FRED version of the data, the climb is visible across the first months of 2026.
 
@@ -65,11 +62,7 @@ That is still part of the Indeed data family, so it should not be treated as a f
 
 ## “Software Developer / Engineer 54,614 +4,361”
 
-A stronger confirmation comes from CompTIA’s April 2026 Tech Jobs Report, which draws on Lightcast posting data.
-
-In that report, Software Developer / Engineer postings rose to 54,614 in March 2026, up 4,361 from February. Remote Software Developer / Engineer postings also increased, rising by 1,403 month over month.
-
-That matters because it is a separate data source telling a similar story. In general, when different sources with different methods begin pointing in the same direction, I pay more attention.
+A stronger confirmation comes from <a href="https://lecbyo.files.cmp.optimizely.com/download/6b6fc8e4ff4a11efbebeaeb5c39a94d9?sfvrsn=725f3c8d_0"> CompTIA’s April 2026 Tech Jobs Report</a>, which draws on Lightcast posting data.
 
 <figure>
   <img src="/assets/images/blog/comptia-tech-jobs-report-april-2026.png" alt="CompTIA April 2026 Tech Jobs Report showing software developer engineer postings rising month over month">
@@ -77,6 +70,11 @@ That matters because it is a separate data source telling a similar story. In ge
     CompTIA, using Lightcast job posting data, also shows Software Developer / Engineer postings increasing in March 2026.
   </figcaption>
 </figure>
+
+In that report, Software Developer / Engineer postings rose to 54,614 in March 2026, up 4,361 from February. Remote Software Developer / Engineer postings also increased, rising by 1,403 month over month.
+
+That matters because it is a separate data source telling a similar story. In general, when different sources with different methods begin pointing in the same direction, I pay more attention.
+
 
 There is more in that same report that students should notice.
 
@@ -101,7 +99,7 @@ The jobs are still there. The skill mix inside them is shifting.
 
 Dice points in a similar direction.
 
-In its February 2026 Tech Jobs Report, Dice reported that tech job postings increased 12% month over month in January 2026. The report also noted that AI skill requirements appeared in 58% of U.S. tech job postings, up from 51% the month before, and up 108% from January 2025.
+In its <a href="https://www.dice.com/recruiting/ebooks/dice-tech-job-report/"> February 2026 Tech Jobs Report</a>, Dice reported that tech job postings increased 12% month over month in January 2026. The report also noted that AI skill requirements appeared in 58% of U.S. tech job postings, up from 51% the month before, and up 108% from January 2025.
 
 That does not mean every student needs to become a machine learning researcher.
 
@@ -120,10 +118,6 @@ That was one of the main points in my earlier post, <a href="/is-cs-really-dead/
 The titles often stay familiar. Software engineer. Developer. Analyst. Data engineer.
 
 But the expectations inside those roles change.
-
-LinkedIn’s February 2026 report on the U.S. software engineer talent picture is especially useful here. It argues that software engineering hiring began to rebound by late 2025, while also showing that the skill profile of new hires is changing. Python, cloud platforms, SQL, React, and AI-related capabilities stand out. Fast-growing areas include artificial intelligence, Tailwind CSS, Azure Databricks, Google BigQuery, and Azure SQL.
-
-That is a pretty clear signal.
 
 Students still need the foundations of computer science. They also need to be paying attention to where employers are putting new emphasis.
 
