@@ -1,11 +1,11 @@
 ---
-title: "Computer Science Jobs in 2026: Are the Postings Turning Up Again?"
+title: "Computer Science Jobs in 2026: Are Software Engineer Job Postings Rising Again?"
 subtitle: "What recent data suggests about hiring, AI skills, and why computer science still matters."
 layout: single
 permalink: /computer-science-jobs-2026-turning-up-again/
 date: 2026-04-14
 last_modified_at: 2026-04-14
-excerpt: "A data-driven look at the recent rebound in software engineer job postings, what independent sources confirm, and why AI, machine learning, data science, and natural language processing matter more than ever."
+excerpt: "A data-driven look at whether computer science jobs are rising again in 2026, with evidence from Citadel Securities, CompTIA, and Dice, plus what AI, machine learning, and NLP mean for students."
 categories:
   - Computer Science Education
   - AI
@@ -21,6 +21,10 @@ tags:
   - CSPB
 author_profile: false
 toc: false
+header:
+  image: /assets/images/blog/citadel-software-engineer-postings-2026.png
+  og_image_alt: "Chart showing software engineer job postings rising into 2026"
+---
 ---
 
 <figure>
@@ -56,6 +60,8 @@ A stronger confirmation comes from <a href="https://lecbyo.files.cmp.optimizely.
     CompTIA, using Lightcast job posting data, shows Software Developer / Engineer postings increasing in March 2026.
   </figcaption>
 </figure>
+
+CompTIA’s April 2026 report offers independent evidence that software developer and engineer postings rose in March.
 
 In that report, Software Developer / Engineer postings rose to 54,614 in March 2026, up 4,361 from February. Remote Software Developer / Engineer postings also increased, rising by 1,403 month over month.
 
