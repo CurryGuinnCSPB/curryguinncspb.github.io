@@ -21,9 +21,8 @@ tags:
   - CSPB
 author_profile: false
 toc: false
-header:
-  image: /assets/images/blog/citadel-software-engineer-postings-2026.png
-  og_image_alt: "Chart showing software engineer job postings rising into 2026"
+og_image: /assets/images/blog/citadel-software-engineer-postings-2026.png
+og_image_alt: "Chart showing software engineer job postings rising into 2026"
 ---
 ---
 
