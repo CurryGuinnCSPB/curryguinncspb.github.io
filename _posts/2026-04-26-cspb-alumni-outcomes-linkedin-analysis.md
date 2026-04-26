@@ -3,7 +3,7 @@ title: "CU Boulder CSPB Alumni Outcomes: Where Applied Computer Science Graduate
 subtitle: "A LinkedIn-based look at roles, industries, employers, and geography for CU Boulder Applied Computer Science post-bacc graduates."
 permalink: /cu-boulder-cspb-alumni-outcomes/
 layout: single
-date: 2026-04-26
+date: 2026-04-25
 last_modified_at: 2026-04-26
 excerpt: "A LinkedIn-based analysis of CU Boulder CSPB alumni outcomes, including CS-related roles, software engineering pathways, industries, employers, and geography."
 categories:
