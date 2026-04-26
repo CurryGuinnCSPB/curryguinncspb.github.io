@@ -31,33 +31,19 @@ og_image_alt: "Donut chart showing that 92.2 percent of CU Boulder CSPB alumni w
   </figcaption>
 </figure>
 
-<div class="notice">
-  <strong>The main finding:</strong> In this LinkedIn-based review of CSPB alumni who graduated in 2025 or earlier, 153 of 166 alumni with identifiable current status were in clearly or probably CS-related roles.
-</div>
-
 One of the questions I hear most often from prospective students is also one of the most reasonable.
 
-Where do graduates of the CU Boulder Applied Computer Science Post-Baccalaureate program actually end up?
+Where do graduates of the CU Boulder Applied Computer Science Post-Baccalaureate (CSPB) program actually end up?
 
-That question feels especially important right now. The public story around computer science has been noisy for the last few years. AI is changing software work. The tech job market cooled. Entry-level hiring has felt harder than it did during the peak hiring years.
+That question feels especially important right now. AI is changing software work, the tech job market has cooled, and entry-level hiring has felt harder than it did during the peak hiring years.
 
 So I wanted to look at something concrete.
 
-<div class="notice">
-  <strong>Program context:</strong> CSPB is CU Boulder’s online post-baccalaureate B.S. in Applied Computer Science. The program is designed for students who already hold a bachelor’s degree and want to build a foundation in computer science.
-</div>
+I reviewed LinkedIn-visible outcomes for CSPB alumni who graduated in 2025 or earlier. For readers new to the acronym, CSPB is CU Boulder’s online post-baccalaureate B.S. in Applied Computer Science.
 
-I reviewed LinkedIn-visible outcomes for CSPB alumni who graduated in 2025 or earlier. This is not an official placement report. It is not a university employment survey. It is a hand-collected LinkedIn snapshot.
+This is not an official placement report. It is not a university employment survey. It is a hand-collected LinkedIn snapshot.
 
 But I do think it is useful.
-
-The dataset includes 180 graduates. I was able to find LinkedIn profiles for 177 of them. Of those, 166 had enough current LinkedIn-visible information to identify a current role, employer, or professional status.
-
-That gave me a simple question to start with.
-
-Are CSPB alumni showing up in computer science-related work?
-
-The answer, from this dataset, is yes.
 
 ---
 
@@ -76,19 +62,13 @@ Among the 166 alumni whose current LinkedIn-visible status could be identified, 
 
 That is 92.2%.
 
-I would not overstate this. LinkedIn data is imperfect. Some profiles are more current than others. Some titles are easier to classify than others. And job titles do not always tell the full story of what someone does.
+I would not overstate this. LinkedIn data is imperfect, and job titles do not always tell the full story of what someone does. But even with those caveats, the pattern is clear.
 
-But even with those caveats, the pattern is clear.
-
-CSPB alumni are not simply earning a credential and disappearing into unrelated work. Most of the identifiable outcomes in this dataset are connected to computing.
+Most identifiable CSPB alumni outcomes in this dataset are connected to computing.
 
 That includes software engineering, data and analytics, AI and machine learning, cybersecurity, cloud and systems work, technical operations, research computing, bioinformatics, QA and testing, technical leadership, consulting, founder roles, and student pathways.
 
-That last point matters.
-
 Computer science outcomes are broader than one job title.
-
-Software engineer is the most visible destination. It is not the only one.
 
 ---
 
@@ -103,25 +83,15 @@ Software engineer is the most visible destination. It is not the only one.
 
 Software engineering is the largest single pathway in the dataset.
 
-That is not surprising.
-
 Of the 166 alumni with identifiable current LinkedIn-visible status, 82 are in software engineering roles or roles close enough to software engineering to place them in that pathway.
 
 That is 49.4%.
 
-But I think the more interesting part is the other half of the chart.
+But the more interesting part is the other half of the chart.
 
 CSPB alumni also appear in systems, cloud, cybersecurity, technical operations, research, bioinformatics, education, student pathways, business, consulting, public service, technical leadership, data, AI, machine learning, and entrepreneurship.
 
-That spread matters.
-
-It suggests that the degree is not feeding only one narrow career track. Some students do move into traditional software engineering. Others use computer science as a foundation for technical roles that connect to their previous fields, their graduate study, their research interests, or their industry experience.
-
-That is especially important for a post-baccalaureate program.
-
-Many CSPB students already have a first degree. Many have prior professional experience. Some are changing careers entirely. Others are adding computing to work they already know.
-
-So the outcome pattern here makes sense.
+That spread matters because CSPB is a post-baccalaureate program. Many students already have a first degree. Some are changing careers entirely. Others are adding computing to work they already know.
 
 Software engineering is the largest destination, but the broader story is that alumni are using computer science in many different ways.
 
@@ -138,29 +108,17 @@ Software engineering is the largest destination, but the broader story is that a
 
 The largest industry sector in the dataset is technology and software.
 
-Again, that is not surprising.
-
 But it is not the majority.
 
-Technology and software accounts for 40 of the 166 identifiable outcomes, or 24.1%.
-
-That means roughly three-quarters of the identifiable alumni outcomes are outside the traditional technology and software sector.
+Technology and software accounts for 40 of the 166 identifiable outcomes, or 24.1%. That means roughly three-quarters of the identifiable alumni outcomes are outside the traditional technology and software sector.
 
 To me, that is one of the most important things in the data.
 
-Computer science is not only Big Tech.
+CSPB alumni appear in education and research, energy, transportation, manufacturing, aerospace, defense, finance, business services, retail, media, healthcare, biotechnology, consulting, government, public sector work, startups, and innovation environments.
 
-CSPB alumni appear in education and research, energy, transportation, manufacturing, aerospace, defense, finance, business services, retail, consumer products, media, healthcare, biotechnology, consulting, government, public sector work, startups, and innovation environments.
+That is a useful correction to the way people sometimes talk about computer science. When the tech industry has a difficult year, it is easy to assume that computer science itself has weakened as a path. But computing skills are not confined to technology companies.
 
-That is a useful correction to the way people sometimes talk about computer science.
-
-When the tech industry has a difficult year, it is easy to assume that computer science itself has weakened as a path. But computing skills are not confined to technology companies. They are part of finance, healthcare, aerospace, education, science, logistics, manufacturing, government, and many other parts of the economy.
-
-That is one reason I still think computer science remains a strong foundation.
-
-The job market changes. The tools change. The skills inside technical roles change.
-
-But software, data, systems, and computational thinking continue to show up across the economy.
+Software, data, systems, and computational thinking continue to show up across the economy.
 
 ---
 
@@ -179,27 +137,15 @@ The employer list in this dataset includes large technology companies, aerospace
 
 I want to be careful about how to present that.
 
-This is not a list of official hiring partners. It does not imply endorsement. It does not imply guaranteed placement. It does not mean those organizations are recruiting directly from the program.
+This is not a list of official hiring partners. It does not imply endorsement, guaranteed placement, or direct recruiting from the program.
 
 It simply means that alumni in this LinkedIn-based dataset list roles at these organizations.
 
-That is still useful.
-
-For prospective students, employer names help translate abstract categories into something more understandable. “Technology and software” is one thing. Seeing Amazon, Google, Microsoft, Salesforce, CrowdStrike, Canonical, and Workiva makes that category more concrete.
-
-The same is true outside technology.
-
-Aerospace and defense roles show up at organizations such as Lockheed Martin, Northrop Grumman, Boeing, Blue Origin, Raytheon, United Launch Alliance, and Maxar Technologies.
-
-Education, research, and healthcare roles show up at places like CU Boulder, Carnegie Mellon University, the University of Utah, Michigan Medicine, Roche, AbbVie, and Cleveland Clinic.
-
-Finance, business, and consulting roles show up at Charles Schwab, Capital One, American Express, Deloitte, RSM, Publicis Sapient, and Slalom Build.
+That is still useful. For prospective students, employer names help translate abstract categories into something more understandable.
 
 The point is not prestige for its own sake.
 
 The point is range.
-
-The alumni outcomes are not clustered in one kind of organization.
 
 ---
 
@@ -214,43 +160,29 @@ The alumni outcomes are not clustered in one kind of organization.
 
 The program has a strong Colorado footprint.
 
-That makes sense. CSPB is a CU Boulder program. Many students are in Colorado. Many alumni remain connected to the region.
-
-In this dataset, Colorado is the largest single state.
+That makes sense. CSPB is a CU Boulder program, and many students and alumni remain connected to the region.
 
 But the outcomes are not only local.
 
 Of the 166 alumni with identifiable current LinkedIn-visible status, 77 are in Colorado and 89 are outside Colorado. That means 46.4% are in Colorado and 53.6% are outside Colorado.
 
-That seems important for an online post-baccalaureate program.
-
-The Colorado connection is real. But the alumni footprint extends beyond Colorado into other states and regions.
-
-That supports the way I think about CSPB more generally. It is a CU Boulder program with a strong Colorado identity, but it also serves students who are building careers in many different places.
+That seems important for an online post-baccalaureate program. CSPB has a strong Colorado identity, but it also serves students who are building careers in many different places.
 
 ---
 
 ## “This is a LinkedIn-based snapshot, not an official placement report.”
 
-I want to be very clear about the limits of this analysis.
+I want to be clear about the limits of this analysis.
 
-This is not official university placement data.
+This is not official university placement data. It is a hand-collected LinkedIn review of CSPB alumni who graduated in 2025 or earlier.
 
-It is a hand-collected LinkedIn review of CSPB alumni who graduated in 2025 or earlier. It depends on whether alumni had LinkedIn profiles, whether those profiles were findable, and whether the profiles appeared current enough to classify.
+That means it depends on whether alumni had LinkedIn profiles, whether those profiles were findable, and whether the profiles appeared current enough to classify.
 
-There are several places where judgment was required.
-
-Job titles had to be standardized. Company names had to be cleaned. Industry sectors had to be assigned. Some roles were clearly CS-related. Others were more adjacent. Some were harder to classify from the title alone.
+There was also judgment involved. Job titles had to be standardized. Company names had to be cleaned. Industry sectors had to be assigned. Some roles were clearly CS-related. Others were more adjacent.
 
 So I would not use this dataset to make overly precise claims.
 
 But I do think it is strong enough to show a pattern.
-
-Most identifiable alumni are in clearly or probably CS-related roles. Software engineering is the largest pathway, but not the only one. Alumni are working across many industries. The employer list is varied. And the program’s alumni footprint is both Colorado-based and national.
-
-That is a useful picture.
-
-Especially right now.
 
 ---
 
@@ -258,23 +190,17 @@ Especially right now.
 
 The current conversation around computer science can be discouraging.
 
-Students hear that the market is difficult. They hear that AI is changing software work. They hear that entry-level roles are more competitive than they used to be.
+Students hear that the market is difficult, that AI is changing software work, and that entry-level roles are more competitive than they used to be.
 
 Some of that concern is justified.
 
 But the alumni data here points to a more balanced story.
 
-CSPB graduates are showing up in the workforce. More importantly, they are showing up in CS-related and CS-adjacent roles across a wide range of industries and employers.
+CSPB graduates are showing up in CS-related and CS-adjacent roles across a wide range of industries and employers.
 
-That does not mean the path is automatic.
-
-It is not.
-
-Students still need to build strong projects, learn the fundamentals, practice technical communication, prepare for interviews, and keep adapting as the field changes.
+That does not mean the path is automatic. Students still need to build strong projects, learn the fundamentals, practice technical communication, prepare for interviews, and keep adapting as the field changes.
 
 But the data does suggest that the degree is connecting to real technical outcomes.
-
-And for prospective students trying to decide whether computer science is still a worthwhile path, I think that matters.
 
 The story here is not that every graduate follows the same route.
 
