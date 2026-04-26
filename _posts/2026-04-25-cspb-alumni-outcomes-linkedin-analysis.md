@@ -21,8 +21,7 @@ tags:
 author_profile: false
 toc: false
 og_image: /assets/images/blog/cu-boulder-cspb-alumni-cs-related-roles.png
-og_image_alt:"Donut chart showing that 92.2 percent of CU Boulder CSPB alumni with identifiable LinkedIn-visible status are in clearly or probably CS-related roles"
----
+og_image_alt: "Donut chart showing that 92.2 percent of CU Boulder CSPB alumni with identifiable LinkedIn-visible status are in clearly or probably CS-related roles"
 ---
 
 <figure>
