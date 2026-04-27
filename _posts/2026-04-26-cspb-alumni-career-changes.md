@@ -238,3 +238,45 @@ CSPB is not just serving one kind of student or producing one kind of outcome.
 
 It is helping students bring prior experience into computing.
 
+<hr>
+
+<h3>Related Reading</h3>
+
+<ul>
+  <li>
+    <a href="/cu-boulder-cspb-alumni-outcomes/">
+      CU Boulder CSPB Alumni Outcomes
+    </a><br>
+    A broader LinkedIn-based look at CSPB alumni roles, industries, employers, and geography.
+  </li>
+
+  <li>
+    <a href="/career-change-computer-science/">
+      Career Change into Computer Science
+    </a><br>
+    A practical look at what it takes to move into software and build a strong foundation in the field.
+  </li>
+
+  <li>
+    <a href="/computer-science-jobs-2026-turning-up-again/">
+      Computer Science Jobs in 2026: Are Software Engineer Job Postings Rising Again?
+    </a><br>
+    A data-driven look at whether software engineering job postings are beginning to recover.
+  </li>
+
+  <li>
+    <a href="/is-cs-really-dead/">
+      Is Computer Science Dead in 2026?
+    </a><br>
+    A broader response to pessimistic narratives about computer science, AI, and the software job market.
+  </li>
+
+  <li>
+    <a href="/programming-after-programmers/">
+      Programming After Programmers
+    </a><br>
+    A discussion of AI, programming, and why systems thinking and domain knowledge still matter.
+  </li>
+</ul>
+
+
