@@ -220,6 +220,14 @@ It is not the only one.
 
 <ul>
   <li>
+
+    <a /cspb-career-changers/">
+      CU Boulder CSPB Alumni Career Changes
+    </a><br>
+    A broader LinkedIn-based look at prior degrees, previous fields, first technical roles, and career movement among CU Boulder Applied Computer Science post-bacc alumni.
+  </li>
+
+  <li>
     <a href="/computer-science-jobs-2026-turning-up-again/">
       Computer Science Jobs in 2026: Are Software Engineer Job Postings Rising Again?
     </a><br>
