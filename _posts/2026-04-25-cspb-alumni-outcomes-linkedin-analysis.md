@@ -27,7 +27,7 @@ og_image_alt: "Donut chart showing that 92.2 percent of CU Boulder CSPB alumni w
 <figure>
   <img src="/assets/images/blog/cu-boulder-cspb-alumni-linkedin-dataset-summary.png" alt="Summary strip showing 180 graduates in the dataset, 177 LinkedIn profiles found, 166 with identifiable current LinkedIn-visible status, and 153 clearly or probably CS-related outcomes">
   <figcaption>
-    A LinkedIn-based review of CSPB alumni who graduated in 2025 or earlier.
+    A LinkedIn-based review of CSPB alumni who graduated in May 2025 or earlier.
   </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ That question feels especially important right now. AI is changing software work
 
 So I wanted to look at something concrete.
 
-I reviewed LinkedIn-visible outcomes for CSPB alumni who graduated in 2025 or earlier. For readers new to the acronym, CSPB is CU Boulder’s online post-baccalaureate B.S. in Applied Computer Science.
+I reviewed LinkedIn-visible outcomes for CSPB alumni who graduated in May 2025 or earlier. For readers new to the acronym, CSPB is CU Boulder’s online post-baccalaureate B.S. in Applied Computer Science.
 
 This is not an official placement report. It is not a university employment survey. It is a hand-collected LinkedIn snapshot.
 
@@ -172,9 +172,9 @@ That seems important for an online post-baccalaureate program. CSPB has a strong
 
 ## “This is a LinkedIn-based snapshot, not an official placement report.”
 
-I want to be clear about the limits of this analysis.
+I want to be clear about 2020 limits of this analysis.
 
-This is not official university placement data. It is a hand-collected LinkedIn review of CSPB alumni who graduated in 2025 or earlier.
+This is not official university placement data. It is a hand-collected LinkedIn review of CSPB alumni who graduated in May 2025 or earlier.
 
 That means it depends on whether alumni had LinkedIn profiles, whether those profiles were findable, and whether the profiles appeared current enough to classify.
 
