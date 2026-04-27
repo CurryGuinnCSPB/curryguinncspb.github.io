@@ -45,6 +45,8 @@ This is not an official placement report. It is not a university employment surv
 
 But I do think it is useful.
 
+I also wrote a companion post focused specifically on career changers: where CSPB alumni came from before the program, how many appear to have moved into CS from another field, and what their first technical roles looked like after starting CSPB: [CSPB Career Changers](https://curryguinncspb.github.io/cspb-career-changers/).
+
 ---
 
 ## “More than 9 in 10 LinkedIn-visible CSPB alumni are in CS-related or CS-adjacent roles.”
