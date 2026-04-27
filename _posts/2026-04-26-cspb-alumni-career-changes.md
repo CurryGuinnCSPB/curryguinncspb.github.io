@@ -28,6 +28,7 @@ One of the most important questions for prospective CSPB students is not just wh
 
 It is where they started.
 
+
 CSPB is CU Boulder’s online post-baccalaureate B.S. in Applied Computer Science. Many students enter the program after already completing a first degree and spending time in another field. So the career-change question matters.
 
 Are alumni mostly people who were already in computing?
@@ -37,6 +38,8 @@ Or are many of them using CSPB to move into CS from somewhere else?
 This LinkedIn-based review is not official CU Boulder placement data. It is a hand-reviewed snapshot based on visible LinkedIn education and work-history information, so it has the usual limitations. Some profiles are incomplete. Some are out of date. Some do not give enough detail to classify confidently.
 
 But the pattern is still useful.
+
+I looked at broader CSPB alumni outcomes in a separate post, including current roles, industries, employers, and geography; this post focuses more specifically on career changers and the paths alumni took into computing: [CU Boulder CSPB Alumni Outcomes](https://curryguinncspb.github.io/cu-boulder-cspb-alumni-outcomes/).
 
 ---
 
@@ -72,7 +75,7 @@ So the cautious version is this: in this LinkedIn-based review, about 6 in 10 re
 
 One of the things I find most interesting about CSPB is that students do not arrive from one academic background.
 
-The largest prior-degree category in the standardized dataset is engineering and architecture, but that category represents only 18.3% of alumni rows. Life sciences and health sciences account for 16.1%. Business, economics, and finance account for 15.0%. Humanities and social sciences account for 13.9%.
+The largest prior-degree category in the dataset is engineering and architecture, but that category represents only 18.3% of alumni rows. Life sciences and health sciences account for 16.1%. Business, economics, and finance account for 15.0%. Humanities and social sciences account for 13.9%.
 
 So there is no single dominant prior academic path into CSPB.
 
@@ -122,22 +125,7 @@ In other words, many students seem to bring prior domain experience with them, t
 
 ---
 
-## “CSPB alumni earned prior degrees across many states and countries.”
 
-<figure>
-  <img src="/assets/images/blog/cspb-alumni-prior-degree-institution-by-state.png" alt="Map showing the geographic distribution of prior degree institutions for CSPB alumni across the United States and internationally">
-  <figcaption>
-    Prior degree institution locations are based on reviewed LinkedIn-visible education histories.
-  </figcaption>
-</figure>
-
-CSPB alumni did not all come from one place before entering the program.
-
-Colorado is the largest single source of prior-degree institutions, but the broader pattern is geographic diversity, with prior degrees spread across many U.S. states and a smaller set of international institutions.
-
-That fits the shape of the program. CSPB has a strong Colorado identity, but it also serves students with varied educational backgrounds from well beyond Colorado.
-
----
 
 ## “The first visible step into computing is often software, an internship, or an apprenticeship.”
 
@@ -210,6 +198,23 @@ This chart shows how first roles after starting CSPB connect to current roles.
 The main pattern is progression. Many alumni begin in internships, apprenticeships, or other early technical roles, then move into software engineering and other established technical paths.
 
 The first foothold in computing is often a bridge, not the endpoint.
+
+---
+
+## “CSPB alumni earned prior degrees across many states and countries.”
+
+<figure>
+  <img src="/assets/images/blog/cspb-alumni-prior-degree-institution-by-state.png" alt="Map showing the geographic distribution of prior degree institutions for CSPB alumni across the United States and internationally">
+  <figcaption>
+    Prior degree institution locations are based on reviewed LinkedIn-visible education histories.
+  </figcaption>
+</figure>
+
+CSPB alumni did not all come from one place before entering the program.
+
+Colorado is the largest single source of prior-degree institutions, but the broader pattern is geographic diversity, with prior degrees spread across many U.S. states and a smaller set of international institutions.
+
+That fits the shape of the program. CSPB has a strong Colorado identity, but it also serves students with varied educational backgrounds from well beyond Colorado.
 
 ---
 
