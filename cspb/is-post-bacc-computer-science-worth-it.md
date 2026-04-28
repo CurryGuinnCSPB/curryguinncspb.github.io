@@ -32,6 +32,10 @@ There is no single answer that works for everyone. Some people are able to trans
 A post-baccalaureate computer science program can make sense for students who already hold a bachelor’s degree in another field but want to build a serious foundation in computing. I meet students whose earlier degrees were in engineering, the sciences, business, education, and the humanities. Somewhere along the way they became interested in programming or software systems and realized that they wanted to pursue that interest more seriously.
 
 <p>
+One way to think about the value of a post-baccalaureate CS degree is to look at alumni pathways. In a LinkedIn-based review of CSPB alumni, many graduates appeared to be using the program as a bridge into CS-related roles. See [CSPB Career Changers](/cspb-career-changers/) for the career-change analysis and [CU Boulder CSPB Alumni Outcomes](/cu-boulder-cspb-alumni-outcomes/) for the broader outcomes snapshot.
+</p>
+
+<p>
 One of the things that sometimes surprises people is how much of computer science goes beyond learning a programming language. Languages change all the time. The deeper ideas tend to last much longer, which is part of why <a href="/programming-after-programmers/">AI has not reduced the importance of understanding how systems actually work</a>.
 </p>
 

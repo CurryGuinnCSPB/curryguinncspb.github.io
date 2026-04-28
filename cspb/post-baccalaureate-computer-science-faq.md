@@ -47,7 +47,15 @@ Flexibility does not mean easy. The work still requires steady effort each week.
 
 Not necessarily. In fact, the whole point of a program like this is that students are often coming from somewhere else. I have worked with students whose earlier degrees were in engineering, business, the sciences, education, and the humanities.
 
-What matters more is curiosity and persistence. You do not need to know everything on day one, but you do need to be willing to work through the fundamentals carefully.
+What matters more is curiosity and persistence. You do not need to know everything on day one, but you do need to be willing to work through the fundamentals carefully
+
+## Where do CSPB alumni work?
+
+For a LinkedIn-based snapshot of CSPB alumni roles, industries, employers, and geography, see [CU Boulder CSPB Alumni Outcomes](/cu-boulder-cspb-alumni-outcomes/).
+
+## Is CSPB a good fit for career changers?
+
+For a LinkedIn-based look at how CSPB alumni moved from prior degrees and previous fields into computing roles, see [CSPB Career Changers](/cspb-career-changers/).
 
 ## Is AI replacing software engineers?
 

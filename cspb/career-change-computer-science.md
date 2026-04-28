@@ -53,6 +53,10 @@ Another option is a structured computer science program designed for students wh
 
 Different approaches work for different people. What matters most is choosing a path that fits your goals, your schedule, and the kind of understanding you want to build over time.
 
+For a deeper look at how CSPB alumni have moved into computing roles, see our LinkedIn-based review of CSPB career changers: [CSPB Career Changers](/cspb-career-changers/).
+
+For a broader view of where CSPB alumni are working now, including roles, industries, employers, and geography, see [CU Boulder CSPB Alumni Outcomes](/cu-boulder-cspb-alumni-outcomes/).
+
 
 ➡ Learn more about the program here:  
 [CSPB Program Overview](/cspb/)
