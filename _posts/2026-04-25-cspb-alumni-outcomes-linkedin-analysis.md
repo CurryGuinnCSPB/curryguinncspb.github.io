@@ -18,6 +18,8 @@ tags:
   - software engineering
   - CS jobs
   - career change
+  - post baccalaureate
+  - post bacc
 author_profile: false
 toc: false
 og_image: /assets/images/blog/cu-boulder-cspb-alumni-cs-related-roles.png

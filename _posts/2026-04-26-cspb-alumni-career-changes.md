@@ -18,6 +18,7 @@ tags:
   - software engineering
   - internships
   - post-baccalaureate
+  - post-bacc
 author_profile: false
 toc: false
 og_image: /assets/images/blog/cspb-alumni-career-transition-breakdown.png
