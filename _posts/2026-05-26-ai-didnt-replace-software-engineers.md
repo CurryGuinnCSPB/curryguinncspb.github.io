@@ -89,8 +89,10 @@ AI is very good at producing plausible code inside a narrow context. That can be
 ## AI makes syntax cheaper. It makes judgment more valuable.
 
 > "Programming is writing code. You take an idea and translate it into syntax that the compiler accepts. Software engineering is much more. It is the work of building software that works in the real world and keeps working for years. It includes programming, but also understanding the problem, writing the requirements, designing the system, choosing the right abstractions, testing, deployment, monitoring, security, and talking with stakeholders.
+>
 >....
-> "AI tools are very good at the first part. They write code. They do not do the second part." - Simon Martinelli  
+>
+> AI tools are very good at the first part. They write code. They do not do the second part." - Simon Martinelli  
 
 There is a useful way to think about what AI coding tools are doing: they are making syntax cheaper. When code is cheaper to produce, more people can experiment, developers can move faster, students can test ideas more quickly, and teams can automate tedious work. That is real progress, and students should learn to use these tools well.
 
@@ -100,7 +102,7 @@ The harder questions move into the foreground. If AI can generate five possible 
 
 
 
-## "We are going to need tons and tons of software developers who know how to build systems, who know how to think about solving problems for customers." - Matt Garman, CEO, Amazon Web Services
+## "We are going to need tons and tons of software developers who know how to build systems, who know how to think about solving problems for customers." - Matt Garman, CEO, Amazon Web Services, May 20, 2026
 
 The future, in Matt Garman's view, is about engineers who can build systems and solve problems for customers. If your only skill is producing syntax, AI is a direct threat. If your skill is understanding systems, customers, tradeoffs, data, reliability, and architecture, AI becomes a tool inside a larger engineering process.
 
