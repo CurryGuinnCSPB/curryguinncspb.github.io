@@ -58,6 +58,8 @@ If you are exploring options such as a **second bachelor’s degree in computer 
 
 ➡ [Learn more about the CSPB program](/cspb/)
 
+➡ [Learn more about AI, Natural Language Processing and the Future of Computer Science Careers](https://online.colorado.edu/2026/05/15/ai-natural-language-processing-and-future-computer-science-careers)
+
 ### Quick links
 
 - [Teaching](/teaching/)
